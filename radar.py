@@ -5,7 +5,7 @@ from typing import Any
 
 import requests
 
-from config import RADAR_API_URL, REQUEST_TIMEOUT
+from config import RADAR_API_URL, REQUEST_HEADERS, REQUEST_TIMEOUT
 from models import Event
 
 
@@ -19,6 +19,7 @@ class RadarClient:
             params={
                 "facets[city][]": city,
             },
+            headers=REQUEST_HEADERS,
             timeout=self.timeout,
         )
         response.raise_for_status()

@@ -1,6 +1,6 @@
 import requests
 
-from config import REQUEST_TIMEOUT, WAAG_ICS_URL
+from config import REQUEST_HEADERS, REQUEST_TIMEOUT, WAAG_ICS_URL
 from ics import extract_event_blocks, parse_datetime, split_values
 from models import Event
 
@@ -15,7 +15,11 @@ class WaagClient:
         self.timeout = timeout
 
     def get_events(self) -> list[Event]:
-        response = requests.get(self.feed_url, timeout=self.timeout)
+        response = requests.get(
+            self.feed_url,
+            headers=REQUEST_HEADERS,
+            timeout=self.timeout,
+        )
         response.raise_for_status()
 
         events = []

@@ -14,6 +14,13 @@ THE_HMM_ICS_URL = "https://thehmm.nl/events-page/?ical=1"
 
 CITY = "Amsterdam"
 REQUEST_TIMEOUT = 60
+REQUEST_HEADERS = {
+    "User-Agent": (
+        "PrutsAgenda/1.0 "
+        "(https://github.com/HeleenE/pruts-agenda; personal calendar sync)"
+    ),
+    "Accept": "application/json,text/calendar,text/html;q=0.9,*/*;q=0.8",
+}
 
 MAX_EVENTS_TO_PRINT = 100
 

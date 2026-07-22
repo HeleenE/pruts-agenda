@@ -33,6 +33,20 @@ jobs:
       - name: Check Python syntax
         run: python -m py_compile *.py
 
+      - name: Check required secrets
+        env:
+          GOOGLE_CREDENTIALS_B64: ${{ secrets.GOOGLE_CREDENTIALS_B64 }}
+          GOOGLE_TOKEN_B64: ${{ secrets.GOOGLE_TOKEN_B64 }}
+        run: |
+          test -n "$GOOGLE_CREDENTIALS_B64" || {
+            echo "Missing repository secret: GOOGLE_CREDENTIALS_B64"
+            exit 1
+          }
+          test -n "$GOOGLE_TOKEN_B64" || {
+            echo "Missing repository secret: GOOGLE_TOKEN_B64"
+            exit 1
+          }
+
       - name: Sync Google Calendar
         env:
           GOOGLE_CREDENTIALS_B64: ${{ secrets.GOOGLE_CREDENTIALS_B64 }}

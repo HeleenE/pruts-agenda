@@ -6,7 +6,11 @@ from zoneinfo import ZoneInfo
 
 import requests
 
-from config import HACKERS_AND_DESIGNERS_ACTIVITIES_URL, REQUEST_TIMEOUT
+from config import (
+    HACKERS_AND_DESIGNERS_ACTIVITIES_URL,
+    REQUEST_HEADERS,
+    REQUEST_TIMEOUT,
+)
 from models import Event
 
 
@@ -23,7 +27,11 @@ class HackersAndDesignersClient:
         self.timeout = timeout
 
     def get_events(self) -> list[Event]:
-        response = requests.get(self.activities_url, timeout=self.timeout)
+        response = requests.get(
+            self.activities_url,
+            headers=REQUEST_HEADERS,
+            timeout=self.timeout,
+        )
         response.raise_for_status()
 
         events = []
@@ -66,7 +74,11 @@ class HackersAndDesignersClient:
         )
 
     def _fetch(self, url: str) -> str:
-        response = requests.get(url, timeout=self.timeout)
+        response = requests.get(
+            url,
+            headers=REQUEST_HEADERS,
+            timeout=self.timeout,
+        )
         response.raise_for_status()
         return response.text
 
