@@ -206,7 +206,7 @@ class GoogleCalendarSync:
             description_parts.append(event.description)
 
         if event.url:
-            description_parts.append(f"Radar: {event.url}")
+            description_parts.append(f"Source: {event.url}")
 
         if event.categories:
             description_parts.append(f"Categories: {', '.join(event.categories)}")
@@ -236,7 +236,7 @@ class GoogleCalendarSync:
 
         if event.url:
             body["source"] = {
-                "title": "Radar",
+                "title": "Source",
                 "url": event.url,
             }
 
