@@ -3,6 +3,8 @@
 A small project to collect hacker, maker and critical technology events in
 Amsterdam and sync them to Google Calendar.
 
+https://calendar.google.com/calendar/embed?src=5700514223feffc197c9ac100226a547a3b02716f4a52acdeeacf07313423f88%40group.calendar.google.com&ctz=Europe%2FAmsterdam
+
 Current sources:
 
 - Radar events in Amsterdam
@@ -10,7 +12,7 @@ Current sources:
 - Hackers & Designers activities
 - The Hmm iCalendar feed
 
-Made with ChatGPT and Codex.
+Built with ChatGPT and Codex.
 
 ## Setup
 
@@ -93,3 +95,8 @@ GOOGLE_CALENDAR_ID="your-calendar-id@group.calendar.google.com" python3 main.py 
 
 Synced events store a private source occurrence ID in Google Calendar, so
 reruns update existing events instead of creating duplicates.
+
+## Backlog
+
+- Make Pruts Agenda publish a generic calendar feed, such as ICS or RSS, so it
+  is not tied directly to Google Calendar.

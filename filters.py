@@ -9,6 +9,8 @@ KEEP_CATEGORIES = {
 }
 
 KEEP_VENUES = {
+    "Budapest",
+    "Chaos Amsterdam",
     "Technologia Incognita",
     "Internet Archive",
 }
@@ -17,6 +19,11 @@ KEEP_SOURCES = {
     "hackersanddesigners",
     "thehmm",
     "waag",
+}
+
+KEEP_TOPICS = {
+    "ccc",
+    "diy workshop",
 }
 
 SKIP_CATEGORIES = {
@@ -45,6 +52,8 @@ KEEP_TITLE_WORDS = {
     "creative coding",
     "artificial intelligence",
     "tech",
+    "computer",
+    "technology",
 }
 
 
@@ -65,6 +74,10 @@ def should_include(event: Event) -> bool:
 
     # Trust curated feeds that were added explicitly.
     if event.source in KEEP_SOURCES:
+        return True
+
+    # Trust specific Radar topics that are narrow enough to be useful.
+    if any(topic.lower() in KEEP_TOPICS for topic in event.topics):
         return True
 
     # Interesting categories are too broad on their own; the title still needs
