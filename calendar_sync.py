@@ -1,6 +1,7 @@
 import base64
 import json
-from datetime import datetime
+from dataclasses import dataclass
+from datetime import datetime, timezone
 from pathlib import Path
 
 from google.auth.transport.requests import Request
@@ -23,6 +24,56 @@ from models import Event
 
 SCOPES = ["https://www.googleapis.com/auth/calendar.events"]
 PRIVATE_PROPERTY_NAME = "prutsAgendaOccurrenceId"
+PRIVATE_EVENT_PROPERTY_NAME = "prutsAgendaEventId"
+
+
+@dataclass(frozen=True)
+class DeletedEvent:
+    title: str
+    start: str
+    location: str
+    source: str
+    url: str
+
+
+@dataclass(frozen=True)
+class EventChange:
+    label: str
+    before: str
+    after: str
+
+
+@dataclass(frozen=True)
+class UpdatedEvent:
+    event: Event
+    changes: list[EventChange]
+
+
+@dataclass(frozen=True)
+class SyncResult:
+    created_events: list[Event]
+    updated_events: list[UpdatedEvent]
+    deleted_events: list[DeletedEvent]
+
+    @property
+    def created(self) -> int:
+        return len(self.created_events)
+
+    @property
+    def updated(self) -> int:
+        return len(self.updated_events)
+
+    @property
+    def deleted(self) -> int:
+        return len(self.deleted_events)
+
+    @property
+    def has_changes(self) -> bool:
+        return bool(
+            self.created_events
+            or self.updated_events
+            or self.deleted_events
+        )
 
 
 class GoogleCalendarSync:
@@ -57,33 +108,41 @@ class GoogleCalendarSync:
         self,
         events: list[Event],
         delete_stale: bool = False,
-    ) -> tuple[int, int, int]:
-        created = 0
-        updated = 0
-        deleted = 0
+    ) -> SyncResult:
+        created_events = []
+        updated_events = []
+        deleted_events = []
 
         for event in events:
-            existing_event_id = self._find_existing_event_id(event)
+            existing_event = self._find_existing_event(event)
             body = self._to_calendar_event(event)
 
-            if existing_event_id:
+            if existing_event:
+                changes = self._calendar_event_changes(existing_event, body)
+                if not changes:
+                    continue
+
                 self.service.events().update(
                     calendarId=self.calendar_id,
-                    eventId=existing_event_id,
+                    eventId=existing_event["id"],
                     body=body,
                 ).execute()
-                updated += 1
+                updated_events.append(UpdatedEvent(event, changes))
             else:
                 self.service.events().insert(
                     calendarId=self.calendar_id,
                     body=body,
                 ).execute()
-                created += 1
+                created_events.append(event)
 
         if delete_stale:
-            deleted = self._delete_stale_events(events)
+            deleted_events = self._delete_stale_events(events)
 
-        return created, updated, deleted
+        return SyncResult(
+            created_events=created_events,
+            updated_events=updated_events,
+            deleted_events=deleted_events,
+        )
 
     def _load_credentials(self) -> Credentials:
         credentials = None
@@ -134,33 +193,53 @@ class GoogleCalendarSync:
 
         return base64.b64decode(value).decode("utf-8")
 
-    def _find_existing_event_id(self, event: Event) -> str | None:
+    def _find_existing_event(self, event: Event) -> dict | None:
+        existing_event = self._find_unique_event_by_private_property(
+            PRIVATE_PROPERTY_NAME,
+            event.occurrence_id,
+        )
+        if existing_event:
+            return existing_event
+
+        existing_event = self._find_unique_event_by_private_property(
+            PRIVATE_EVENT_PROPERTY_NAME,
+            event.uuid,
+        )
+        if existing_event:
+            return existing_event
+
+        return self._find_unique_event_by_private_property(
+            "radarUuid",
+            event.uuid,
+        )
+
+    def _find_unique_event_by_private_property(
+        self,
+        name: str,
+        value: str,
+    ) -> dict | None:
         try:
             result = self.service.events().list(
                 calendarId=self.calendar_id,
-                privateExtendedProperty=(
-                    f"{PRIVATE_PROPERTY_NAME}={event.occurrence_id}"
-                ),
-                maxResults=1,
+                privateExtendedProperty=f"{name}={value}",
+                maxResults=2,
                 singleEvents=False,
             ).execute()
         except HttpError as error:
             raise RuntimeError(
-                f"Could not search Google Calendar for {event.title!r}: {error}"
+                f"Could not search Google Calendar for {name}={value!r}: "
+                f"{error}"
             ) from error
 
         items = result.get("items", [])
-        if not items:
-            return None
+        return items[0] if len(items) == 1 else None
 
-        return items[0]["id"]
-
-    def _delete_stale_events(self, current_events: list[Event]) -> int:
+    def _delete_stale_events(self, current_events: list[Event]) -> list[DeletedEvent]:
         current_occurrence_ids = {
             event.occurrence_id
             for event in current_events
         }
-        deleted = 0
+        deleted_events = []
         page_token = None
 
         while True:
@@ -187,17 +266,17 @@ class GoogleCalendarSync:
                 if occurrence_id in current_occurrence_ids:
                     continue
 
+                deleted_events.append(self._to_deleted_event(calendar_event))
                 self.service.events().delete(
                     calendarId=self.calendar_id,
                     eventId=calendar_event["id"],
                 ).execute()
-                deleted += 1
 
             page_token = result.get("nextPageToken")
             if not page_token:
                 break
 
-        return deleted
+        return deleted_events
 
     def _to_calendar_event(self, event: Event) -> dict:
         description_parts = []
@@ -227,6 +306,7 @@ class GoogleCalendarSync:
             "extendedProperties": {
                 "private": {
                     PRIVATE_PROPERTY_NAME: event.occurrence_id,
+                    PRIVATE_EVENT_PROPERTY_NAME: event.uuid,
                     "radarId": event.radar_id,
                     "radarUuid": event.uuid,
                     "source": event.source,
@@ -241,3 +321,92 @@ class GoogleCalendarSync:
             }
 
         return body
+
+    @staticmethod
+    def _calendar_event_changes(existing: dict, desired: dict) -> list[EventChange]:
+        existing_values = GoogleCalendarSync._calendar_event_fingerprint(existing)
+        desired_values = GoogleCalendarSync._calendar_event_fingerprint(desired)
+        changes = []
+
+        for key, label in GoogleCalendarSync._digest_fields().items():
+            before = existing_values[key]
+            after = desired_values[key]
+
+            if before == after:
+                continue
+
+            changes.append(EventChange(label, before, after))
+
+        return changes
+
+    @staticmethod
+    def _digest_fields() -> dict[str, str]:
+        return {
+            "summary": "Title",
+            "location": "Location",
+            "description": "Description",
+            "start": "Start",
+            "end": "End",
+            "source_url": "Link",
+            "source": "Source",
+        }
+
+    @staticmethod
+    def _calendar_event_fingerprint(calendar_event: dict) -> dict[str, str]:
+        source = calendar_event.get("source") or {}
+        private_properties = (
+            calendar_event
+            .get("extendedProperties", {})
+            .get("private", {})
+        )
+
+        return {
+            "summary": calendar_event.get("summary") or "",
+            "location": calendar_event.get("location") or "",
+            "description": calendar_event.get("description") or "",
+            "start": GoogleCalendarSync._normalize_datetime(
+                (calendar_event.get("start") or {}).get("dateTime") or "",
+            ),
+            "end": GoogleCalendarSync._normalize_datetime(
+                (calendar_event.get("end") or {}).get("dateTime") or "",
+            ),
+            "source_title": source.get("title") or "",
+            "source_url": source.get("url") or "",
+            "occurrence_id": private_properties.get(PRIVATE_PROPERTY_NAME) or "",
+            "event_id": private_properties.get(PRIVATE_EVENT_PROPERTY_NAME) or "",
+            "radar_id": private_properties.get("radarId") or "",
+            "radar_uuid": private_properties.get("radarUuid") or "",
+            "source": private_properties.get("source") or "",
+        }
+
+    @staticmethod
+    def _normalize_datetime(value: str) -> str:
+        if not value:
+            return ""
+
+        try:
+            parsed = datetime.fromisoformat(value)
+        except ValueError:
+            return value
+
+        if parsed.tzinfo is None:
+            parsed = parsed.astimezone()
+
+        return parsed.astimezone(timezone.utc).isoformat()
+
+    @staticmethod
+    def _to_deleted_event(calendar_event: dict) -> DeletedEvent:
+        private_properties = (
+            calendar_event
+            .get("extendedProperties", {})
+            .get("private", {})
+        )
+        source = calendar_event.get("source") or {}
+
+        return DeletedEvent(
+            title=calendar_event.get("summary") or "Untitled event",
+            start=(calendar_event.get("start") or {}).get("dateTime") or "",
+            location=calendar_event.get("location") or "",
+            source=private_properties.get("source") or "",
+            url=source.get("url") or "",
+        )

@@ -80,6 +80,9 @@ no longer match the current filters:
 python3 main.py --sync --no-report --delete-stale
 ```
 
+Sync runs append to `SYNC_DIGEST.md` when Google Calendar events are created,
+changed or deleted. Runs with no changes leave the digest untouched.
+
 By default, sync targets this dedicated calendar:
 
 ```text

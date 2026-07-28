@@ -38,9 +38,14 @@ class HackersAndDesignersClient:
         for item in self._extract_upcoming_items(response.text):
             try:
                 events.append(self._parse_detail(item))
-            except (KeyError, TypeError, ValueError) as error:
+            except (
+                KeyError,
+                TypeError,
+                ValueError,
+                requests.RequestException,
+            ) as error:
                 print(
-                    "Skipping malformed Hackers & Designers event "
+                    "Skipping Hackers & Designers event "
                     f"({item.get('title', 'Unknown event')}): {error}"
                 )
 

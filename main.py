@@ -1,5 +1,9 @@
 import argparse
 from collections import Counter
+from collections.abc import Callable
+from sys import stderr
+
+import requests
 
 from config import CITY, MAX_EVENTS_TO_PRINT
 from filters import should_include
@@ -7,6 +11,14 @@ from hackersanddesigners import HackersAndDesignersClient
 from radar import RadarClient
 from thehmm import TheHmmClient
 from waag import WaagClient
+
+
+def get_source_events(name: str, fetch: Callable[[], list]) -> list:
+    try:
+        return fetch()
+    except requests.RequestException as error:
+        print(f"Skipping {name}: {error}", file=stderr)
+        return []
 
 
 def collect_events() -> tuple[list, Counter, Counter]:
@@ -21,10 +33,13 @@ def collect_events() -> tuple[list, Counter, Counter]:
     events = []
 
     source_events = [
-        *radar.get_events(CITY),
-        *waag.get_events(),
-        *hackers_and_designers.get_events(),
-        *the_hmm.get_events(),
+        *get_source_events("Radar", lambda: radar.get_events(CITY)),
+        *get_source_events("Waag", waag.get_events),
+        *get_source_events(
+            "Hackers & Designers",
+            hackers_and_designers.get_events,
+        ),
+        *get_source_events("The Hmm", the_hmm.get_events),
     ]
 
     for event in source_events:
@@ -100,15 +115,24 @@ def main() -> None:
 
     if args.sync:
         from calendar_sync import GoogleCalendarSync
+        from digest import append_sync_digest
 
-        created, updated, deleted = GoogleCalendarSync().sync_events(
+        result = GoogleCalendarSync().sync_events(
             events,
             delete_stale=args.delete_stale,
         )
+        digest_written = append_sync_digest(result)
+
         print(
             f"\nGoogle Calendar sync complete: "
-            f"{created} created, {updated} updated, {deleted} deleted."
+            f"{result.created} created, "
+            f"{result.updated} updated, "
+            f"{result.deleted} deleted."
         )
+        if digest_written:
+            print("Sync digest updated.")
+        else:
+            print("Sync digest unchanged.")
 
 
 if __name__ == "__main__":
