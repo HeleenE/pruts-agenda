@@ -64,20 +64,20 @@ python3 main.py
 Sync matching events to the configured Pruts Agenda calendar:
 
 ```sh
-python3 main.py --sync
+python3 main.py sync
 ```
 
-Sync without printing the report:
+Sync and keep future events that were previously synced by Pruts Agenda even if
+they no longer match the current filters:
 
 ```sh
-python3 main.py --sync --no-report
+python3 main.py sync --keep-stale
 ```
 
-Sync and remove future events that were previously synced by Pruts Agenda but
-no longer match the current filters:
+Print the report explicitly:
 
 ```sh
-python3 main.py --sync --no-report --delete-stale
+python3 main.py report
 ```
 
 Sync runs append to `SYNC_DIGEST.md` when Google Calendar events are created,
@@ -93,7 +93,7 @@ To sync to a different non-primary calendar, set `GOOGLE_CALENDAR_ID` to that
 calendar's ID:
 
 ```sh
-GOOGLE_CALENDAR_ID="your-calendar-id@group.calendar.google.com" python3 main.py --sync
+GOOGLE_CALENDAR_ID="your-calendar-id@group.calendar.google.com" python3 main.py sync
 ```
 
 Synced events store a private source occurrence ID in Google Calendar, so

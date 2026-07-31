@@ -1,13 +1,14 @@
 from datetime import datetime
 from pathlib import Path
-from zoneinfo import ZoneInfo
 
-from calendar_sync import DeletedEvent, SyncResult, UpdatedEvent
 from config import SYNC_DIGEST_FILE
+from dates import (
+    LOCAL_TIMEZONE,
+    format_local_datetime,
+    format_local_datetime_string,
+)
 from models import Event
-
-
-LOCAL_TIMEZONE = ZoneInfo("Europe/Amsterdam")
+from sync_result import DeletedEvent, SyncResult, UpdatedEvent
 
 
 def append_sync_digest(
@@ -71,7 +72,7 @@ def _append_events(lines: list[str], heading: str, events: list[Event]) -> None:
 
     for event in events:
         lines.append(f"- **{event.title}**")
-        lines.append(f"  - When: {_format_datetime(event.start)}")
+        lines.append(f"  - When: {format_local_datetime(event.start)}")
 
         if event.location:
             lines.append(f"  - Where: {event.location}")
@@ -124,7 +125,7 @@ def _append_deleted_events(
         lines.append(f"- **{event.title}**")
 
         if event.start:
-            lines.append(f"  - When: {_format_datetime_string(event.start)}")
+            lines.append(f"  - When: {format_local_datetime_string(event.start)}")
 
         if event.location:
             lines.append(f"  - Where: {event.location}")
@@ -138,22 +139,9 @@ def _append_deleted_events(
     lines.append("")
 
 
-def _format_datetime(value: datetime) -> str:
-    return value.astimezone(LOCAL_TIMEZONE).strftime("%a %d %b %Y, %H:%M")
-
-
-def _format_datetime_string(value: str) -> str:
-    try:
-        parsed = datetime.fromisoformat(value)
-    except ValueError:
-        return value
-
-    return _format_datetime(parsed)
-
-
 def _format_change(label: str, value: str) -> str:
     if label in {"Start", "End"} and value:
-        return _format_datetime_string(value)
+        return format_local_datetime_string(value)
 
     return _format_change_value(value)
 

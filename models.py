@@ -36,3 +36,7 @@ class Event:
     @property
     def occurrence_id(self) -> str:
         return f"{self.uuid}:{self.start.isoformat()}"
+
+    @property
+    def stable_id(self) -> str:
+        return self.uuid

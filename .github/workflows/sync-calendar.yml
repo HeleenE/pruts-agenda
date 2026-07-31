@@ -51,7 +51,7 @@ jobs:
         env:
           GOOGLE_CREDENTIALS_B64: ${{ secrets.GOOGLE_CREDENTIALS_B64 }}
           GOOGLE_TOKEN_B64: ${{ secrets.GOOGLE_TOKEN_B64 }}
-        run: python main.py --sync --no-report --delete-stale
+        run: python main.py sync
 
       - name: Commit sync digest
         run: |

@@ -1,6 +1,5 @@
 import base64
 import json
-from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -20,60 +19,12 @@ from config import (
     GOOGLE_TOKEN_JSON,
 )
 from models import Event
+from sync_result import DeletedEvent, EventChange, SyncResult, UpdatedEvent
 
 
 SCOPES = ["https://www.googleapis.com/auth/calendar.events"]
 PRIVATE_PROPERTY_NAME = "prutsAgendaOccurrenceId"
 PRIVATE_EVENT_PROPERTY_NAME = "prutsAgendaEventId"
-
-
-@dataclass(frozen=True)
-class DeletedEvent:
-    title: str
-    start: str
-    location: str
-    source: str
-    url: str
-
-
-@dataclass(frozen=True)
-class EventChange:
-    label: str
-    before: str
-    after: str
-
-
-@dataclass(frozen=True)
-class UpdatedEvent:
-    event: Event
-    changes: list[EventChange]
-
-
-@dataclass(frozen=True)
-class SyncResult:
-    created_events: list[Event]
-    updated_events: list[UpdatedEvent]
-    deleted_events: list[DeletedEvent]
-
-    @property
-    def created(self) -> int:
-        return len(self.created_events)
-
-    @property
-    def updated(self) -> int:
-        return len(self.updated_events)
-
-    @property
-    def deleted(self) -> int:
-        return len(self.deleted_events)
-
-    @property
-    def has_changes(self) -> bool:
-        return bool(
-            self.created_events
-            or self.updated_events
-            or self.deleted_events
-        )
 
 
 class GoogleCalendarSync:
@@ -203,14 +154,14 @@ class GoogleCalendarSync:
 
         existing_event = self._find_unique_event_by_private_property(
             PRIVATE_EVENT_PROPERTY_NAME,
-            event.uuid,
+            event.stable_id,
         )
         if existing_event:
             return existing_event
 
         return self._find_unique_event_by_private_property(
             "radarUuid",
-            event.uuid,
+            event.stable_id,
         )
 
     def _find_unique_event_by_private_property(
@@ -306,9 +257,9 @@ class GoogleCalendarSync:
             "extendedProperties": {
                 "private": {
                     PRIVATE_PROPERTY_NAME: event.occurrence_id,
-                    PRIVATE_EVENT_PROPERTY_NAME: event.uuid,
+                    PRIVATE_EVENT_PROPERTY_NAME: event.stable_id,
                     "radarId": event.radar_id,
-                    "radarUuid": event.uuid,
+                    "radarUuid": event.stable_id,
                     "source": event.source,
                 },
             },
