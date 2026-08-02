@@ -426,7 +426,6 @@ h1 {
   }
 
   .hero-copy::before {
-    right: -0.08em;
     top: -0.18em;
     display: block;
     font-size: clamp(5rem, 30vw, 8.5rem);
