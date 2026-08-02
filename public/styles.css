@@ -104,7 +104,7 @@ main,
 .hero-copy::before {
   content: "PRUTS";
   position: absolute;
-  right: -0.08em;
+  right: -0.04em;
   top: -0.27em;
   z-index: 0;
   color: var(--red);
