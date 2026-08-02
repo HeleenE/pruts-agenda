@@ -18,6 +18,7 @@ class Event:
     categories: list[str] = field(default_factory=list)
     topics: list[str] = field(default_factory=list)
     source: str = "radar"
+    all_day: bool = False
 
     @property
     def is_upcoming(self) -> bool:

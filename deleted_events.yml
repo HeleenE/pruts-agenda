@@ -1,0 +1,3 @@
+# Events listed here are fetched but excluded from the generated feed.
+# Use an event's uuid, radar_id, or occurrence_id from `python3 main.py report`.
+events: []

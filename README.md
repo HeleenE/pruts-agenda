@@ -1,9 +1,7 @@
 # Pruts Agenda
 
 A small project to collect hacker, maker and critical technology events in
-Amsterdam and sync them to Google Calendar.
-
-https://calendar.google.com/calendar/embed?src=5700514223feffc197c9ac100226a547a3b02716f4a52acdeeacf07313423f88%40group.calendar.google.com&ctz=Europe%2FAmsterdam
+Amsterdam and export them as an iCalendar feed.
 
 Current sources:
 
@@ -11,8 +9,9 @@ Current sources:
 - Waag's English iCalendar feed
 - Hackers & Designers activities
 - The Hmm iCalendar feed
+- Manually added events
 
-Built with ChatGPT and Codex.
+Built with ChatGPT and Codex. Inspired by http://offbeat.amsterdam/
 
 ## Setup
 
@@ -22,36 +21,10 @@ Install dependencies:
 python3 -m pip install -r requirements.txt
 ```
 
-Create a Google OAuth desktop client for the Calendar API, download its JSON
-file, and save it in this directory as `credentials.json`.
-
-The first sync opens a browser so you can approve access. After that, the
-refresh token is stored in `token.json`.
-
-Both files are ignored by git.
-
-For GitHub Actions, store base64-encoded versions of the OAuth JSON files as
-encrypted repository secrets instead of committing them:
-
-- `GOOGLE_CREDENTIALS_B64`: base64-encoded contents of `credentials.json`
-- `GOOGLE_TOKEN_B64`: base64-encoded contents of `token.json`
-
-On macOS, you can copy the encoded values with:
-
-```sh
-base64 -i credentials.json | pbcopy
-base64 -i token.json | pbcopy
-```
-
-Add them in GitHub under:
-
-```text
-Settings -> Secrets and variables -> Actions -> Repository secrets
-```
-
-The included workflow in `.github/workflows/sync-calendar.yml` runs daily and
-can also be started manually. It syncs the configured calendar and deletes
-future Pruts Agenda events that no longer match the current sources/filters.
+The included workflow in `.github/workflows/export-ical.yml` runs daily and
+can also be started manually. It writes the latest feed to
+`public/pruts-agenda.ics` and `public/feed.xml`, and commits them back to the
+repo when they change.
 
 ## Usage
 
@@ -61,18 +34,22 @@ Preview matching events:
 python3 main.py
 ```
 
-Sync matching events to the configured Pruts Agenda calendar:
+Write an iCalendar feed file:
 
 ```sh
-python3 main.py sync
+python3 main.py export-ics
 ```
 
-Sync and keep future events that were previously synced by Pruts Agenda even if
-they no longer match the current filters:
+Manual events live in `manual_events.yml` and are merged into the generated
+feed. For all-day multi-day events, the `end` date is exclusive: use the day
+after the final day.
 
-```sh
-python3 main.py sync --keep-stale
-```
+Events listed in `deleted_events.yml` are excluded from the generated feed.
+Waag multi-day events are also excluded by default.
+
+If any automated source cannot be fetched, `export-ics` keeps the existing
+generated feeds and digest unchanged. This avoids false deletions or re-added
+events when a source is temporarily down.
 
 Print the report explicitly:
 
@@ -80,26 +57,23 @@ Print the report explicitly:
 python3 main.py report
 ```
 
-Sync runs append to `SYNC_DIGEST.md` when Google Calendar events are created,
-changed or deleted. Runs with no changes leave the digest untouched.
+The iCalendar export writes to `public/pruts-agenda.ics`. The RSS export writes
+to `public/feed.xml`. Both files can be served from GitHub Pages.
 
-By default, sync targets this dedicated calendar:
+The public website lives in `public/index.html` and reads the generated
+`public/pruts-agenda.ics` feed.
 
-```text
-5700514223feffc197c9ac100226a547a3b02716f4a52acdeeacf07313423f88@group.calendar.google.com
-```
-
-To sync to a different non-primary calendar, set `GOOGLE_CALENDAR_ID` to that
-calendar's ID:
+Preview it locally:
 
 ```sh
-GOOGLE_CALENDAR_ID="your-calendar-id@group.calendar.google.com" python3 main.py sync
+python3 -m http.server 8000 --directory public
 ```
 
-Synced events store a private source occurrence ID in Google Calendar, so
-reruns update existing events instead of creating duplicates.
+Then open `http://localhost:8000/`.
+
+Export runs append to `SYNC_DIGEST.md` when feed events are created, changed or
+deleted. Runs with no changes leave the digest untouched.
 
 ## Backlog
 
-- Make Pruts Agenda publish a generic calendar feed, such as ICS or RSS, so it
-  is not tied directly to Google Calendar.
+- Publish `public/pruts-agenda.ics` and `public/feed.xml` from GitHub Pages.

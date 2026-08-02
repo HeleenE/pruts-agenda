@@ -25,8 +25,16 @@ def extract_event_blocks(value: str) -> list[dict[str, str]]:
             continue
 
         raw_name, raw_value = line.split(":", 1)
-        name = raw_name.split(";", 1)[0]
+        parts = raw_name.split(";")
+        name = parts[0]
         current_event[name] = decode_text(raw_value)
+
+        for part in parts[1:]:
+            if "=" not in part:
+                continue
+
+            parameter_name, parameter_value = part.split("=", 1)
+            current_event[f"{name}_{parameter_name}"] = parameter_value
 
         timezone_match = re.search(r"TZID=([^;:]+)", raw_name)
         if timezone_match:

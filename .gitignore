@@ -2,6 +2,6 @@
 __pycache__/
 *.pyc
 
-# Google OAuth local files.
+# Local secret files from older setups.
 credentials.json
 token.json

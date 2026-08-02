@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Pruts Agenda</title>
+    <meta
+      name="description"
+      content="A small public agenda for hacker, maker and critical technology events."
+    >
+    <link rel="stylesheet" href="styles.css">
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="Pruts Agenda RSS"
+      href="feed.xml"
+    >
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="topbar" aria-label="Main navigation">
+        <a class="brand" href="./">Pruts Agenda</a>
+        <div class="actions">
+          <a class="icon-link" href="pruts-agenda.ics" title="Download iCalendar feed">
+            <span aria-hidden="true">ICS</span>
+          </a>
+          <a class="icon-link" href="feed.xml" title="RSS feed">
+            <span aria-hidden="true">RSS</span>
+          </a>
+          <a class="button" id="subscribe-link" href="pruts-agenda.ics">
+            Subscribe
+          </a>
+        </div>
+      </nav>
+
+      <section class="hero" aria-labelledby="page-title">
+        <div class="hero-copy">
+          <p class="eyebrow">Amsterdam and nearby-ish</p>
+          <h1 id="page-title">Hacker, maker and critical tech events</h1>
+          <p>
+            A small hand-curated feed assembled from Radar Squad, Waag, Hackers &
+            Designers, The Hmm, and a few manual picks.
+          </p>
+          <label class="date-jump">
+            <span>Jump to</span>
+            <input id="date-jump" type="date">
+          </label>
+        </div>
+      </section>
+    </header>
+
+    <main>
+      <section class="agenda" id="agenda" aria-live="polite"></section>
+
+      <template id="event-template">
+        <article class="event">
+          <time class="event-date"></time>
+          <div class="event-body">
+            <div class="event-topline">
+              <h2></h2>
+            </div>
+            <p class="event-time"></p>
+            <p class="event-description"></p>
+            <div class="event-meta">
+              <div class="event-tags"></div>
+              <p class="event-source"></p>
+              <p class="event-location"></p>
+            </div>
+          </div>
+        </article>
+      </template>
+    </main>
+
+    <footer class="site-footer">
+      <span><a href="https://github.com/HeleenE/pruts-agenda">GitHub</a></span>
+    </footer>
+
+    <script src="site.js"></script>
+  </body>
+</html>

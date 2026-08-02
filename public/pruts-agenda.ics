@@ -1,0 +1,760 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pruts Agenda//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pruts Agenda
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VEVENT
+UID:a2d89abaf87f5927c4d6dfd1b769953024bbc06d1b5ab4782e33d32dc90ead4c@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Go (Game) Evening at Techinc
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260803T170000Z
+DTEND:20260803T170000Z
+DESCRIPTION:Just an evening to play a friendly game of go (AKA Baduk or Wie
+ qi). I will teach go (the game) and we will play. Don't expect high level 
+ play. There will also be other games in the genre available\, e.g. Chess a
+ nd Hive. The location is a shared workshop where members are free to organ
+ ize events. There are soft drinks available for sale\, but you're welcome 
+ to bring your own. If you're not a member\, you can just show up and phone
+  the number on the front door\, and someone will come down and let you in.
+  Discussion of the programming language is not encouraged\, but tolerated.
+  https://wiki.techinc.nl/Go_Evening_2026-08-03
+LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-0
+ 8-03/go-game-evening-techinc
+CATEGORIES:bar/cafe
+END:VEVENT
+BEGIN:VEVENT
+UID:6088ab48db8bbce8af065498ded7b0b26986e0ffc375ecc03ca1a2dda96b7164@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:ABC Community bike repair event
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260804T110000Z
+DTEND:20260804T160000Z
+DESCRIPTION:ABC Community bike repair event Is your bike making a weird noi
+ se? Do you just need a 15mm wrench to tighten the wheels? Or do you want t
+ o pimp your ride? ABC is hosting a community bike repair session at the Vr
+ ankrijk on the 1st and 3rd Tuesdays of the month from 13:00-18:00. This ev
+ ent is hosted by the ABC\, the Anarchist Bike Collective. We want to truly
+  build bike sharing. With the growing repression on activist and demonstra
+ tors it is crucial we build community resources and practice non-violent p
+ rovocation. Inspired by Provo's white bikes we have been fixing and distri
+ buting bikes with combination locks throughout Amsterdam. So if you want t
+ o fix your bike\, or have ideas on how to source\, maintain and utilise tr
+ ue bike sharing come by for a tea. Anarchist Bike Collective is looking fo
+ r more ppl who know something about bikes to help guide folks during our e
+ vents. We are a small non-hierarchical group of anarchists who are right n
+ ow focused on our bike repair cafe but with more people and time we can br
+ ing back our bike-sharing! We are looking for ppl who can help others repa
+ ir their bikes\, and provide some guidance for those with less experience.
+  If you know someone or are someone who would be interested\, please come 
+ to our next ABC event on Tues Nov 4 from 13:00-18:00 at the Vrankrijk. Or 
+ email us at Abikecollective@protonmail.com ⁩
+LOCATION:Vrankrijk Spuistraat 216  Amsterdam Pays-Bas
+URL:https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-08-04/abc-com
+ munity-bike-repair-event
+CATEGORIES:diy workshop
+END:VEVENT
+BEGIN:VEVENT
+UID:cd873569aa07e3de7514cbcaebf228d1d4486b9a56204fe325c8bf77f6953a68@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Hackerspace Social Evening
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260805T173000Z
+DTEND:20260805T173000Z
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
+ open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
+ visiting hackers welcome\, refugees welcome! Our phone number is listed at
+  the front door. Give it a call\, wait through the automated message\, and
+  someone should answer it and help you in.
+LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-0
+ 8-05/hackerspace-social-evening
+CATEGORIES:work space/diy
+END:VEVENT
+BEGIN:VEVENT
+UID:c7898ae506f55d320f891631aa29b40cd8f1da1a4fe8a1e78a2183600d1470f8@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Water wise
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260806T173000Z
+DTEND:20260806T193000Z
+DESCRIPTION:Is the water clean enough to swim in? Why does water sometimes 
+ turn green? Join us on 6 August to measure and observe water quality\, and
+  discover what water can tell you.
+LOCATION:Het Marineterrein\, Kattenburgerstraat 5\, 1018 JA Amsterdam
+URL:https://waag.org/en/event/water-wise
+CATEGORIES:Waag
+END:VEVENT
+BEGIN:VEVENT
+UID:8d745c888307f34e32e98d5c2bda9aba70dbad89868d27970561ec7eaf28b55f@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Hackerspace Social Evening
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260812T173000Z
+DTEND:20260812T173000Z
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
+ open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
+ visiting hackers welcome\, refugees welcome! Our phone number is listed at
+  the front door. Give it a call\, wait through the automated message\, and
+  someone should answer it and help you in.
+LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-0
+ 8-12/hackerspace-social-evening
+CATEGORIES:work space/diy
+END:VEVENT
+BEGIN:VEVENT
+UID:ec4601366ed5851a8016c99ef793b8078415832d33469bca4c664b2f1a28504c@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Chaos Amsterdam
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260813T180000Z
+DTEND:20260813T180000Z
+DESCRIPTION:A chaostreff in Amsterdam We meet every other Thursday. All cre
+ atures welcome. https://chaos.amsterdam/ Entrance is -in- the garden!
+LOCATION:Budapest Pesthuislaan  Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-08-13/c
+ haos-amsterdam
+CATEGORIES:bar/cafe\,discussion/presentation\,meeting\,ccc
+END:VEVENT
+BEGIN:VEVENT
+UID:672c2d0dede646cf2ef6244d906e1cd1a5ca06fda9df9e2e9416ba692db354fb@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:ABC Community bike repair event
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260818T110000Z
+DTEND:20260818T160000Z
+DESCRIPTION:ABC Community bike repair event Is your bike making a weird noi
+ se? Do you just need a 15mm wrench to tighten the wheels? Or do you want t
+ o pimp your ride? ABC is hosting a community bike repair session at the Vr
+ ankrijk on the 1st and 3rd Tuesdays of the month from 13:00-18:00. This ev
+ ent is hosted by the ABC\, the Anarchist Bike Collective. We want to truly
+  build bike sharing. With the growing repression on activist and demonstra
+ tors it is crucial we build community resources and practice non-violent p
+ rovocation. Inspired by Provo's white bikes we have been fixing and distri
+ buting bikes with combination locks throughout Amsterdam. So if you want t
+ o fix your bike\, or have ideas on how to source\, maintain and utilise tr
+ ue bike sharing come by for a tea. Anarchist Bike Collective is looking fo
+ r more ppl who know something about bikes to help guide folks during our e
+ vents. We are a small non-hierarchical group of anarchists who are right n
+ ow focused on our bike repair cafe but with more people and time we can br
+ ing back our bike-sharing! We are looking for ppl who can help others repa
+ ir their bikes\, and provide some guidance for those with less experience.
+  If you know someone or are someone who would be interested\, please come 
+ to our next ABC event on Tues Nov 4 from 13:00-18:00 at the Vrankrijk. Or 
+ email us at Abikecollective@protonmail.com ⁩
+LOCATION:Vrankrijk Spuistraat 216  Amsterdam Pays-Bas
+URL:https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-08-18/abc-com
+ munity-bike-repair-event
+CATEGORIES:diy workshop
+END:VEVENT
+BEGIN:VEVENT
+UID:a08731bfd4c0328ba50ceda3619113237f5ddf4b0f7af57ca8b4dc170236b2b7@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Hackerspace Social Evening
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260819T173000Z
+DTEND:20260819T173000Z
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
+ open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
+ visiting hackers welcome\, refugees welcome! Our phone number is listed at
+  the front door. Give it a call\, wait through the automated message\, and
+  someone should answer it and help you in.
+LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-0
+ 8-19/hackerspace-social-evening
+CATEGORIES:work space/diy
+END:VEVENT
+BEGIN:VEVENT
+UID:3971ccf12932fb8ae4e04f5fe597be55d8b358b99933f88840f22f96354445a0@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Securing the Market: AI\, Predicting Hazards\, and Managing Vulnera
+ bility
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+DESCRIPTION:Screens and Streams in the Age of Climate Crisis 26+27 august 2
+ 026 Vrije Universiteit Amsterdam panel 2: digital Fieke Jansen\, Universit
+ y of Amsterdam Securing the Market: AI\, Predicting Hazards\, and Managing
+  Vulnerability Michał Pabiś-Orzeszyn\, University of Lodz Intertwining S
+ copes: Assessing the Environmental Footprint of an AI-Driven Art Project H
+ unter Vaughan\, Emerson College\, Boston Sustainable Digitalisation? The S
+ ocial Threats and Environmental Costs of a Digital Screen Culture Fieke wi
+ ll present a paper titled ‘Securing the market: AI\, predicting hazards\
+ , and managing vulnerability‘. This paper is part of a research project 
+ with Iliana Depounti. https://mediaenv.ehc-amsterdam.nl/
+LOCATION:Vrije Universiteit Amsterdam
+URL:https://mediaenv.ehc-amsterdam.nl/
+CATEGORIES:Critical Infrastructure Lab
+END:VEVENT
+BEGIN:VEVENT
+UID:a0838e4d359ffd2be31e069d930431aed0f4744045744fc7966f30a5eebe52da@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Big Tech and AI Systems in Global Climate Governance
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+DESCRIPTION:Screens and Streams in the Age of Climate Crisis 26+27 august 2
+ 026 Vrije Universiteit Amsterdam panel 5: junior scholars Ischa Borger\, V
+ rije Universiteit Amsterdam Carbon Capture Capitalism: Against the Aesthet
+ ics of Profitable Post-Apocalyptics Tessa Holscher\, Utrecht University 
+ “Whatever is Capable of Breaking our Hearts is also Capable of Moving us
+  to Change”: Invoking the Eco-Eschatology of Honeyland and “From Atop 
+ A Mountain” Valentina Ochner\, Vrije Universiteit Amsterdam Big Tech and
+  AI Systems in Global Climate Governance https://mediaenv.ehc-amsterdam.nl
+ /
+LOCATION:Vrije Universiteit Amsterdam
+URL:https://mediaenv.ehc-amsterdam.nl/
+CATEGORIES:Critical Infrastructure Lab
+END:VEVENT
+BEGIN:VEVENT
+UID:092ee7830d83e7c848d64057e1036a8154563cd6e745350a3a97021ca41e6315@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Hackerspace Social Evening
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260826T173000Z
+DTEND:20260826T173000Z
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
+ open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
+ visiting hackers welcome\, refugees welcome! Our phone number is listed at
+  the front door. Give it a call\, wait through the automated message\, and
+  someone should answer it and help you in.
+LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-0
+ 8-26/hackerspace-social-evening
+CATEGORIES:work space/diy
+END:VEVENT
+BEGIN:VEVENT
+UID:914ad4175115db3b38ab6d28ce46e9edcb44d6b85af0809b0aa0ce89ed450cee@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Chaos Amsterdam
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260827T180000Z
+DTEND:20260827T180000Z
+DESCRIPTION:A chaostreff in Amsterdam We meet every other Thursday. All cre
+ atures welcome. https://chaos.amsterdam/ Entrance is -in- the garden!
+LOCATION:Budapest Pesthuislaan  Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-08-27/c
+ haos-amsterdam
+CATEGORIES:bar/cafe\,discussion/presentation\,meeting\,ccc
+END:VEVENT
+BEGIN:VEVENT
+UID:db08c31c114d0b858e22fd11fbbccba1e77dac0168f646bd2138c0680bbecc44@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:AI\, Infrastructures and Sustainability
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260901
+DESCRIPTION:Why are we rapidly expanding AI infrastructures? What is the so
+ cial and environmental impact of rapidly expanding AI infrastructures? Who
+  benefits from the AI–hype and who bears the costs? How do metaphors use
+ d to describe technology restrict our understanding of these questions? Jo
+ in us for the book launch ‘AI\, Infrastructures and Sustainability’\, 
+ an event that explores the material\, political\, and environmental realit
+ ies behind today’s AI systems. The book explores critical issues\, such 
+ as the environmental degradation\, economicconcentration\, and social just
+ ice of AI infrastructure\, areas that have often been overlooked in discus
+ sion on sustainability. The environmental impacts of data centres\, the fa
+ ctories of AI\, have been extensively documented. Despite this\, the Europ
+ ean Commission aims to triple the number of data centres operating within 
+ the EU\, relying primarily on efficiency–based measures to control envir
+ onmental harm. This “sustainability through optimization” approach fla
+ wed and does not account for AI’s supply chain of violence. So why are w
+ e deepening conflicts across the globe to build places where machines thri
+ ve? During this event\, editors Anne Mollen and Fieke Jansen\, will introd
+ uce the ideas and motivations behind ‘AI\, Infrastructure\, and sustaina
+ bility’\, reflecting on what the material nature\, political economy\, a
+ nd governance of AI reveal about its broader societal consequences. Contri
+ buting authors Anne Mollen\, Patrick Brodie\, and Gerwin van Schie will fu
+ rther explore the power structures\, environmental impact\, and knowledge 
+ implications of AI infrastructures. Speakers Anne Mollen is a postdoctoral
+  researcher at the Institute of Communication Studies at the University of
+  Münster. She conducts research on automation\, algorithms and “Artific
+ ial Intelligence“\, specifically on the sustainability of AI\, automatio
+ n and public opinion formation\, and the use of automated decision–makin
+ g systems in the workplace. Patrick Brodie is an Assistant Professor and A
+ d Astra Fellow in the School of Information and Communication Studies at U
+ niversity College Dublin. His research focuses on the political ecology of
+  digital infrastructures. He is the co–author of From the Bog to the Clo
+ ud: Dependency and Eco–Modernity in Ireland (Bristol UP\, 2025). Gerwin 
+ van Schie works as an Assistant Professor in the Media and Culture Departm
+ ent at Utrecht University\, where he investigates how plant\, soil\, flowe
+ r\, and tree metaphors are operationalised in various forms of algorithmic
+  culture\, ranging from government data systems to academic discourse on p
+ latform infrastructures. Fieke Jansen is Assistant Professor at the Media 
+ Studies department of the University of Amsterdam. She is the co-PI of the
+  critical infrastructure lab and her research focusses on how the material
+  impact of expanding infrastructures is shaping the management\, distribut
+ ion\, and depletion of natural resources. https://spui25.nl/programma/ai-i
+ nfrastructures-and-sustainability
+URL:https://spui25.nl/programma/ai-infrastructures-and-sustainability
+CATEGORIES:Critical Infrastructure Lab
+END:VEVENT
+BEGIN:VEVENT
+UID:364341753bdbb40b823418def7a70f3531361f7a2f12e68113894cc4c3e54c97@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Hackerspace Social Evening
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260902T173000Z
+DTEND:20260902T173000Z
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
+ open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
+ visiting hackers welcome\, refugees welcome! Our phone number is listed at
+  the front door. Give it a call\, wait through the automated message\, and
+  someone should answer it and help you in.
+LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-0
+ 9-02/hackerspace-social-evening
+CATEGORIES:work space/diy
+END:VEVENT
+BEGIN:VEVENT
+UID:e1712046a492d78d7e44dee429b36942378464d8f01c85f23d2f33634c679cd4@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Memory\, fantasy\, and technology
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260903T170000Z
+DTEND:20260903T190000Z
+DESCRIPTION:Join us on Thursday evening\, September 3rd\, for the first try
+  out of Green Clouds\, followed by a lecture on Sci-fi\, fantasy\, and Mar
+ xism. Try out: Green Clouds\, Remember To Forget Me Can we still be forgot
+ ten? In this immersive lecture\, Mamamess takes you on a journey exploring
+  the tension between fragile human memory and the permanence of digital da
+ ta storage. She asks: What happens to us when machines no longer forget—
+ even after we are gone? Can forgetting become an act of resistance against
+  today’s surveillance economy\, where data about us is continuously coll
+ ected\, stored\, and analysed? Set against the backdrops of a hospital wai
+ ting room\, data centres\, and outer space\, this collective experience in
+ vites us to contemplate the meaning of forgetting and to reflect on the co
+ llective right to be forgotten. Sci-fi\, Fantasy\, and Marxism Following t
+ he immersive lecture\, Jelle Klaas explores what science fiction and fanta
+ sy can teach us about capitalism\, class\, feminism\, and racism. Through 
+ images and film clips\, he examines how imagined worlds shape our politica
+ l imagination and everyday lives\, and how popular culture helps us imagin
+ e alternative futures and negotiate social change. About the event Septemb
+ er 3rd from 19.00-21.00 University Library UvA Places are limited\, please
+  register here About the speakers Nirit Peled is an independent filmmaker 
+ and writer based in the Netherlands. She weaves stories across multiple me
+ dia to examine societal structures\, both intimate and institutional. Educ
+ ated as an artist at the Rietveld Academy and a designer at the Sandberg I
+ nstitute\, she has also worked as a concept developer and script writer fo
+ r commercial agencies and public broadcasters. Jelle Klaas is a human righ
+ ts lawyer at PILP\, working on cases concerning the right to protest\, ant
+ i-discrimination\, privacy and socio-economic rights on behalf of NGOs\, c
+ ommunities and activists. With an activist and Marxist background\, he dra
+ ws inspiration from science fiction and fantasy\, genres he has followed p
+ assionately through his life as a consumer\, Dungeon Master\, player\, fan
+ \, and critical observer.
+LOCATION:University Library UvA
+URL:https://files.criticalinfralab.net/apps/forms/s/kYatXGgwwCbeWAJfjQw4gH8
+ P
+CATEGORIES:Critical Infrastructure Lab
+END:VEVENT
+BEGIN:VEVENT
+UID:0a04fbcd8d3bfefabe9f13bce6381519d296fcae9cdb8667a7a08edbaf556716@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Rerooting
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260903T173000Z
+DTEND:20260903T190000Z
+DESCRIPTION:Join us at Waag on September 3 for the Det Digit Art House show
+  & tell. Discover the works Anna Musikhina and Werner van der Zwan created
+  during their residency\, at the intersection of technology and ecology.
+LOCATION:Waag Futurelab\, Nieuwmarkt 4\, 1012CR Amsterdam
+URL:https://waag.org/en/event/rerooting
+CATEGORIES:Waag
+END:VEVENT
+BEGIN:VEVENT
+UID:6c0fe1149247379cf2916fd9439f81545cb33c32c894db665826ba02ee3c8db7@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Hackerspace Social Evening
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260909T173000Z
+DTEND:20260909T173000Z
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
+ open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
+ visiting hackers welcome\, refugees welcome! Our phone number is listed at
+  the front door. Give it a call\, wait through the automated message\, and
+  someone should answer it and help you in.
+LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-0
+ 9-09/hackerspace-social-evening
+CATEGORIES:work space/diy
+END:VEVENT
+BEGIN:VEVENT
+UID:8c6bdb4b85daad4f05fcabca8cf3ec4a2ce626bef58ca5a0728c85c1adb65777@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Chaos Amsterdam
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260910T180000Z
+DTEND:20260910T180000Z
+DESCRIPTION:A chaostreff in Amsterdam We meet every other Thursday. All cre
+ atures welcome. https://chaos.amsterdam/ Entrance is -in- the garden!
+LOCATION:Budapest Pesthuislaan  Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-09-10/c
+ haos-amsterdam
+CATEGORIES:bar/cafe\,discussion/presentation\,meeting\,ccc
+END:VEVENT
+BEGIN:VEVENT
+UID:5726ec1ff7f83a78ad0dfe6b9c96de926e09dfc75ba72cd77c5c38278fcfa7ca@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Echoes from Afar: Build your own archive
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260912T120000Z
+DTEND:20260912T140000Z
+DESCRIPTION:Over the past years we’ve seen an increase in censorship\, sh
+ adow-banning\, and blocking of accounts across large social media platform
+ s like Instagram. Many artists\, designers\, and cultural and social organ
+ isations\, rely on these platforms to connect with their communities and s
+ hare their stories and their work. But what if we can build our own archiv
+ es and websites\, and create our own networks to share our stories\, as a 
+ way to keep authorship and intention in our own hands? \n\n\nThis hybird w
+ orkshop\, led by Kexin Hong and Yiyao Wei\, opens through an introduction 
+ to Echoes from Afar\, an open-source\, living\, online archive that explor
+ es how digital infrastructures can challenge conventional forms of represe
+ ntation while opening up space for Asian diasporic communities to narrate 
+ their own stories. In its approach to storytelling\, the project seeks to 
+ safeguard the integrity of personal narratives\, to cultivate plurality an
+ d openness in how stories surface and circulate\, and to lay the groundwor
+ k for a living archive that makes space for richer\, more textured forms o
+ f visibility in the place of flattened or reductive images. \n\n\nIn the f
+ irst part of the workshop\, participants will learn about Echoes from Afar
+  and the basics of self-uploading and managing artworks on the platform\, 
+ so that participants can begin contributing their own work if they would l
+ ike to. In the second part of the workshop\, we will learn about the open-
+ source workflow behind the archive\, showing how participants can build th
+ eir own websites or archives using free and accessible tools that require 
+ no prior coding experience. Throughout this hands-on process\, the worksho
+ p will draw on AI technologies\, such as Claude\, as one of the working to
+ ols that can assist website building\, while still remaining grounded in a
+  practice of ethical care. \n\n\nNo prior coding experience is necessary a
+ nd you do not need to be of Asian heritage to join this workshop. \n\n\nTh
+ e Hmm experiments…\n\n\nThis event is part of a series of programs that 
+ we are developing with The Hmm\, where we give space in our studio for our
+  community to explore new ideas and experiment with workshops as part of o
+ ur public program. \n\n\nWhat you need to know\n\n📅 Date: Saturday 12 S
+ eptember 2026\n🕗 Times: 14.00 – 16.00 CEST\n📍 Location: The Hmm’
+ s studio\, NDSM-plein 125\, 1033 WC Amsterdam\, and online\n🎟 Tickets: 
+ €12\,50 regular\, €9\,50 students (onsite or online)\n\nAs these works
+ hops are more intimate sessions\, there is a limited supply of tickets ava
+ ilable. You can find information about physical accessibility at The Hmm
+ ’s studio here. \n\n💚 This programme is kindly supported by the Crea
+ tive Industries Fund NL
+URL:https://thehmm.nl/event/echoes-from-afar-build-your-own-archive/
+CATEGORIES:The Hmm
+END:VEVENT
+BEGIN:VEVENT
+UID:d32d591b6dc36a8ff340eab1f6471f1d4a2acfc91d1379bd8338272fa83f9875@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Hackerspace Social Evening
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260916T173000Z
+DTEND:20260916T173000Z
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
+ open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
+ visiting hackers welcome\, refugees welcome! Our phone number is listed at
+  the front door. Give it a call\, wait through the automated message\, and
+  someone should answer it and help you in.
+LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-0
+ 9-16/hackerspace-social-evening
+CATEGORIES:work space/diy
+END:VEVENT
+BEGIN:VEVENT
+UID:17ee0955d7c11542c5ba48542aec823b82e3f61c733028706f7004d7245e8d4d@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:GOGBOT 2026
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260921
+DESCRIPTION:Manufactured Minds. Festival for art\, music and technology.
+LOCATION:Enschede\, Netherlands
+URL:https://www.gogbot.nl/
+CATEGORIES:art\,technology\,festival
+END:VEVENT
+BEGIN:VEVENT
+UID:825ca28c948e3599b99ab6d7f1fc268eb0c9d4d9f8579f64b1d18852740d1181@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Hackerspace Social Evening
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260923T173000Z
+DTEND:20260923T173000Z
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
+ open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
+ visiting hackers welcome\, refugees welcome! Our phone number is listed at
+  the front door. Give it a call\, wait through the automated message\, and
+  someone should answer it and help you in.
+LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-0
+ 9-23/hackerspace-social-evening
+CATEGORIES:work space/diy
+END:VEVENT
+BEGIN:VEVENT
+UID:bd852140b31290f44ec590d7f3c50cd5dc2fa681fa13c7b8c079e3eab84a7a69@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Chaos Amsterdam
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260924T180000Z
+DTEND:20260924T180000Z
+DESCRIPTION:A chaostreff in Amsterdam We meet every other Thursday. All cre
+ atures welcome. https://chaos.amsterdam/ Entrance is -in- the garden!
+LOCATION:Budapest Pesthuislaan  Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-09-24/c
+ haos-amsterdam
+CATEGORIES:bar/cafe\,discussion/presentation\,meeting\,ccc
+END:VEVENT
+BEGIN:VEVENT
+UID:dd5b5599113184bf0c08ffe0939413c4f7a923018bca48578e4759a39d049ec1@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Ambacht in Beeld Festival
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+DESCRIPTION:Festival with workshops\, masterclasses and demonstrations by c
+ raftspeople from the Netherlands and abroad.
+LOCATION:NDSM-Loods\, NDSM-Plein 85\, 1033 WC Amsterdam
+URL:https://ambachtinbeeldfestival.nl/
+CATEGORIES:craft\,workshop\,festival
+END:VEVENT
+BEGIN:VEVENT
+UID:d7553644261a89ccb424aec6788edf5f045c02ef85104e0dbec3cea7db12904d@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Bridging the gap: digital technology as enhancement\, not replaceme
+ nt
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260927T090000Z
+DTEND:20260927T100000Z
+DESCRIPTION:How can digital technology support craftsmanship without removi
+ ng the maker from the process? In this lecture\, Aslı Aydın Aksan explor
+ es the role of digital technology within craft.
+LOCATION:NDSM Loods\, Amsterdam
+URL:https://waag.org/en/event/bridging-gap-digital-technology-enhancement-n
+ ot-replacement
+CATEGORIES:Waag
+END:VEVENT
+BEGIN:VEVENT
+UID:dd3f6de5d09d3feaa8f04d11d7910a3b712ec1e626f9acc282e21f0fc6ab9905@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Hackerspace Social Evening
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260930T173000Z
+DTEND:20260930T173000Z
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
+ open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
+ visiting hackers welcome\, refugees welcome! Our phone number is listed at
+  the front door. Give it a call\, wait through the automated message\, and
+  someone should answer it and help you in.
+LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-0
+ 9-30/hackerspace-social-evening
+CATEGORIES:work space/diy
+END:VEVENT
+BEGIN:VEVENT
+UID:397fdc2ec14395db4d547db76cccc56e758bca8a138e3d774166c147efe57fb2@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Hackerspace Social Evening
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20261007T173000Z
+DTEND:20261007T173000Z
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
+ open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
+ visiting hackers welcome\, refugees welcome! Our phone number is listed at
+  the front door. Give it a call\, wait through the automated message\, and
+  someone should answer it and help you in.
+LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-1
+ 0-07/hackerspace-social-evening
+CATEGORIES:work space/diy
+END:VEVENT
+BEGIN:VEVENT
+UID:a329f530bed3f14f6027aa8085780944e4f337ebe94bf607d6e7decdecf2c6d5@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Chaos Amsterdam
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20261008T180000Z
+DTEND:20261008T180000Z
+DESCRIPTION:A chaostreff in Amsterdam We meet every other Thursday. All cre
+ atures welcome. https://chaos.amsterdam/ Entrance is -in- the garden!
+LOCATION:Budapest Pesthuislaan  Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-10-08/c
+ haos-amsterdam
+CATEGORIES:bar/cafe\,discussion/presentation\,meeting\,ccc
+END:VEVENT
+BEGIN:VEVENT
+UID:02a4e4f87d64eca47b5549628e3e9ec8823d650ad2557293da8ab46cede648a2@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Hackerspace Social Evening
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20261014T173000Z
+DTEND:20261014T173000Z
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
+ open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
+ visiting hackers welcome\, refugees welcome! Our phone number is listed at
+  the front door. Give it a call\, wait through the automated message\, and
+  someone should answer it and help you in.
+LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-1
+ 0-14/hackerspace-social-evening
+CATEGORIES:work space/diy
+END:VEVENT
+BEGIN:VEVENT
+UID:9b84a1bc35682176bce547cb791524607d75e82ada72bfdf1242ae5da7fa081f@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Hackerspace Social Evening
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20261021T173000Z
+DTEND:20261021T173000Z
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
+ open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
+ visiting hackers welcome\, refugees welcome! Our phone number is listed at
+  the front door. Give it a call\, wait through the automated message\, and
+  someone should answer it and help you in.
+LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-1
+ 0-21/hackerspace-social-evening
+CATEGORIES:work space/diy
+END:VEVENT
+BEGIN:VEVENT
+UID:469ceee25cd96abbba8efb989796fe433c56da6d5e745156f917d91573fa1993@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:Chaos Amsterdam
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20261022T180000Z
+DTEND:20261022T180000Z
+DESCRIPTION:A chaostreff in Amsterdam We meet every other Thursday. All cre
+ atures welcome. https://chaos.amsterdam/ Entrance is -in- the garden!
+LOCATION:Budapest Pesthuislaan  Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-10-22/c
+ haos-amsterdam
+CATEGORIES:bar/cafe\,discussion/presentation\,meeting\,ccc
+END:VEVENT
+BEGIN:VEVENT
+UID:7fa32419d9094e8eda459f241a4df7383b08178f5a539ff8d45863d744b2f764@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:The Hmm @ Brainwash Festival
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20261031T180000Z
+DTEND:20261031T190000Z
+DESCRIPTION:Townhall: From doom scroll to hope core \nWe’ve all heard the
+  diagnosis. Algorithms are rotting our brains\, shortening our attention s
+ pans\, and turning us into passive consumers of an endless feed. But what 
+ does the evidence actually say? And more importantly: what do we want to d
+ o about it? \nIn the last ten years\, the chronological timeline gave way 
+ to the algorithmic feed\, and with it\, the way we think\, communicate\, a
+ nd tell stories shifted with it. We consume more content than ever\, but d
+ o we recognise what’s authentic anymore? And is there anything worth sav
+ ing in a life mediated by social media\, ChatGPT\, and an app for everythi
+ ng? \nThese are the questions we’re bringing to Brainwash Festival. As p
+ art of the “technology = god” programme strand\, we’re hosting a Tow
+ nhall that asks: when does convenience become obedience\, and who’s actu
+ ally in control? \nAbout Brainwash Festival\nBrainwash Festival is the pla
+ ce to be for thought-provoking ideas and visions of the future. At Brainwa
+ sh Festival\, philosophers\, scientists\, artists and writers come togethe
+ r to explore the big questions of our time and challenge the status quo. W
+ e bring together established figures and new voices. We celebrate thinking
+ \, doubt and your curiosity. \nBrainwash Festival 2026 takes up the theme 
+ ‘the shape of us’\, through which it explores\, from different perspec
+ tives\, what it means to live together. \nMore information about the progr
+ amme TBA. \n📅 Date: 31 October\n📍 Tolhuistuin\n🎟️ Tickets: via 
+ Brainwash \n♿ Accessibility notes\nFind more info on the Tolhuistuin web
+ site.
+URL:https://thehmm.nl/event/the-hmm-brainwash-festival/
+CATEGORIES:The Hmm
+END:VEVENT
+BEGIN:VEVENT
+UID:784b736186fce05be5e60324a2ec978823e672ca45dbe5175dfe9c2895156008@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:40th Chaos Communication Congress
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261231
+DESCRIPTION:40C3 in Hamburg.
+LOCATION:Hamburg Messe\, Messeplatz 1\, 20357 Hamburg\, Germany
+URL:https://events.ccc.de/calendar/
+CATEGORIES:hacking\,technology\,congress
+END:VEVENT
+BEGIN:VEVENT
+UID:5dcf5d3deac925e519d6abbf9507de696d5859c1717815547af8d8357dc3a98d@pruts-
+ agenda.local
+DTSTAMP:20260802T092845Z
+SUMMARY:FAB27 Oulu
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270808
+DESCRIPTION:International Fab Lab Conference in Oulu. Public sources list A
+ ugust 2027\; dates may need updating when the official programme is publis
+ hed.
+LOCATION:Oulu\, Finland
+URL:https://www.ouka.fi/en/news/oulu-gets-international-fab-lab-conference-
+ august-2027
+CATEGORIES:fab lab\,digital fabrication\,conference
+END:VEVENT
+END:VCALENDAR

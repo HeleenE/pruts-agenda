@@ -1,0 +1,54 @@
+# Manual events are merged into the generated iCalendar feed.
+# For all-day multi-day events, end is exclusive: use the day after the final day.
+events:
+  - id: gogbot-2026
+    title: GOGBOT 2026
+    start: 2026-09-17
+    end: 2026-09-21
+    all_day: true
+    location: Enschede, Netherlands
+    url: https://www.gogbot.nl/
+    description: Manufactured Minds. Festival for art, music and technology.
+    categories:
+      - art
+      - technology
+      - festival
+
+  - id: fab27-oulu-2027
+    title: FAB27 Oulu
+    start: 2027-08-01
+    end: 2027-08-08
+    all_day: true
+    location: Oulu, Finland
+    url: https://www.ouka.fi/en/news/oulu-gets-international-fab-lab-conference-august-2027
+    description: International Fab Lab Conference in Oulu. Public sources list August 2027; dates may need updating when the official programme is published.
+    categories:
+      - fab lab
+      - digital fabrication
+      - conference
+
+  - id: ccc-40c3-2026
+    title: 40th Chaos Communication Congress
+    start: 2026-12-27
+    end: 2026-12-31
+    all_day: true
+    location: Hamburg Messe, Messeplatz 1, 20357 Hamburg, Germany
+    url: https://events.ccc.de/calendar/
+    description: 40C3 in Hamburg.
+    categories:
+      - hacking
+      - technology
+      - congress
+
+  - id: ambacht-in-beeld-2026
+    title: Ambacht in Beeld Festival
+    start: 2026-09-26
+    end: 2026-09-28
+    all_day: true
+    location: NDSM-Loods, NDSM-Plein 85, 1033 WC Amsterdam
+    url: https://ambachtinbeeldfestival.nl/
+    description: Festival with workshops, masterclasses and demonstrations by craftspeople from the Netherlands and abroad.
+    categories:
+      - craft
+      - workshop
+      - festival
