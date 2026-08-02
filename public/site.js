@@ -1,7 +1,7 @@
 const agendaElement = document.querySelector("#agenda");
 const eventTemplate = document.querySelector("#event-template");
 const subscribeLink = document.querySelector("#subscribe-link");
-const dateJumpElement = document.querySelector("#date-jump");
+const dateFilterElement = document.querySelector("#date-filter");
 
 let allEvents = [];
 
@@ -44,8 +44,7 @@ async function init() {
       .sort((a, b) => a.start - b.start);
 
     if (allEvents[0]) {
-      dateJumpElement.min = toDateInputValue(allEvents[0].start);
-      dateJumpElement.value = toDateInputValue(allEvents[0].start);
+      dateFilterElement.min = toDateInputValue(allEvents[0].start);
     }
     renderAgenda();
   } catch (error) {
@@ -140,7 +139,17 @@ function renderAgenda() {
     return;
   }
 
-  agendaElement.replaceChildren(...allEvents.map(renderEvent));
+  const selectedDate = dateFilterElement.value;
+  const visibleEvents = selectedDate
+    ? allEvents.filter((event) => toDateInputValue(event.start) === selectedDate)
+    : allEvents;
+
+  if (!visibleEvents.length) {
+    agendaElement.innerHTML = '<p class="empty">No events on this date.</p>';
+    return;
+  }
+
+  agendaElement.replaceChildren(...visibleEvents.map(renderEvent));
 }
 
 function renderEvent(event, index) {
@@ -274,21 +283,6 @@ function startOfToday() {
   return new Date(now.getFullYear(), now.getMonth(), now.getDate());
 }
 
-function jumpToDate(value) {
-  if (!value || !allEvents.length) {
-    return;
-  }
-
-  const index = allEvents.findIndex((event) => {
-    return toDateInputValue(event.start) >= value;
-  });
-  const targetIndex = index === -1 ? allEvents.length - 1 : index;
-  document.querySelector(`#event-${targetIndex}`)?.scrollIntoView({
-    behavior: "smooth",
-    block: "start",
-  });
-}
-
 function toDateInputValue(date) {
   const year = date.getFullYear();
   const month = String(date.getMonth() + 1).padStart(2, "0");
@@ -321,8 +315,8 @@ function escapeHtml(value) {
 
 init();
 
-dateJumpElement.addEventListener("change", () => {
-  jumpToDate(dateJumpElement.value);
+dateFilterElement.addEventListener("change", () => {
+  renderAgenda();
 });
 
 if (location.protocol.startsWith("http")) {
