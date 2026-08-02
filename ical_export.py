@@ -49,16 +49,10 @@ def _event_lines(event: Event, timestamp: str) -> list[str]:
         "TRANSP:OPAQUE",
     ]
 
-    if event.all_day:
-        lines.extend([
-            format_event_start(event),
-            format_event_end(event),
-        ])
-    else:
-        lines.extend([
-            format_event_start(event),
-            format_event_end(event),
-        ])
+    lines.extend([
+        format_event_start(event),
+        format_event_end(event),
+    ])
 
     if event.description:
         lines.append(_property("DESCRIPTION", event.description))

@@ -28,6 +28,7 @@ def extract_event_blocks(value: str) -> list[dict[str, str]]:
         parts = raw_name.split(";")
         name = parts[0]
         current_event[name] = decode_text(raw_value)
+        current_event[f"{name}_RAW"] = line
 
         for part in parts[1:]:
             if "=" not in part:

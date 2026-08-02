@@ -4,6 +4,7 @@ from pathlib import Path
 
 from config import ICAL_OUTPUT_FILE, SYNC_DIGEST_FILE
 from dates import LOCAL_TIMEZONE, format_local_datetime
+from ics import extract_event_blocks
 from ical_export import format_event_end, format_event_start
 from models import Event
 
@@ -34,11 +35,6 @@ class FeedDigest:
     changed: list[FeedChange]
     failed_sources: list[str]
 
-    @property
-    def has_changes(self) -> bool:
-        return bool(self.added or self.removed or self.changed)
-
-
 def build_feed_digest(
     old_feed: str,
     new_events: list[Event],
@@ -62,11 +58,14 @@ def build_feed_digest(
             for uid, event in old_events.items()
             if uid not in new_events_by_uid
         ]
-    changed = [
-        _event_change(old_events[uid], event)
-        for uid, event in new_events_by_uid.items()
-        if uid in old_events and _event_change(old_events[uid], event)
-    ]
+    changed = []
+    for uid, event in new_events_by_uid.items():
+        if uid not in old_events:
+            continue
+
+        change = _event_change(old_events[uid], event)
+        if change:
+            changed.append(change)
 
     return FeedDigest(
         added=sorted(added, key=lambda event: event.sort_key),
@@ -170,59 +169,21 @@ def _append_failed_sources(lines: list[str], failed_sources: list[str]) -> None:
 
 def _parse_feed_events(feed: str) -> dict[str, FeedEvent]:
     events = {}
-    for block in _event_blocks(feed):
+    for block in extract_event_blocks(feed):
         event = FeedEvent(
             uid=block.get("UID", ""),
             title=block.get("SUMMARY", ""),
             start=block.get("DTSTART", ""),
             end=block.get("DTEND", ""),
-            compare_start=block.get("DTSTART_COMPARE", ""),
-            compare_end=block.get("DTEND_COMPARE", ""),
-            sort_key=_sort_key_from_ical_start(block.get("DTSTART_COMPARE", "")),
+            compare_start=block.get("DTSTART_RAW", ""),
+            compare_end=block.get("DTEND_RAW", ""),
+            sort_key=_sort_key_from_ical_start(block.get("DTSTART_RAW", "")),
             location=block.get("LOCATION", ""),
             url=block.get("URL", ""),
         )
         if event.uid:
             events[event.uid] = event
     return events
-
-
-def _event_blocks(feed: str) -> list[dict[str, str]]:
-    blocks = []
-    current: dict[str, str] | None = None
-
-    for line in _unfold_lines(feed):
-        if line == "BEGIN:VEVENT":
-            current = {}
-            continue
-
-        if line == "END:VEVENT":
-            if current is not None:
-                blocks.append(current)
-            current = None
-            continue
-
-        if current is None or ":" not in line:
-            continue
-
-        name, value = line.split(":", 1)
-        property_name = name.split(";", 1)[0]
-        current[property_name] = _unescape_text(value)
-        if property_name in {"DTSTART", "DTEND"}:
-            current[f"{property_name}_COMPARE"] = line
-
-    return blocks
-
-
-def _unfold_lines(feed: str) -> list[str]:
-    unfolded = []
-    for line in feed.splitlines():
-        if line.startswith((" ", "\t")) and unfolded:
-            unfolded[-1] += line[1:]
-        else:
-            unfolded.append(line.rstrip("\r"))
-    return unfolded
-
 
 def _event_uid(event: Event) -> str:
     from ical_export import _uid_hash
@@ -272,13 +233,3 @@ def _sort_key_from_ical_start(value: str) -> str:
     if "T" in raw_value:
         return raw_value
     return f"{raw_value}T000000"
-
-
-def _unescape_text(value: str) -> str:
-    return (
-        value.replace(r"\n", "\n")
-        .replace(r"\N", "\n")
-        .replace(r"\,", ",")
-        .replace(r"\;", ";")
-        .replace(r"\\", "\\")
-    )
