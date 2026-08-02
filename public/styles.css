@@ -91,17 +91,11 @@ main,
 
 .hero {
   padding: 10px 0 16px;
-}
-
-.hero-copy {
   position: relative;
-  min-height: 260px;
-  padding: 14px 0 20px;
   overflow: hidden;
-  border-bottom: 4px solid var(--red);
 }
 
-.hero-copy::before {
+.hero::before {
   content: "PRUTS";
   position: absolute;
   right: -0.04em;
@@ -113,6 +107,15 @@ main,
   line-height: 0.8;
   letter-spacing: 0;
   text-transform: uppercase;
+}
+
+.hero-copy {
+  position: relative;
+  min-height: 260px;
+  padding: 14px 0 20px;
+  overflow: hidden;
+  border-bottom: 4px solid var(--red);
+  width: 80%;
 }
 
 .eyebrow,
@@ -141,7 +144,7 @@ h1 {
   text-transform: uppercase;
 }
 
-.hero-copy p:last-child {
+.hero > p:last-child {
   max-width: 520px;
   margin: 14px 0 0;
   padding-bottom: 56px;
@@ -420,15 +423,17 @@ h1 {
     border-right: 0;
   }
 
-  .hero-copy {
-    min-height: auto;
-    padding-bottom: 0;
-  }
-
-  .hero-copy::before {
+  .hero::before {
     top: -0.18em;
     display: block;
     font-size: clamp(5rem, 30vw, 8.5rem);
+  }
+
+  .hero-copy {
+    min-height: auto;
+    padding-bottom: 0;
+    width: 100%;
+    border-bottom: none;
   }
 
   .hero-copy p:last-child {
