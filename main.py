@@ -53,7 +53,10 @@ def main() -> None:
         collection = collect_events()
         if collection.failed_sources:
             print(f"Failed sources: {', '.join(collection.failed_sources)}")
-            print("Keeping existing generated feeds and sync digest unchanged.")
+            print("Keeping existing generated feeds unchanged.")
+            digest = build_feed_digest(old_feed, [], collection.failed_sources)
+            if append_feed_digest(digest):
+                print("Sync digest updated.")
             return
 
         digest = build_feed_digest(old_feed, collection.events)

@@ -80,9 +80,6 @@ def append_feed_digest(
     digest: FeedDigest,
     digest_file: str = SYNC_DIGEST_FILE,
 ) -> bool:
-    if not digest.has_changes:
-        return False
-
     path = Path(digest_file)
     needs_heading = not path.exists() or path.stat().st_size == 0
     lines = []
@@ -114,8 +111,8 @@ def append_feed_digest(
     else:
         existing = path.read_text(encoding="utf-8").rstrip()
         heading = "# Pruts Agenda Sync Digest"
-        if existing.startswith(heading):
-            rest = existing[len(heading):].strip()
+        if existing.splitlines()[0] == heading:
+            rest = "\n".join(existing.splitlines()[1:]).strip()
             contents = f"{heading}\n\n{entry}"
             if rest:
                 contents = f"{contents}\n\n{rest}"

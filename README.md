@@ -6,9 +6,10 @@ Amsterdam and export them as an iCalendar feed.
 Current sources:
 
 - Radar events in Amsterdam
-- Waag's English iCalendar feed
+- Waag's English feed
 - Hackers & Designers activities
-- The Hmm iCalendar feed
+- The Hmm feed
+- Critical Infrastructure Lab
 - Manually added events
 
 Built with ChatGPT and Codex. Inspired by http://offbeat.amsterdam/
@@ -48,8 +49,8 @@ Events listed in `deleted_events.yml` are excluded from the generated feed.
 Waag multi-day events are also excluded by default.
 
 If any automated source cannot be fetched, `export-ics` keeps the existing
-generated feeds and digest unchanged. This avoids false deletions or re-added
-events when a source is temporarily down.
+generated feeds unchanged and records the failed source in the digest. This
+avoids false deletions or re-added events when a source is temporarily down.
 
 Print the report explicitly:
 
@@ -71,8 +72,8 @@ python3 -m http.server 8000 --directory public
 
 Then open `http://localhost:8000/`.
 
-Export runs append to `SYNC_DIGEST.md` when feed events are created, changed or
-deleted. Runs with no changes leave the digest untouched.
+Every export run appends to `SYNC_DIGEST.md`, including runs with no event
+changes.
 
 ## Backlog
 
