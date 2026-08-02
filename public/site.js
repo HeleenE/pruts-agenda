@@ -183,31 +183,29 @@ function renderEvent(event, index) {
 
   const tags = displayTags(event);
   const tagsElement = node.querySelector(".event-tags");
-  tagsElement.hidden = !tags.length;
+  tagsElement.hidden = !tags.length && event.source === "Manual";
   tagsElement.replaceChildren(
-    ...tags.map((tag) => element("span", tag, "tag"))
+    ...tags.map((tag) => element("span", tag, "tag")),
+    ...(event.source === "Manual" ? [] : [element("span", event.source, "event-source")])
   );
 
-  const source = node.querySelector(".event-source");
-  source.textContent = event.source;
-  source.hidden = event.source === "Manual";
+  node.querySelector(".event-source[hidden]")?.remove();
 
   return node;
 }
 
 function eventSource(categories, url) {
-  const knownSources = [
-    "Waag",
-    "The Hmm",
-    "Hackers & Designers",
-    "Radar",
-    "Critical Infrastructure Lab",
-  ];
-  const categorySource = categories.find((category) => {
-    return knownSources.includes(category);
-  });
+  const sourceLabels = {
+    Waag: "Waag",
+    "The Hmm": "The Hmm",
+    "Hackers & Designers": "Hackers & Designers",
+    Radar: "Radar Squad",
+    "Radar Squad": "Radar Squad",
+    "Critical Infrastructure Lab": "Critical Infrastructure Lab",
+  };
+  const categorySource = categories.find((category) => category in sourceLabels);
   if (categorySource) {
-    return categorySource;
+    return sourceLabels[categorySource];
   }
 
   if (url.includes("thehmm.nl")) {
@@ -220,7 +218,7 @@ function eventSource(categories, url) {
     return "Hackers & Designers";
   }
   if (url.includes("radar.squat.net")) {
-    return "Radar";
+    return "Radar Squad";
   }
   if (url.includes("criticalinfralab.net")) {
     return "Critical Infrastructure Lab";
