@@ -366,6 +366,9 @@ h1 {
 .site-footer {
   padding: 14px 0;
   border-top: 4px solid var(--red);
+}
+
+.site-footer a {
   font-weight: 800;
 }
 
@@ -377,6 +380,7 @@ h1 {
 
 .site-footer {
   margin-bottom: 16px;
+  text-align: right;
 }
 
 @media (max-width: 980px) {
