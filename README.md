@@ -74,7 +74,3 @@ Then open `http://localhost:8000/`.
 
 Every export run appends to `SYNC_DIGEST.md`, including runs with no event
 changes.
-
-## Backlog
-
-- Publish `public/pruts-agenda.ics` and `public/feed.xml` from GitHub Pages.
