@@ -25,7 +25,7 @@ python3 -m pip install -r requirements.txt
 The included workflow in `.github/workflows/export-ical.yml` runs daily and
 can also be started manually. It writes the latest feed to
 `public/pruts-agenda.ics` and `public/feed.xml`, and commits them back to the
-repo when they change.
+repo when they change. It also deploys the `public/` directory to GitHub Pages.
 
 ## Usage
 
