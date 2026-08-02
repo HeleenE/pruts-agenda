@@ -438,7 +438,7 @@ h1 {
 
   .date-jump {
     position: static;
-    margin-top: 14px;
+    margin: 14px 0 18px auto;
     width: max-content;
     max-width: 100%;
   }
