@@ -6,65 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pruts Agenda
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
-UID:a2d89abaf87f5927c4d6dfd1b769953024bbc06d1b5ab4782e33d32dc90ead4c@pruts-
- agenda.local
-DTSTAMP:20260803T105310Z
-SUMMARY:Go (Game) Evening at Techinc
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART:20260803T170000Z
-DTEND:20260803T170000Z
-DESCRIPTION:Just an evening to play a friendly game of go (AKA Baduk or Wie
- qi). I will teach go (the game) and we will play. Don't expect high level 
- play. There will also be other games in the genre available\, e.g. Chess a
- nd Hive. The location is a shared workshop where members are free to organ
- ize events. There are soft drinks available for sale\, but you're welcome 
- to bring your own. If you're not a member\, you can just show up and phone
-  the number on the front door\, and someone will come down and let you in.
-  Discussion of the programming language is not encouraged\, but tolerated.
-  https://wiki.techinc.nl/Go_Evening_2026-08-03
-LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
-URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-0
- 8-03/go-game-evening-techinc
-CATEGORIES:bar/cafe
-END:VEVENT
-BEGIN:VEVENT
-UID:6088ab48db8bbce8af065498ded7b0b26986e0ffc375ecc03ca1a2dda96b7164@pruts-
- agenda.local
-DTSTAMP:20260803T105310Z
-SUMMARY:ABC Community bike repair event
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART:20260804T110000Z
-DTEND:20260804T160000Z
-DESCRIPTION:ABC Community bike repair event Is your bike making a weird noi
- se? Do you just need a 15mm wrench to tighten the wheels? Or do you want t
- o pimp your ride? ABC is hosting a community bike repair session at the Vr
- ankrijk on the 1st and 3rd Tuesdays of the month from 13:00-18:00. This ev
- ent is hosted by the ABC\, the Anarchist Bike Collective. We want to truly
-  build bike sharing. With the growing repression on activist and demonstra
- tors it is crucial we build community resources and practice non-violent p
- rovocation. Inspired by Provo's white bikes we have been fixing and distri
- buting bikes with combination locks throughout Amsterdam. So if you want t
- o fix your bike\, or have ideas on how to source\, maintain and utilise tr
- ue bike sharing come by for a tea. Anarchist Bike Collective is looking fo
- r more ppl who know something about bikes to help guide folks during our e
- vents. We are a small non-hierarchical group of anarchists who are right n
- ow focused on our bike repair cafe but with more people and time we can br
- ing back our bike-sharing! We are looking for ppl who can help others repa
- ir their bikes\, and provide some guidance for those with less experience.
-  If you know someone or are someone who would be interested\, please come 
- to our next ABC event on Tues Nov 4 from 13:00-18:00 at the Vrankrijk. Or 
- email us at Abikecollective@protonmail.com ⁩
-LOCATION:Vrankrijk Spuistraat 216  Amsterdam Pays-Bas
-URL:https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-08-04/abc-com
- munity-bike-repair-event
-CATEGORIES:diy workshop
-END:VEVENT
-BEGIN:VEVENT
 UID:cd873569aa07e3de7514cbcaebf228d1d4486b9a56204fe325c8bf77f6953a68@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -83,7 +27,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c7898ae506f55d320f891631aa29b40cd8f1da1a4fe8a1e78a2183600d1470f8@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Water wise
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -99,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8d745c888307f34e32e98d5c2bda9aba70dbad89868d27970561ec7eaf28b55f@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -118,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ec4601366ed5851a8016c99ef793b8078415832d33469bca4c664b2f1a28504c@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -132,42 +76,9 @@ URL:https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-08-13/c
 CATEGORIES:bar/cafe\,discussion/presentation\,meeting\,ccc
 END:VEVENT
 BEGIN:VEVENT
-UID:672c2d0dede646cf2ef6244d906e1cd1a5ca06fda9df9e2e9416ba692db354fb@pruts-
- agenda.local
-DTSTAMP:20260803T105310Z
-SUMMARY:ABC Community bike repair event
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART:20260818T110000Z
-DTEND:20260818T160000Z
-DESCRIPTION:ABC Community bike repair event Is your bike making a weird noi
- se? Do you just need a 15mm wrench to tighten the wheels? Or do you want t
- o pimp your ride? ABC is hosting a community bike repair session at the Vr
- ankrijk on the 1st and 3rd Tuesdays of the month from 13:00-18:00. This ev
- ent is hosted by the ABC\, the Anarchist Bike Collective. We want to truly
-  build bike sharing. With the growing repression on activist and demonstra
- tors it is crucial we build community resources and practice non-violent p
- rovocation. Inspired by Provo's white bikes we have been fixing and distri
- buting bikes with combination locks throughout Amsterdam. So if you want t
- o fix your bike\, or have ideas on how to source\, maintain and utilise tr
- ue bike sharing come by for a tea. Anarchist Bike Collective is looking fo
- r more ppl who know something about bikes to help guide folks during our e
- vents. We are a small non-hierarchical group of anarchists who are right n
- ow focused on our bike repair cafe but with more people and time we can br
- ing back our bike-sharing! We are looking for ppl who can help others repa
- ir their bikes\, and provide some guidance for those with less experience.
-  If you know someone or are someone who would be interested\, please come 
- to our next ABC event on Tues Nov 4 from 13:00-18:00 at the Vrankrijk. Or 
- email us at Abikecollective@protonmail.com ⁩
-LOCATION:Vrankrijk Spuistraat 216  Amsterdam Pays-Bas
-URL:https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-08-18/abc-com
- munity-bike-repair-event
-CATEGORIES:diy workshop
-END:VEVENT
-BEGIN:VEVENT
 UID:a08731bfd4c0328ba50ceda3619113237f5ddf4b0f7af57ca8b4dc170236b2b7@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -186,7 +97,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3971ccf12932fb8ae4e04f5fe597be55d8b358b99933f88840f22f96354445a0@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Securing the Market: AI\, Predicting Hazards\, and Managing Vulnera
  bility
 STATUS:CONFIRMED
@@ -210,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a0838e4d359ffd2be31e069d930431aed0f4744045744fc7966f30a5eebe52da@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Big Tech and AI Systems in Global Climate Governance
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -232,7 +143,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:092ee7830d83e7c848d64057e1036a8154563cd6e745350a3a97021ca41e6315@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -251,7 +162,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:914ad4175115db3b38ab6d28ce46e9edcb44d6b85af0809b0aa0ce89ed450cee@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -267,7 +178,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:db08c31c114d0b858e22fd11fbbccba1e77dac0168f646bd2138c0680bbecc44@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:AI\, Infrastructures and Sustainability
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -321,7 +232,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:364341753bdbb40b823418def7a70f3531361f7a2f12e68113894cc4c3e54c97@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -340,7 +251,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e1712046a492d78d7e44dee429b36942378464d8f01c85f23d2f33634c679cd4@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Memory\, fantasy\, and technology
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -384,7 +295,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0a04fbcd8d3bfefabe9f13bce6381519d296fcae9cdb8667a7a08edbaf556716@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Rerooting
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -400,7 +311,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6c0fe1149247379cf2916fd9439f81545cb33c32c894db665826ba02ee3c8db7@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -419,7 +330,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8c6bdb4b85daad4f05fcabca8cf3ec4a2ce626bef58ca5a0728c85c1adb65777@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -435,7 +346,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5726ec1ff7f83a78ad0dfe6b9c96de926e09dfc75ba72cd77c5c38278fcfa7ca@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Echoes from Afar: Build your own archive
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -447,33 +358,33 @@ DESCRIPTION:Over the past years we’ve seen an increase in censorship\, sh
  isations\, rely on these platforms to connect with their communities and s
  hare their stories and their work. But what if we can build our own archiv
  es and websites\, and create our own networks to share our stories\, as a 
- way to keep authorship and intention in our own hands? \n\n\nThis hybird w
- orkshop\, led by Kexin Hong and Yiyao Wei\, opens through an introduction 
- to Echoes from Afar\, an open-source\, living\, online archive that explor
- es how digital infrastructures can challenge conventional forms of represe
- ntation while opening up space for Asian diasporic communities to narrate 
- their own stories. In its approach to storytelling\, the project seeks to 
- safeguard the integrity of personal narratives\, to cultivate plurality an
- d openness in how stories surface and circulate\, and to lay the groundwor
- k for a living archive that makes space for richer\, more textured forms o
- f visibility in the place of flattened or reductive images. \n\n\nIn the f
- irst part of the workshop\, participants will learn about Echoes from Afar
-  and the basics of self-uploading and managing artworks on the platform\, 
- so that participants can begin contributing their own work if they would l
- ike to. In the second part of the workshop\, we will learn about the open-
- source workflow behind the archive\, showing how participants can build th
- eir own websites or archives using free and accessible tools that require 
- no prior coding experience. Throughout this hands-on process\, the worksho
- p will draw on AI technologies\, such as Claude\, as one of the working to
- ols that can assist website building\, while still remaining grounded in a
-  practice of ethical care. \n\n\nNo prior coding experience is necessary a
- nd you do not need to be of Asian heritage to join this workshop. \n\n\nTh
- e Hmm experiments…\n\n\nThis event is part of a series of programs that 
- we are developing with The Hmm\, where we give space in our studio for our
-  community to explore new ideas and experiment with workshops as part of o
- ur public program. \n\n\nWhat you need to know\n\n📅 Date: Saturday 12 S
- eptember 2026\n🕗 Times: 14.00 – 16.00 CEST\n📍 Location: The Hmm’
- s studio\, NDSM-plein 125\, 1033 WC Amsterdam\, and online\n🎟 Tickets: 
+ way to keep authorship and intention in our own hands? \n\n\nThis hybrid w
+ orkshop\, led by Kexin Hong and Yiyao Wei\, begins with an introduction to
+  Echoes from Afar\, an open-source\, living\, online archive that explores
+  how digital infrastructures can challenge conventional forms of represent
+ ation while opening up space for Asian diasporic communities to narrate th
+ eir own stories. In its approach to storytelling\, the project seeks to sa
+ feguard the integrity of personal narratives\, to cultivate plurality and 
+ openness in how stories surface and circulate\, and to lay the groundwork 
+ for a living archive that makes space for richer\, more textured forms of 
+ visibility in the place of flattened or reductive images. \n\n\nIn the fir
+ st part of the workshop\, participants will learn about Echoes from Afar a
+ nd the basics of self-uploading and managing artworks on the platform\, so
+  that participants can begin contributing their own work if they would lik
+ e to. In the second part of the workshop\, we will learn about the open-so
+ urce workflow behind the archive\, showing how participants can build thei
+ r own websites or archives using free and accessible tools that require no
+  prior coding experience. Throughout this hands-on process\, the workshop 
+ will draw on AI technologies\, such as Claude\, as one of the working tool
+ s that can assist website building\, while still remaining grounded in a p
+ ractice of ethical care. \n\n\nNo prior coding experience is necessary and
+  you do not need to be of Asian heritage to join this workshop. \n\n\nThe 
+ Hmm experiments…\n\n\nThis event is part of a series of programs that we
+  are developing with The Hmm\, where we give space in our studio for our c
+ ommunity to explore new ideas and experiment with workshops as part of our
+  public program. \n\n\nWhat you need to know\n\n📅 Date: Saturday 12 Sep
+ tember 2026\n🕗 Times: 14.00 – 16.00 CEST\n📍 Location: The Hmm’s 
+ studio\, NDSM-plein 125\, 1033 WC Amsterdam\, and online\n🎟 Tickets: 
  €12\,50 regular\, €9\,50 students (onsite or online)\n\nAs these works
  hops are more intimate sessions\, there is a limited supply of tickets ava
  ilable. You can find information about physical accessibility at The Hmm
@@ -485,7 +396,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d32d591b6dc36a8ff340eab1f6471f1d4a2acfc91d1379bd8338272fa83f9875@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -504,7 +415,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:17ee0955d7c11542c5ba48542aec823b82e3f61c733028706f7004d7245e8d4d@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:GOGBOT 2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -518,7 +429,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:825ca28c948e3599b99ab6d7f1fc268eb0c9d4d9f8579f64b1d18852740d1181@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -537,7 +448,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bd852140b31290f44ec590d7f3c50cd5dc2fa681fa13c7b8c079e3eab84a7a69@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -553,7 +464,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dd5b5599113184bf0c08ffe0939413c4f7a923018bca48578e4759a39d049ec1@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Ambacht in Beeld Festival
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -566,9 +477,69 @@ URL:https://ambachtinbeeldfestival.nl/
 CATEGORIES:craft\,workshop\,festival
 END:VEVENT
 BEGIN:VEVENT
+UID:a2da754dde15bc94fc334ddc7764eedb625c6f0ec61f3ca704ea99e5fd910505@pruts-
+ agenda.local
+DTSTAMP:20260804T100210Z
+SUMMARY:Cyberdeck workshop: build your own 'mesh-berry' 🫐
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260926T110000Z
+DTEND:20260926T150000Z
+DESCRIPTION:Hand-soldered cyberdecks are all over the internet. The cyberde
+ cks we know from cyberpunk fiction and hacker culture were improvised mach
+ ines—originally appearing in William Gibson’s 1984 novel Neuromancer
+ —often built within a narrow and masculine idea of who gets to tinker\, 
+ hack\, and build. The cyberdecks filling our feeds today look different. T
+ hey’re cute. \nFrom mermaid-shell Raspberry Pis to Hello Kitty makeup ca
+ ses\, these devices have exploded in popularity over the past year\, thank
+ s to women teaching each other to build artistic\, hyper-feminine computer
+ s online. \nCyberdecks push back against the sleek\, sealed\, and extracti
+ ve technologies we rely on every day. While most consumer computers lock u
+ s into systems that are becoming increasingly unethical\, from non-consens
+ ual surveillance to automatic AI integration no one asked for\, cyberdecks
+  are hacked together. Often built with femininity and sustainability in mi
+ nd\, they’re personalised with cute and colourful items that would other
+ wise be thrown away. In an age of mass-produced devices\, cyberdecks turn 
+ technology into a form of self-expression. \nMake your personalised ‘mes
+ h-berry’! 🫐\nIn this workshop\, you’ll build your very own\, person
+ alised ‘mesh-berry’ 🫐 device: a local chat tool that runs on a mesh
+  network. You don’t need WiFi\, internet\, or anything Big Tech related.
+  To keep things accessible\, we won’t build a full computer\, but focus 
+ on a working chat tool you can actually take home and use\, change\, or bu
+ ild upon. \nGuided by web developer and artist Heerko van der Kooij\, you
+ ’ll learn how to hand-solder your own motherboard and how to style your 
+ chat program. Lilian Stolk from The Hmm will go a bit deeper into the aest
+ hetic side of things\, looking at how (and why) to design a personal case 
+ for your device \nAfter the workshop\, you’ll walk away with a working m
+ esh-berry that you can use to chat with other mesh-berry owners nearby. If
+  your friends couldn’t make it to this workshop\, you’ll have picked u
+ p the skills to build one for them yourself. \nRequirements and Prep\n\nYo
+ u don’t need to have any experience with coding to join this workshop. T
+ he ticket price includes all the hardware you’ll need: a screen\, keyboa
+ rd\, battery\, and speaker. We’ll provide some basic crafting materials\
+ , but we ask you to bring your own case (a bag\, box\, tin\, or anything e
+ lse you’d like to turn into your device’s shell) and extra bits and pi
+ eces to personalise it further. Think of stickers\, fabric\, beads\, paint
+ \, or anything else that makes it yours. The workshop will be conducted in
+  English.   \nThe Hmm experiments…\nThis event is part of a series of p
+ rograms that we are developing with The Hmm\, where we give space in our s
+ tudio for our community to explore new ideas and experiment with workshops
+  as part of our public program. \n\nWhat you need to know\n\n📅 Date: Sa
+ turday 26 September 2026\n🕗 Times: 13.00 – 17.00 CEST\n📍 Location:
+  The Hmm’s studio\, NDSM-plein 125\, 1033 WC Amsterdam\n🎟 Tickets: 
+ €45 regular\, €41\,50 students (this is including €37\,50 for hardwa
+ re material)\n\nAs these workshops are more intimate sessions\, there is a
+  limited supply of tickets available. You can find information about physi
+ cal accessibility at The Hmm’s studio here. \n\n💚 This programme is k
+ indly supported by the Creative Industries Fund NL
+URL:https://thehmm.nl/event/cyberdeck-workshop-build-your-own-mesh-berry-%f
+ 0%9f%ab%90/
+CATEGORIES:The Hmm
+END:VEVENT
+BEGIN:VEVENT
 UID:d7553644261a89ccb424aec6788edf5f045c02ef85104e0dbec3cea7db12904d@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Bridging the gap: digital technology as enhancement\, not replaceme
  nt
 STATUS:CONFIRMED
@@ -586,7 +557,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dd3f6de5d09d3feaa8f04d11d7910a3b712ec1e626f9acc282e21f0fc6ab9905@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -605,7 +576,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:397fdc2ec14395db4d547db76cccc56e758bca8a138e3d774166c147efe57fb2@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -624,7 +595,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a329f530bed3f14f6027aa8085780944e4f337ebe94bf607d6e7decdecf2c6d5@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -640,7 +611,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:02a4e4f87d64eca47b5549628e3e9ec8823d650ad2557293da8ab46cede648a2@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -659,7 +630,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9b84a1bc35682176bce547cb791524607d75e82ada72bfdf1242ae5da7fa081f@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -678,7 +649,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:469ceee25cd96abbba8efb989796fe433c56da6d5e745156f917d91573fa1993@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -694,7 +665,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7fa32419d9094e8eda459f241a4df7383b08178f5a539ff8d45863d744b2f764@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:The Hmm @ Brainwash Festival
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -729,7 +700,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:784b736186fce05be5e60324a2ec978823e672ca45dbe5175dfe9c2895156008@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:40th Chaos Communication Congress
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -743,7 +714,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5dcf5d3deac925e519d6abbf9507de696d5859c1717815547af8d8357dc3a98d@pruts-
  agenda.local
-DTSTAMP:20260803T105310Z
+DTSTAMP:20260804T100210Z
 SUMMARY:FAB27 Oulu
 STATUS:CONFIRMED
 TRANSP:OPAQUE

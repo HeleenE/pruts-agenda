@@ -1,5 +1,19 @@
 # Pruts Agenda Sync Digest
 
+## 2026-08-04 12:02 CEST
+
+1 new, 0 updated, 3 deleted.
+
+### New events
+
+- **Cyberdeck workshop: build your own 'mesh-berry' 🫐** - Sat 26 Sep 2026, 13:00 - https://thehmm.nl/event/cyberdeck-workshop-build-your-own-mesh-berry-%f0%9f%ab%90/
+
+### Deleted events
+
+- **Go (Game) Evening at Techinc** - 20260803T170000Z - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-08-03/go-game-evening-techinc
+- **ABC Community bike repair event** - 20260804T110000Z - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-08-04/abc-community-bike-repair-event
+- **ABC Community bike repair event** - 20260818T110000Z - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-08-18/abc-community-bike-repair-event
+
 ## 2026-08-03 12:53 CEST
 
 0 new, 0 updated, 0 deleted.

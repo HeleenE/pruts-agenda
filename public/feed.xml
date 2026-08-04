@@ -4,21 +4,7 @@
     <title>Pruts Agenda</title>
     <link>https://heleene.github.io/pruts-agenda/</link>
     <description>Upcoming hacker, maker and critical technology events.</description>
-    <lastBuildDate>Mon, 03 Aug 2026 10:53:10 GMT</lastBuildDate>
-    <item>
-      <title>Go (Game) Evening at Techinc</title>
-      <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-08-03/go-game-evening-techinc</link>
-      <guid isPermaLink="false">pruts-agenda:a2d89abaf87f5927c4d6dfd1b769953024bbc06d1b5ab4782e33d32dc90ead4c</guid>
-      <pubDate>Mon, 03 Aug 2026 17:00:00 GMT</pubDate>
-      <description>03 Aug 2026, 17:00 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Just an evening to play a friendly game of go (AKA Baduk or Wieqi). I will teach go (the game) and we will play. Don't expect high level play. There will also be other games in the genre available, e.g. Chess and Hive. The location is a shared workshop where members are free t...</description>
-    </item>
-    <item>
-      <title>ABC Community bike repair event</title>
-      <link>https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-08-04/abc-community-bike-repair-event</link>
-      <guid isPermaLink="false">pruts-agenda:6088ab48db8bbce8af065498ded7b0b26986e0ffc375ecc03ca1a2dda96b7164</guid>
-      <pubDate>Tue, 04 Aug 2026 11:00:00 GMT</pubDate>
-      <description>04 Aug 2026, 11:00 - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - Radar - ABC Community bike repair event Is your bike making a weird noise? Do you just need a 15mm wrench to tighten the wheels? Or do you want to pimp your ride? ABC is hosting a community bike repair session at the Vrankrijk on the 1st and 3rd Tuesdays of the month from 13:00-18:00....</description>
-    </item>
+    <lastBuildDate>Tue, 04 Aug 2026 10:02:10 GMT</lastBuildDate>
     <item>
       <title>Hackerspace Social Evening</title>
       <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-08-05/hackerspace-social-evening</link>
@@ -46,13 +32,6 @@
       <guid isPermaLink="false">pruts-agenda:ec4601366ed5851a8016c99ef793b8078415832d33469bca4c664b2f1a28504c</guid>
       <pubDate>Thu, 13 Aug 2026 18:00:00 GMT</pubDate>
       <description>13 Aug 2026, 18:00 - Budapest Pesthuislaan  Amsterdam Netherlands - Radar - A chaostreff in Amsterdam We meet every other Thursday. All creatures welcome. https://chaos.amsterdam/ Entrance is -in- the garden!</description>
-    </item>
-    <item>
-      <title>ABC Community bike repair event</title>
-      <link>https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-08-18/abc-community-bike-repair-event</link>
-      <guid isPermaLink="false">pruts-agenda:672c2d0dede646cf2ef6244d906e1cd1a5ca06fda9df9e2e9416ba692db354fb</guid>
-      <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
-      <description>18 Aug 2026, 11:00 - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - Radar - ABC Community bike repair event Is your bike making a weird noise? Do you just need a 15mm wrench to tighten the wheels? Or do you want to pimp your ride? ABC is hosting a community bike repair session at the Vrankrijk on the 1st and 3rd Tuesdays of the month from 13:00-18:00....</description>
     </item>
     <item>
       <title>Hackerspace Social Evening</title>
@@ -172,6 +151,13 @@
       <guid isPermaLink="false">pruts-agenda:dd5b5599113184bf0c08ffe0939413c4f7a923018bca48578e4759a39d049ec1</guid>
       <pubDate>Sat, 26 Sep 2026 10:00:00 GMT</pubDate>
       <description>26 Sep 2026 - NDSM-Loods, NDSM-Plein 85, 1033 WC Amsterdam - Festival with workshops, masterclasses and demonstrations by craftspeople from the Netherlands and abroad.</description>
+    </item>
+    <item>
+      <title>Cyberdeck workshop: build your own 'mesh-berry' 🫐</title>
+      <link>https://thehmm.nl/event/cyberdeck-workshop-build-your-own-mesh-berry-%f0%9f%ab%90/</link>
+      <guid isPermaLink="false">pruts-agenda:a2da754dde15bc94fc334ddc7764eedb625c6f0ec61f3ca704ea99e5fd910505</guid>
+      <pubDate>Sat, 26 Sep 2026 11:00:00 GMT</pubDate>
+      <description>26 Sep 2026, 11:00 - The Hmm - Hand-soldered cyberdecks are all over the internet. The cyberdecks we know from cyberpunk fiction and hacker culture were improvised machines—originally appearing in William Gibson’s 1984 novel Neuromancer—often built within a narrow and masculine idea of who gets to tinker, h...</description>
     </item>
     <item>
       <title>Bridging the gap: digital technology as enhancement, not replacement</title>
