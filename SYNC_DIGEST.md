@@ -1,5 +1,20 @@
 # Pruts Agenda Sync Digest
 
+## 2026-08-06 12:02 CEST
+
+2 new, 0 updated, 3 deleted.
+
+### New events
+
+- **Darkwave / industrial / deep dark electronics Night** - Sat 08 Aug 2026, 20:00 - Vondelbunker Vondelpark 8a  Amsterdam Pays-Bas - https://radar.squat.net/en/node/591608
+- **Darkwave / industrial / deep dark electronics Night** - Sat 08 Aug 2026, 20:00 - Vondelbunker Vondelpark 8a  Amsterdam Pays-Bas - https://radar.squat.net/en/node/591609
+
+### Deleted events
+
+- **Hackerspace Social Evening** - 20260805T173000Z - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-08-05/hackerspace-social-evening
+- **Hackerspace Social Evening** - 20261021T173000Z - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-10-21/hackerspace-social-evening
+- **Chaos Amsterdam** - 20261022T180000Z - Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-10-22/chaos-amsterdam
+
 ## 2026-08-05 11:59 CEST
 
 1 new, 0 updated, 0 deleted.

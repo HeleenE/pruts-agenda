@@ -6,28 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pruts Agenda
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
-UID:cd873569aa07e3de7514cbcaebf228d1d4486b9a56204fe325c8bf77f6953a68@pruts-
- agenda.local
-DTSTAMP:20260805T095948Z
-SUMMARY:Hackerspace Social Evening
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART:20260805T173000Z
-DTEND:20260805T173000Z
-DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
- open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
- visiting hackers welcome\, refugees welcome! Our phone number is listed at
-  the front door. Give it a call\, wait through the automated message\, and
-  someone should answer it and help you in.
-LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
-URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-0
- 8-05/hackerspace-social-evening
-CATEGORIES:work space/diy
-END:VEVENT
-BEGIN:VEVENT
 UID:c7898ae506f55d320f891631aa29b40cd8f1da1a4fe8a1e78a2183600d1470f8@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Water wise
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -41,9 +22,47 @@ URL:https://waag.org/en/event/water-wise
 CATEGORIES:Waag
 END:VEVENT
 BEGIN:VEVENT
+UID:475856d806380933cdbe4e55e828e9d806bcbd17a3c745d9ea1c3aacb24d1fd2@pruts-
+ agenda.local
+DTSTAMP:20260806T100240Z
+SUMMARY:Darkwave / industrial / deep dark electronics Night
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260808T180000Z
+DTEND:20260808T180000Z
+DESCRIPTION:Darkwave / industrial / deep dark electronics Night DJ Elika bo
+ rn in Iran. Deep dark electronic and techno producer mixed with persian an
+ d arabic sounds DJ Lvcas Known for his eclectic sets and multiple mixes in
+  many independent radios such as Noods (UK)\, Red Light (NL)\, Kapital (PL
+ ) and Radio Béguin (Lyon). Lvcas provides an experimental DJ set\, blendi
+ ng weirdness\, noise\, and dark-wave & electro-punk. www.lucasalvarado.com
+LOCATION:Vondelbunker Vondelpark 8a  Amsterdam Pays-Bas
+URL:https://radar.squat.net/en/node/591608
+CATEGORIES:music/concert
+END:VEVENT
+BEGIN:VEVENT
+UID:dd19df2435bd02aa3169ebd415b930216959b07f3e1571fcf65c78e088e0eb4b@pruts-
+ agenda.local
+DTSTAMP:20260806T100240Z
+SUMMARY:Darkwave / industrial / deep dark electronics Night
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260808T180000Z
+DTEND:20260808T180000Z
+DESCRIPTION:Darkwave / industrial / deep dark electronics Night DJ Elika bo
+ rn in Iran. Deep dark electronic and techno producer mixed with persian an
+ d arabic sounds DJ Lvcas Known for his eclectic sets and multiple mixes in
+  many independent radios such as Noods (UK)\, Red Light (NL)\, Kapital (PL
+ ) and Radio Béguin (Lyon). Lvcas provides an experimental DJ set\, blendi
+ ng weirdness\, noise\, and dark-wave & electro-punk. www.lucasalvarado.com
+LOCATION:Vondelbunker Vondelpark 8a  Amsterdam Pays-Bas
+URL:https://radar.squat.net/en/node/591609
+CATEGORIES:music/concert
+END:VEVENT
+BEGIN:VEVENT
 UID:8d745c888307f34e32e98d5c2bda9aba70dbad89868d27970561ec7eaf28b55f@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -62,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ec4601366ed5851a8016c99ef793b8078415832d33469bca4c664b2f1a28504c@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -78,7 +97,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a08731bfd4c0328ba50ceda3619113237f5ddf4b0f7af57ca8b4dc170236b2b7@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -97,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3971ccf12932fb8ae4e04f5fe597be55d8b358b99933f88840f22f96354445a0@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Securing the Market: AI\, Predicting Hazards\, and Managing Vulnera
  bility
 STATUS:CONFIRMED
@@ -121,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a0838e4d359ffd2be31e069d930431aed0f4744045744fc7966f30a5eebe52da@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Big Tech and AI Systems in Global Climate Governance
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -143,7 +162,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:092ee7830d83e7c848d64057e1036a8154563cd6e745350a3a97021ca41e6315@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -162,7 +181,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:914ad4175115db3b38ab6d28ce46e9edcb44d6b85af0809b0aa0ce89ed450cee@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -178,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:db08c31c114d0b858e22fd11fbbccba1e77dac0168f646bd2138c0680bbecc44@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:AI\, Infrastructures and Sustainability
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -232,7 +251,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:364341753bdbb40b823418def7a70f3531361f7a2f12e68113894cc4c3e54c97@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -251,7 +270,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e1712046a492d78d7e44dee429b36942378464d8f01c85f23d2f33634c679cd4@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Memory\, fantasy\, and technology
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -295,7 +314,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0a04fbcd8d3bfefabe9f13bce6381519d296fcae9cdb8667a7a08edbaf556716@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Rerooting
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -311,7 +330,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6c0fe1149247379cf2916fd9439f81545cb33c32c894db665826ba02ee3c8db7@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -330,7 +349,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8c6bdb4b85daad4f05fcabca8cf3ec4a2ce626bef58ca5a0728c85c1adb65777@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -346,7 +365,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5726ec1ff7f83a78ad0dfe6b9c96de926e09dfc75ba72cd77c5c38278fcfa7ca@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Echoes from Afar: Build your own archive
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -396,7 +415,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d32d591b6dc36a8ff340eab1f6471f1d4a2acfc91d1379bd8338272fa83f9875@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -415,7 +434,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:17ee0955d7c11542c5ba48542aec823b82e3f61c733028706f7004d7245e8d4d@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:GOGBOT 2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -429,7 +448,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:825ca28c948e3599b99ab6d7f1fc268eb0c9d4d9f8579f64b1d18852740d1181@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -448,7 +467,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bd852140b31290f44ec590d7f3c50cd5dc2fa681fa13c7b8c079e3eab84a7a69@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -464,7 +483,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dd5b5599113184bf0c08ffe0939413c4f7a923018bca48578e4759a39d049ec1@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Ambacht in Beeld Festival
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -479,7 +498,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a2da754dde15bc94fc334ddc7764eedb625c6f0ec61f3ca704ea99e5fd910505@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Cyberdeck workshop: build your own 'mesh-berry' 🫐
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -540,7 +559,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d7553644261a89ccb424aec6788edf5f045c02ef85104e0dbec3cea7db12904d@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Bridging the gap: digital technology as enhancement\, not replaceme
  nt
 STATUS:CONFIRMED
@@ -558,7 +577,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dd3f6de5d09d3feaa8f04d11d7910a3b712ec1e626f9acc282e21f0fc6ab9905@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -577,7 +596,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3dc7e15b3f4c622c2a3f9b0aab44c9db32cc8285f36bfa98301d3cdb8d319037@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:The Cowan Paradox & Other Inconveniences
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -620,7 +639,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:397fdc2ec14395db4d547db76cccc56e758bca8a138e3d774166c147efe57fb2@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -639,7 +658,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a329f530bed3f14f6027aa8085780944e4f337ebe94bf607d6e7decdecf2c6d5@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -655,7 +674,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:02a4e4f87d64eca47b5549628e3e9ec8823d650ad2557293da8ab46cede648a2@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -672,44 +691,9 @@ URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-1
 CATEGORIES:work space/diy
 END:VEVENT
 BEGIN:VEVENT
-UID:9b84a1bc35682176bce547cb791524607d75e82ada72bfdf1242ae5da7fa081f@pruts-
- agenda.local
-DTSTAMP:20260805T095948Z
-SUMMARY:Hackerspace Social Evening
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART:20261021T173000Z
-DTEND:20261021T173000Z
-DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
- open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
- visiting hackers welcome\, refugees welcome! Our phone number is listed at
-  the front door. Give it a call\, wait through the automated message\, and
-  someone should answer it and help you in.
-LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
-URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-1
- 0-21/hackerspace-social-evening
-CATEGORIES:work space/diy
-END:VEVENT
-BEGIN:VEVENT
-UID:469ceee25cd96abbba8efb989796fe433c56da6d5e745156f917d91573fa1993@pruts-
- agenda.local
-DTSTAMP:20260805T095948Z
-SUMMARY:Chaos Amsterdam
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART:20261022T180000Z
-DTEND:20261022T180000Z
-DESCRIPTION:A chaostreff in Amsterdam We meet every other Thursday. All cre
- atures welcome. https://chaos.amsterdam/ Entrance is -in- the garden!
-LOCATION:Budapest Pesthuislaan  Amsterdam Netherlands
-URL:https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-10-22/c
- haos-amsterdam
-CATEGORIES:bar/cafe\,discussion/presentation\,meeting\,ccc
-END:VEVENT
-BEGIN:VEVENT
 UID:7fa32419d9094e8eda459f241a4df7383b08178f5a539ff8d45863d744b2f764@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:The Hmm @ Brainwash Festival
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -744,7 +728,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:784b736186fce05be5e60324a2ec978823e672ca45dbe5175dfe9c2895156008@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:40th Chaos Communication Congress
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -758,7 +742,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5dcf5d3deac925e519d6abbf9507de696d5859c1717815547af8d8357dc3a98d@pruts-
  agenda.local
-DTSTAMP:20260805T095948Z
+DTSTAMP:20260806T100240Z
 SUMMARY:FAB27 Oulu
 STATUS:CONFIRMED
 TRANSP:OPAQUE
