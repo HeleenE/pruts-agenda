@@ -1,5 +1,13 @@
 # Pruts Agenda Sync Digest
 
+## 2026-08-07 10:32 CEST
+
+0 new, 0 updated, 1 deleted.
+
+### Deleted events
+
+- **Water wise** - 20260806T173000Z - Het Marineterrein, Kattenburgerstraat 5, 1018 JA Amsterdam - https://waag.org/en/event/water-wise
+
 ## 2026-08-06 12:02 CEST
 
 2 new, 0 updated, 3 deleted.
