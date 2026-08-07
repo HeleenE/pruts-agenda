@@ -1,5 +1,14 @@
 # Pruts Agenda Sync Digest
 
+## 2026-08-07 14:09 CEST
+
+0 new, 0 updated, 2 deleted.
+
+### Deleted events
+
+- **Darkwave / industrial / deep dark electronics Night** - 20260808T180000Z - Vondelbunker Vondelpark 8a  Amsterdam Pays-Bas - https://radar.squat.net/en/node/591608
+- **Darkwave / industrial / deep dark electronics Night** - 20260808T180000Z - Vondelbunker Vondelpark 8a  Amsterdam Pays-Bas - https://radar.squat.net/en/node/591609
+
 ## 2026-08-07 13:16 CEST
 
 0 new, 0 updated, 0 deleted.
