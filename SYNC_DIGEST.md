@@ -1,5 +1,9 @@
 # Pruts Agenda Sync Digest
 
+## 2026-08-08 08:59 CEST
+
+0 new, 0 updated, 0 deleted.
+
 ## 2026-08-07 14:09 CEST
 
 0 new, 0 updated, 2 deleted.
