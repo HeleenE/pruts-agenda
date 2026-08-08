@@ -1,6 +1,24 @@
 # Manual events are merged into the generated iCalendar feed.
 # For all-day multi-day events, end is exclusive: use the day after the final day.
 events:
+  - id: pdz-open-kaart-overheid-2026
+    title: Open Kaart Overheid – stop profilering en digitale uitsluiting!
+    start: 2026-08-28 16:00
+    location: Expo
+    url: https://dezwijger.nl/programma/open-kaart-overheid-stop-profilering-en-digitale-uitsluiting-2
+    description: Bits of Freedom brengt in kaart hoe onze overheid moet stoppen met discriminerende algoritmes. Maak samen met ons de atlas Open Kaart Overheid!
+    topics:
+      - Pakhuis de Zwijger
+
+  - id: pdz-creating-with-ai-2026
+    title: "Creating with AI: Blasphemy or the next creative revolution?"
+    start: 2026-09-15 15:00
+    location: IJzaal PDZ
+    url: https://dezwijger.nl/programma/creating-with-ai-blasphemy-or-the-next-creative-revolution
+    description: Wat betekent creativiteit in een tijdperk van slimme technologie? Waar kan AI nieuwe ideeën en mogelijkheden versterken, en waar trekken we de grens?
+    topics:
+      - Pakhuis de Zwijger
+
   - id: gogbot-2026
     title: GOGBOT 2026
     start: 2026-09-17
@@ -50,3 +68,12 @@ events:
       - craft
       - workshop
       - festival
+
+  - id: pdz-games-for-cities-training-showcase-2026
+    title: Games for Cities Autumn ’26 Training Showcase
+    start: 2026-09-25 19:00
+    location: Expo
+    url: https://dezwijger.nl/programma/games-for-cities-training-showcase
+    description: Showcasing prototype city games created by a diverse group of urban professionals and active citizens during the GfC autumn '26 training series.
+    topics:
+      - Pakhuis de Zwijger
