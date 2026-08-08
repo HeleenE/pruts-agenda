@@ -5,6 +5,7 @@ from pathlib import Path
 from xml.sax.saxutils import escape
 
 from config import ICAL_CALENDAR_NAME, PUBLIC_SITE_URL, RSS_OUTPUT_FILE
+from dates import LOCAL_TIMEZONE
 from models import Event
 
 
@@ -69,7 +70,7 @@ def _description(event: Event) -> str:
 def _event_time(event: Event) -> str:
     if event.all_day:
         return event.start.strftime("%d %b %Y")
-    return event.start.astimezone().strftime("%d %b %Y, %H:%M")
+    return event.start.astimezone(LOCAL_TIMEZONE).strftime("%d %b %Y, %H:%M")
 
 
 def _source_label(event: Event) -> str:

@@ -1,6 +1,7 @@
 .venv/
 __pycache__/
 *.pyc
+.DS_Store
 
 # Local secret files from older setups.
 credentials.json
