@@ -10,6 +10,7 @@ Current sources:
 - Hackers & Designers activities
 - The Hmm feed
 - Critical Infrastructure Lab
+- Pakhuis de Zwijger events tagged with Technology
 - Manually added events
 
 Built with ChatGPT and Codex. Inspired by http://offbeat.amsterdam/

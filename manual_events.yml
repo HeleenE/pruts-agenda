@@ -11,7 +11,6 @@ events:
     description: Manufactured Minds. Festival for art, music and technology.
     categories:
       - art
-      - technology
       - festival
 
   - id: fab27-oulu-2027
@@ -37,7 +36,6 @@ events:
     description: 40C3 in Hamburg.
     categories:
       - hacking
-      - technology
       - congress
 
   - id: ambacht-in-beeld-2026
