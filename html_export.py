@@ -47,14 +47,12 @@ def write_html_page(
 
 def _event_html(event: Event, index: int) -> str:
     local_start = event.start.astimezone(LOCAL_TIMEZONE)
-    classes = "event is-clickable" if event.url else "event"
-    link_attributes = ""
+    tag = "a" if event.url else "article"
+    attributes = ""
     if event.url:
-        link_attributes = f' data-url="{escape(event.url, quote=True)}"'
+        attributes = f' href="{escape(event.url, quote=True)}"'
 
     title = escape(event.title)
-    if event.url:
-        title = f'<a href="{escape(event.url, quote=True)}">{title}</a>'
 
     description = _truncate(event.description, 240)
     description_html = ""
@@ -82,8 +80,8 @@ def _event_html(event: Event, index: int) -> str:
         location_html = f'              <p class="event-location">{escape(event.location)}</p>\n'
 
     return (
-        f'        <article class="{classes}" id="event-{index}" '
-        f'data-start="{_local_date(event)}"{link_attributes}>\n'
+        f'        <{tag} class="event" id="event-{index}" '
+        f'data-start="{_local_date(event)}"{attributes}>\n'
         f'          <time class="event-date" datetime="{escape(event.start.isoformat(), quote=True)}">\n'
         f'            <span>{local_start.strftime("%b")}</span>\n'
         f'            <span>{local_start.day:02d}</span>\n'
@@ -99,7 +97,7 @@ def _event_html(event: Event, index: int) -> str:
         f"{location_html}"
         "            </div>\n"
         "          </div>\n"
-        "        </article>"
+        f"        </{tag}>"
     )
 
 
