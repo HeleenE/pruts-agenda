@@ -54,15 +54,30 @@ class PakhuisDeZwijgerClient:
         self.timeout = timeout
 
     def get_events(self) -> list[Event]:
-        response = requests.get(
-            self.agenda_url,
-            headers=PAKHUIS_REQUEST_HEADERS,
-            timeout=self.timeout,
-        )
-        response.raise_for_status()
+        page = 1
+        card_html = []
+        while True:
+            response = requests.get(
+                self.agenda_url,
+                params={"page": page, "domains[]": 1066},
+                headers=PAKHUIS_REQUEST_HEADERS,
+                timeout=self.timeout,
+            )
+            response.raise_for_status()
+            payload = response.json()
+            if not isinstance(payload, dict) or not isinstance(payload.get("data"), str):
+                raise requests.RequestException(
+                    "Unexpected Pakhuis de Zwijger agenda response"
+                )
+
+            card_html.append(payload["data"])
+            total_pages = int(payload.get("total_pages", 1))
+            if page >= total_pages:
+                break
+            page += 1
 
         events = []
-        for raw_event in _extract_event_cards(response.text):
+        for raw_event in _extract_event_cards("".join(card_html)):
             try:
                 events.append(_card_to_event(raw_event, self.agenda_url))
             except (KeyError, TypeError, ValueError) as error:
