@@ -61,8 +61,10 @@ python3 main.py report
 The iCalendar export writes to `public/pruts-agenda.ics`. The RSS export writes
 to `public/feed.xml`. Both files can be served from GitHub Pages.
 
-The public website lives in `public/index.html` and reads the generated
-`public/pruts-agenda.ics` feed.
+The public website is generated as `public/index.html` from
+`templates/index.html`. It contains the event list as static HTML, while
+`public/site.js` progressively enhances it with date filtering and clickable
+cards.
 
 Preview it locally:
 

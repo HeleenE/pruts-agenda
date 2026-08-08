@@ -43,14 +43,14 @@ jobs:
 
       - name: Commit generated files
         run: |
-          if test -z "$(git status --porcelain -- public/pruts-agenda.ics public/feed.xml SYNC_DIGEST.md)"; then
+          if test -z "$(git status --porcelain -- public/index.html public/pruts-agenda.ics public/feed.xml SYNC_DIGEST.md)"; then
             echo "No generated agenda changes."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/pruts-agenda.ics public/feed.xml SYNC_DIGEST.md
+          git add public/index.html public/pruts-agenda.ics public/feed.xml SYNC_DIGEST.md
           git commit -m "Update generated agenda files"
           git push
 

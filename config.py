@@ -24,6 +24,8 @@ ICAL_OUTPUT_FILE = os.environ.get("ICAL_OUTPUT_FILE", "public/pruts-agenda.ics")
 ICAL_CALENDAR_NAME = os.environ.get("ICAL_CALENDAR_NAME", "Pruts Agenda")
 ICAL_UID_DOMAIN = os.environ.get("ICAL_UID_DOMAIN", "pruts-agenda.local")
 RSS_OUTPUT_FILE = os.environ.get("RSS_OUTPUT_FILE", "public/feed.xml")
+HTML_OUTPUT_FILE = os.environ.get("HTML_OUTPUT_FILE", "public/index.html")
+HTML_TEMPLATE_FILE = os.environ.get("HTML_TEMPLATE_FILE", "templates/index.html")
 PUBLIC_SITE_URL = os.environ.get(
     "PUBLIC_SITE_URL",
     "https://heleene.github.io/pruts-agenda/",

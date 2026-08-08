@@ -46,6 +46,7 @@ def main() -> None:
             build_feed_digest,
             read_existing_feed,
         )
+        from html_export import write_html_page
         from ical_export import write_ical_feed
         from rss_export import write_rss_feed
 
@@ -62,8 +63,10 @@ def main() -> None:
         digest = build_feed_digest(old_feed, collection.events)
         path = write_ical_feed(collection.events)
         rss_path = write_rss_feed(collection.events)
+        html_path = write_html_page(collection.events)
         print(f"Wrote {len(collection.events)} events to {path}.")
         print(f"Wrote RSS feed to {rss_path}.")
+        print(f"Wrote website to {html_path}.")
         if append_feed_digest(digest):
             print("Sync digest updated.")
         else:

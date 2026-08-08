@@ -264,6 +264,15 @@ h1 {
   transition: color 180ms ease;
 }
 
+.event h2 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.event[hidden] {
+  display: none;
+}
+
 .event-time,
 .event-location,
 .event-description {

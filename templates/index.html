@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Pruts Agenda</title>
+    <meta
+      name="description"
+      content="A small public agenda for hacker, maker and critical technology events."
+    >
+    <link rel="stylesheet" href="styles.css?v=20260808">
+    <link rel="icon" href="favicon.png" type="image/png">
+    <link rel="apple-touch-icon" href="favicon.png">
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="Pruts Agenda RSS"
+      href="feed.xml"
+    >
+    <script
+      defer
+      src="https://cloud.umami.is/script.js"
+      data-website-id="1546d097-4fa7-4a5b-87b0-fb0ad4244b24"
+    ></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="topbar" aria-label="Main navigation">
+        <a class="brand" href="./">Pruts Agenda</a>
+        <div class="actions">
+          <a class="icon-link" href="pruts-agenda.ics" title="Download iCalendar feed">
+            <span aria-hidden="true">ICS</span>
+          </a>
+          <a class="icon-link" href="feed.xml" title="RSS feed">
+            <span aria-hidden="true">RSS</span>
+          </a>
+          <a class="button" id="subscribe-link" href="pruts-agenda.ics">
+            Subscribe
+          </a>
+        </div>
+      </nav>
+
+      <section class="hero" aria-labelledby="page-title">
+        <div class="hero-copy">
+          <p class="eyebrow">Amsterdam and nearby-ish</p>
+          <h1 id="page-title">Hacker, maker and critical tech events</h1>
+          <p>
+            A small hand-curated feed assembled from Radar Squad, Waag, Hackers &
+            Designers, The Hmm, Critical Infrastructure Lab, and a few manual picks.
+          </p>
+        </div>
+        <div class="date-jump">
+          <label for="date-filter">Filter</label>
+          <input id="date-filter" type="date" min="{{MIN_EVENT_DATE}}">
+        </div>
+      </section>
+    </header>
+
+    <main>
+      <section class="agenda" id="agenda" aria-live="polite">
+{{AGENDA}}
+      </section>
+      <p class="empty" id="no-filter-results" hidden>No events on this date.</p>
+    </main>
+
+    <footer class="site-footer">
+      <span>made with codex <a href="https://github.com/HeleenE/pruts-agenda">github</a></span>
+    </footer>
+
+    <script src="site.js?v=20260808"></script>
+  </body>
+</html>
