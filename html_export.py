@@ -50,7 +50,10 @@ def _event_html(event: Event, index: int) -> str:
     tag = "a" if event.url else "article"
     attributes = ""
     if event.url:
-        attributes = f' href="{escape(event.url, quote=True)}"'
+        attributes = (
+            f' href="{escape(event.url, quote=True)}"'
+            ' target="_blank" rel="noopener noreferrer"'
+        )
 
     title = escape(event.title)
 
