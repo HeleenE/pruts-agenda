@@ -1,5 +1,15 @@
 # Pruts Agenda Sync Digest
 
+## 2026-08-08 15:14 CEST
+
+3 new, 0 updated, 0 deleted.
+
+### New events
+
+- **Open Kaart Overheid – stop profilering en digitale uitsluiting!** - Fri 28 Aug 2026, 16:00 - Expo - https://dezwijger.nl/programma/open-kaart-overheid-stop-profilering-en-digitale-uitsluiting-2
+- **Creating with AI: Blasphemy or the next creative revolution?** - Tue 15 Sep 2026, 15:00 - IJzaal PDZ - https://dezwijger.nl/programma/creating-with-ai-blasphemy-or-the-next-creative-revolution
+- **Games for Cities Autumn ’26 Training Showcase** - Fri 25 Sep 2026, 19:00 - Expo - https://dezwijger.nl/programma/games-for-cities-training-showcase
+
 ## 2026-08-08 15:12 CEST
 
 0 new, 0 updated, 0 deleted.
