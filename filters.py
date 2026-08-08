@@ -19,7 +19,6 @@ KEEP_SOURCES = {
     "hackersanddesigners",
     "thehmm",
     "waag",
-    "Pakhuis de Zwijger",
 }
 
 KEEP_TOPICS = {

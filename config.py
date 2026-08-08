@@ -8,9 +8,6 @@ HACKERS_AND_DESIGNERS_ACTIVITIES_URL = (
 )
 THE_HMM_ICS_URL = "https://thehmm.nl/events-page/?ical=1"
 CRITICAL_INFRA_LAB_URL = "https://www.criticalinfralab.net/"
-PAKHUIS_DE_ZWIJGER_TECHNOLOGY_URL = (
-    "https://dezwijger.nl/ajax/agenda/getItems"
-)
 
 CITY = "Amsterdam"
 REQUEST_TIMEOUT = 60
