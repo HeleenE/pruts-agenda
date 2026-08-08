@@ -8,13 +8,26 @@ import requests
 
 from config import (
     PAKHUIS_DE_ZWIJGER_TECHNOLOGY_URL,
-    REQUEST_HEADERS,
     REQUEST_TIMEOUT,
 )
 from models import Event
 
 
 AMSTERDAM_TZ = ZoneInfo("Europe/Amsterdam")
+PAKHUIS_REQUEST_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (X11; Linux x86_64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/127.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "nl-NL,nl;q=0.9,en;q=0.8",
+    "Referer": "https://dezwijger.nl/agenda",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "same-origin",
+    "Upgrade-Insecure-Requests": "1",
+}
 MONTHS = {
     "jan": 1,
     "feb": 2,
@@ -43,7 +56,7 @@ class PakhuisDeZwijgerClient:
     def get_events(self) -> list[Event]:
         response = requests.get(
             self.agenda_url,
-            headers=REQUEST_HEADERS,
+            headers=PAKHUIS_REQUEST_HEADERS,
             timeout=self.timeout,
         )
         response.raise_for_status()
