@@ -1,5 +1,14 @@
 # Pruts Agenda Sync Digest
 
+## 2026-08-13 10:46 CEST
+
+0 new, 0 updated, 2 deleted.
+
+### Deleted events
+
+- **Hackerspace Social Evening** - 20260812T173000Z - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-08-12/hackerspace-social-evening
+- **Chaos Amsterdam** - 20261022T180000Z - Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-10-22/chaos-amsterdam
+
 ## 2026-08-12 10:41 CEST
 
 0 new, 0 updated, 0 deleted.
