@@ -1,5 +1,17 @@
 # Pruts Agenda Sync Digest
 
+## 2026-08-15 09:46 CEST
+
+1 new, 0 updated, 1 deleted.
+
+### New events
+
+- **Chaos Amsterdam** - Thu 22 Oct 2026, 20:00 - Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-10-22/chaos-amsterdam
+
+### Deleted events
+
+- **Chaos Amsterdam** - 20260813T180000Z - Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-08-13/chaos-amsterdam
+
 ## 2026-08-14 10:40 CEST
 
 0 new, 0 updated, 0 deleted.
