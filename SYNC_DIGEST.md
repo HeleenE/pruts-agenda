@@ -1,5 +1,27 @@
 # Pruts Agenda Sync Digest
 
+## 2026-08-25 10:02 CEST
+
+7 new, 1 updated, 1 deleted.
+
+### New events
+
+- **ABC Community  Bike Repair** - Tue 01 Sep 2026, 13:00 - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-09-01/abc-community-bike-repair
+- **AAAH!!! Security Culture Workshop/ Voku @ 19 00** - Thu 10 Sep 2026, 19:00 - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-09-10/aaah-security-culture-workshop-voku-19-00
+- **ABC Community  Bike Repair** - Tue 15 Sep 2026, 13:00 - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-09-15/abc-community-bike-repair
+- **Buy it, use it, break it, fix it: exhibition opening** - Thu 17 Sep 2026, 17:00 - Waag Futurelab, Nieuwmarkt 4, 1012CR Amsterdam - https://waag.org/en/event/buy-it-use-it-break-it-fix-it-exhibition-opening
+- **ABC Community  Bike Repair** - Tue 06 Oct 2026, 13:00 - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-10-06/abc-community-bike-repair
+- **ABC Community  Bike Repair** - Tue 20 Oct 2026, 13:00 - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-10-20/abc-community-bike-repair
+- **The nature of our monetary system** - Sun 25 Oct 2026, 12:30 - Waag Futurelab, Nieuwmarkt 4, 1012CR Amsterdam - https://waag.org/en/event/nature-our-monetary-system
+
+### Updated events
+
+- **SOLD OUT! Cyberdeck workshop: build your own 'mesh-berry' 🫐**: title
+
+### Deleted events
+
+- **Hackerspace Social Evening** - 20261028T183000Z - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-10-28/hackerspace-social-evening
+
 ## 2026-08-24 10:08 CEST
 
 0 new, 0 updated, 0 deleted.
