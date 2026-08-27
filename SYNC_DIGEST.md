@@ -1,5 +1,29 @@
 # Pruts Agenda Sync Digest
 
+## 2026-08-27 20:20 CEST
+
+3 new, 1 updated, 7 deleted.
+
+### New events
+
+- **Live Experimental / Noise / Harsh Fun / Electronics / Synthesis ** - Fri 04 Sep 2026, 20:00 - Vondelbunker Vondelpark 8a  Amsterdam Pays-Bas - https://radar.squat.net/en/node/593957
+- **On the hunt for public tech** - Thu 01 Oct 2026, 19:30 - Waag Futurelab, Nieuwmarkt 4, 1012CR Amsterdam - https://waag.org/en/event/hunt-public-tech
+- **Cyberdeck workshop: build your own 'mesh-berry' #2** - Sat 07 Nov 2026, 13:00 - https://thehmm.nl/event/cyberdeck-workshop-build-your-own-mesh-berry-2/
+
+### Updated events
+
+- **Opening: Buy it, use it, break it, fix it**: title, url
+
+### Deleted events
+
+- **Securing the Market: AI, Predicting Hazards, and Managing Vulnerability** - 20260826 - Vrije Universiteit Amsterdam - https://mediaenv.ehc-amsterdam.nl/
+- **Big Tech and AI Systems in Global Climate Governance** - 20260826 - Vrije Universiteit Amsterdam - https://mediaenv.ehc-amsterdam.nl/
+- **Hackerspace Social Evening** - 20260826T173000Z - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-08-26/hackerspace-social-evening
+- **Chaos Amsterdam** - 20260827T180000Z - Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-08-27/chaos-amsterdam
+- **ABC Community  Bike Repair** - 20261020T110000Z - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-10-20/abc-community-bike-repair
+- **Hackerspace Social Evening** - 20261021T173000Z - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-10-21/hackerspace-social-evening
+- **Chaos Amsterdam** - 20261022T180000Z - Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-10-22/chaos-amsterdam
+
 ## 2026-08-26 10:04 CEST
 
 0 new, 0 updated, 0 deleted.
