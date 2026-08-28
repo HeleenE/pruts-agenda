@@ -1,5 +1,17 @@
 # Pruts Agenda Sync Digest
 
+## 2026-08-28 21:28 CEST
+
+0 new, 1 updated, 1 deleted.
+
+### Updated events
+
+- **Live Experimental / Noise / Harsh Fun / Electronics / Synthesis **: title
+
+### Deleted events
+
+- **Open Kaart Overheid – stop profilering en digitale uitsluiting!** - 20260828T140000Z - Expo - https://dezwijger.nl/programma/open-kaart-overheid-stop-profilering-en-digitale-uitsluiting-2
+
 ## 2026-08-27 20:20 CEST
 
 3 new, 1 updated, 7 deleted.
