@@ -1,5 +1,13 @@
 # Pruts Agenda Sync Digest
 
+## 2026-08-29 15:11 CEST
+
+0 new, 1 updated, 0 deleted.
+
+### Updated events
+
+- **Live Experimental / Noise / Harsh Fun / Electronics / Synthesis **: title
+
 ## 2026-08-28 21:28 CEST
 
 0 new, 1 updated, 1 deleted.
