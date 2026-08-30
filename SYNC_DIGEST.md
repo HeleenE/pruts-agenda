@@ -1,5 +1,17 @@
 # Pruts Agenda Sync Digest
 
+## 2026-08-30 14:57 CEST
+
+1 new, 1 updated, 0 deleted.
+
+### New events
+
+- **ABC Community  Bike Repair** - Tue 20 Oct 2026, 13:00 - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-10-20/abc-community-bike-repair
+
+### Updated events
+
+- **Live Experimental / Noise / Harsh Fun / Electronics / Synthesis **: title
+
 ## 2026-08-29 15:11 CEST
 
 0 new, 1 updated, 0 deleted.
