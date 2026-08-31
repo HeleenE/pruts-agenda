@@ -1,5 +1,19 @@
 # Pruts Agenda Sync Digest
 
+## 2026-08-31 17:10 CEST
+
+3 new, 1 updated, 0 deleted.
+
+### New events
+
+- **QUACK Community hang-out ** - Sun 13 Sep 2026, 14:00 - Amsterdam Nederland, The Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/quack-queers-undoing-ableism-care-kollective/2026-09-13/quack-community-hang-out
+- **Hackerspace Social Evening** - Wed 21 Oct 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-10-21/hackerspace-social-evening
+- **Chaos Amsterdam** - Thu 22 Oct 2026, 20:00 - Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-10-22/chaos-amsterdam
+
+### Updated events
+
+- **Live Experimental / Noise / Harsh Fun / Electronics / Synthesis **: title
+
 ## 2026-08-30 14:57 CEST
 
 1 new, 1 updated, 0 deleted.
