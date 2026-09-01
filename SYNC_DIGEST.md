@@ -1,5 +1,18 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-01 14:37 CEST
+
+0 new, 2 updated, 1 deleted.
+
+### Updated events
+
+- **Live Experimental / Noise / Harsh Fun / Electronics / Synthesis **: title
+- **QUACK Community hang-out **: title
+
+### Deleted events
+
+- **AI, Infrastructures and Sustainability** - 20260901 - https://spui25.nl/programma/ai-infrastructures-and-sustainability
+
 ## 2026-08-31 17:10 CEST
 
 3 new, 1 updated, 0 deleted.
