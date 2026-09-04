@@ -1,5 +1,20 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-04 14:09 CEST
+
+0 new, 2 updated, 3 deleted.
+
+### Updated events
+
+- **Live Experimental / Noise / Harsh Fun / Electronics / Synthesis **: title
+- **QUACK Community hang-out **: title
+
+### Deleted events
+
+- **Hackerspace Social Evening** - 20260902T173000Z - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-09-02/hackerspace-social-evening
+- **Memory, fantasy, and technology** - 20260903T170000Z - University Library UvA - https://files.criticalinfralab.net/apps/forms/s/kYatXGgwwCbeWAJfjQw4gH8P
+- **Rerooting** - 20260903T173000Z - Waag Futurelab, Nieuwmarkt 4, 1012CR Amsterdam - https://waag.org/en/event/rerooting
+
 ## 2026-09-03 14:08 CEST
 
 0 new, 0 updated, 0 deleted.
