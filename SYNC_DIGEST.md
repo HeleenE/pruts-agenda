@@ -1,5 +1,21 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-05 13:18 CEST
+
+1 new, 1 updated, 1 deleted.
+
+### New events
+
+- **Hackerspace Social Evening** - Wed 28 Oct 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-10-28/hackerspace-social-evening
+
+### Updated events
+
+- **QUACK Community hang-out **: title
+
+### Deleted events
+
+- **Live Experimental / Noise / Harsh Fun / Electronics / Synthesis** - 20260904T180000Z - Vondelbunker Vondelpark 8a  Amsterdam Pays-Bas - https://radar.squat.net/en/node/593957
+
 ## 2026-09-04 14:09 CEST
 
 0 new, 2 updated, 3 deleted.
