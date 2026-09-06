@@ -1,5 +1,13 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-06 13:41 CEST
+
+0 new, 1 updated, 0 deleted.
+
+### Updated events
+
+- **QUACK Community hang-out **: title
+
 ## 2026-09-05 13:18 CEST
 
 1 new, 1 updated, 1 deleted.
