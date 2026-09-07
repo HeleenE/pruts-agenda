@@ -1,5 +1,17 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-07 15:33 CEST
+
+0 new, 1 updated, 1 deleted.
+
+### Updated events
+
+- **QUACK Community hang-out **: title
+
+### Deleted events
+
+- **The Hmm @ Brainwash Festival** - 20261031T180000Z - https://thehmm.nl/event/the-hmm-brainwash-festival/
+
 ## 2026-09-06 13:41 CEST
 
 0 new, 1 updated, 0 deleted.
