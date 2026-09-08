@@ -1,5 +1,19 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-08 14:10 CEST
+
+2 new, 2 updated, 0 deleted.
+
+### New events
+
+- **The Hmm @ Brainwash Festival** - Sat 31 Oct 2026, 19:00 - https://thehmm.nl/event/the-hmm-brainwash-festival/
+- **ABC Community  Bike Repair** - Tue 03 Nov 2026, 13:00 - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-03/abc-community-bike-repair
+
+### Updated events
+
+- **QUACK Community hang-out **: title
+- **SOLD OUT! Echoes from Afar: Build your own archive**: title
+
 ## 2026-09-07 15:33 CEST
 
 0 new, 1 updated, 1 deleted.
