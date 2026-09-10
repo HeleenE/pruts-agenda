@@ -1,5 +1,23 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-10 14:16 CEST
+
+3 new, 1 updated, 1 deleted.
+
+### New events
+
+- **Mesh Networking with Reticulum** - Sat 19 Sep 2026, 15:00 - Netherlands, TechInc (Technologia Incognita) Louwesweg 1  Amsterdam Netherlands - https://radar.squat.net/en/event/reticulum-low-countries/2026-09-19/mesh-networking-reticulum
+- **Go (Game) Evening at Techinc** - Mon 28 Sep 2026, 19:15 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-09-28/go-game-evening-techinc
+- **Symposihmm 📡 Capture & Control** - Sat 24 Oct 2026, 11:00 - https://thehmm.nl/event/symposihmm-%f0%9f%93%a1-capture-control/
+
+### Updated events
+
+- **QUACK Community hang-out **: title
+
+### Deleted events
+
+- **Hackerspace Social Evening** - 20260909T173000Z - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-09-09/hackerspace-social-evening
+
 ## 2026-09-09 14:23 CEST
 
 0 new, 1 updated, 1 deleted.

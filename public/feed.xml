@@ -4,14 +4,7 @@
     <title>Pruts Agenda</title>
     <link>https://heleene.github.io/pruts-agenda/</link>
     <description>Upcoming hacker, maker and critical technology events.</description>
-    <lastBuildDate>Wed, 09 Sep 2026 12:23:09 GMT</lastBuildDate>
-    <item>
-      <title>Hackerspace Social Evening</title>
-      <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-09-09/hackerspace-social-evening</link>
-      <guid isPermaLink="false">pruts-agenda:6c0fe1149247379cf2916fd9439f81545cb33c32c894db665826ba02ee3c8db7</guid>
-      <pubDate>Wed, 09 Sep 2026 17:30:00 GMT</pubDate>
-      <description>09 Sep 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 12:16:21 GMT</lastBuildDate>
     <item>
       <title>AAAH!!! Security Culture Workshop/ Voku @ 19 00</title>
       <link>https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-09-10/aaah-security-culture-workshop-voku-19-00</link>
@@ -76,6 +69,13 @@
       <description>17 Sep 2026, 17:00 - Waag Futurelab, Nieuwmarkt 4, 1012CR Amsterdam - Waag - Join us in this festive opening of the exhibition during GLUE Amsterdam, where 9 works of artists and designers will be showcased.</description>
     </item>
     <item>
+      <title>Mesh Networking with Reticulum</title>
+      <link>https://radar.squat.net/en/event/reticulum-low-countries/2026-09-19/mesh-networking-reticulum</link>
+      <guid isPermaLink="false">pruts-agenda:fed0421f41f72d84f4602b0948e10f02e128ee01bc5217296f805f9e4e18b1d2</guid>
+      <pubDate>Sat, 19 Sep 2026 13:00:00 GMT</pubDate>
+      <description>19 Sep 2026, 15:00 - Netherlands, TechInc (Technologia Incognita) Louwesweg 1  Amsterdam Netherlands - Radar - A day of hacking on reticulum and mesh networking. Intros, presentations, workshops and more...</description>
+    </item>
+    <item>
       <title>Hackerspace Social Evening</title>
       <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-09-23/hackerspace-social-evening</link>
       <guid isPermaLink="false">pruts-agenda:825ca28c948e3599b99ab6d7f1fc268eb0c9d4d9f8579f64b1d18852740d1181</guid>
@@ -116,6 +116,13 @@
       <guid isPermaLink="false">pruts-agenda:d7553644261a89ccb424aec6788edf5f045c02ef85104e0dbec3cea7db12904d</guid>
       <pubDate>Sun, 27 Sep 2026 09:00:00 GMT</pubDate>
       <description>27 Sep 2026, 11:00 - NDSM Loods, Amsterdam - Waag - How can digital technology support craftsmanship without removing the maker from the process? In this lecture, Aslı Aydın Aksan explores the role of digital technology within craft.</description>
+    </item>
+    <item>
+      <title>Go (Game) Evening at Techinc</title>
+      <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-09-28/go-game-evening-techinc</link>
+      <guid isPermaLink="false">pruts-agenda:aa79c701711632dd126c993b807892a4979f7848935ef1134d81701056b5571e</guid>
+      <pubDate>Mon, 28 Sep 2026 17:15:00 GMT</pubDate>
+      <description>28 Sep 2026, 19:15 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Just an evening to play a friendly game of go (AKA Baduk or Wieqi). I will teach go (the game) and we will play. Don't expect high level play. There will also be other games in the genre available, e.g. Chess and Hive. The location is a shared workshop where members are free t...</description>
     </item>
     <item>
       <title>Hackerspace Social Evening</title>
@@ -186,6 +193,13 @@
       <guid isPermaLink="false">pruts-agenda:469ceee25cd96abbba8efb989796fe433c56da6d5e745156f917d91573fa1993</guid>
       <pubDate>Thu, 22 Oct 2026 18:00:00 GMT</pubDate>
       <description>22 Oct 2026, 20:00 - Budapest Pesthuislaan  Amsterdam Netherlands - Radar - A chaostreff in Amsterdam We meet every other Thursday. All creatures welcome. https://chaos.amsterdam/ Entrance is -in- the garden!</description>
+    </item>
+    <item>
+      <title>Symposihmm 📡 Capture &amp; Control</title>
+      <link>https://thehmm.nl/event/symposihmm-%f0%9f%93%a1-capture-control/</link>
+      <guid isPermaLink="false">pruts-agenda:59d57d77a17d4a0e9bd02ce176cf1fe86cc82129cc1f5d42221920991fc59118</guid>
+      <pubDate>Sat, 24 Oct 2026 09:00:00 GMT</pubDate>
+      <description>24 Oct 2026, 11:00 - The Hmm - With our second Symposihmm of the year, Capture &amp; Control, we’ll be exploring the entanglements between processes of physiological and geological capture. How can we make sense of this paranoid era in online platforms? And how are our minds and our planet being captured, rende...</description>
     </item>
     <item>
       <title>The nature of our monetary system</title>

@@ -6,28 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pruts Agenda
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
-UID:6c0fe1149247379cf2916fd9439f81545cb33c32c894db665826ba02ee3c8db7@pruts-
- agenda.local
-DTSTAMP:20260909T122309Z
-SUMMARY:Hackerspace Social Evening
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART:20260909T173000Z
-DTEND:20260909T173000Z
-DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
- open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
- visiting hackers welcome\, refugees welcome! Our phone number is listed at
-  the front door. Give it a call\, wait through the automated message\, and
-  someone should answer it and help you in.
-LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
-URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-0
- 9-09/hackerspace-social-evening
-CATEGORIES:work space/diy
-END:VEVENT
-BEGIN:VEVENT
 UID:a19fc75b90b42d74a87673a22109eb9e9fdf2ff033d1c608d5c7578ea10f9f32@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:AAAH!!! Security Culture Workshop/ Voku @ 19 00
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -60,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8c6bdb4b85daad4f05fcabca8cf3ec4a2ce626bef58ca5a0728c85c1adb65777@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -76,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5726ec1ff7f83a78ad0dfe6b9c96de926e09dfc75ba72cd77c5c38278fcfa7ca@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:SOLD OUT! Echoes from Afar: Build your own archive
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -129,7 +110,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:365f435f95ee770d55820182b8fc4f6c06fc386eb1aaed6c32e9cebe37c93fd4@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:QUACK Community hang-out 
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -167,7 +148,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c43d8b8552336ed610db14064b7f5d69859fc427a41c09399fd848457ae19707@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -199,7 +180,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:790984189c56ff5f8f6cfa0e7eb80f06d1aa4d1c47ba18f4162eef37718ed886@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:Creating with AI: Blasphemy or the next creative revolution?
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -216,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d32d591b6dc36a8ff340eab1f6471f1d4a2acfc91d1379bd8338272fa83f9875@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -235,7 +216,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:17ee0955d7c11542c5ba48542aec823b82e3f61c733028706f7004d7245e8d4d@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:GOGBOT 2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -249,7 +230,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9ba3566fd1f4e2fda2f58b9cc139c12b5b080cf730d8b931e83a127e1dd26d4c@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:Opening: Buy it\, use it\, break it\, fix it
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -262,9 +243,27 @@ URL:https://waag.org/en/event/opening-buy-it-use-it-break-it-fix-it
 CATEGORIES:Waag
 END:VEVENT
 BEGIN:VEVENT
+UID:fed0421f41f72d84f4602b0948e10f02e128ee01bc5217296f805f9e4e18b1d2@pruts-
+ agenda.local
+DTSTAMP:20260910T121621Z
+SUMMARY:Mesh Networking with Reticulum
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260919T130000Z
+DTEND:20260919T214000Z
+DESCRIPTION:A day of hacking on reticulum and mesh networking. Intros\, pre
+ sentations\, workshops and more...
+LOCATION:Netherlands\, TechInc (Technologia Incognita) Louwesweg 1  Amsterd
+ am Netherlands
+URL:https://radar.squat.net/en/event/reticulum-low-countries/2026-09-19/mes
+ h-networking-reticulum
+CATEGORIES:course/workshop\,discussion/presentation\,exhibition\,guided tou
+ r\,work space/diy
+END:VEVENT
+BEGIN:VEVENT
 UID:825ca28c948e3599b99ab6d7f1fc268eb0c9d4d9f8579f64b1d18852740d1181@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -283,7 +282,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bd852140b31290f44ec590d7f3c50cd5dc2fa681fa13c7b8c079e3eab84a7a69@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -299,7 +298,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3b9baca6d5a09c26e6abf900c8d7497423697035c55fe2d9d9d9bf035c1b6edb@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:Games for Cities Autumn ’26 Training Showcase
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -315,7 +314,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dd5b5599113184bf0c08ffe0939413c4f7a923018bca48578e4759a39d049ec1@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:Ambacht in Beeld Festival
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -330,7 +329,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a2da754dde15bc94fc334ddc7764eedb625c6f0ec61f3ca704ea99e5fd910505@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:SOLD OUT! Cyberdeck workshop: build your own 'mesh-berry' 🫐
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -394,7 +393,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d7553644261a89ccb424aec6788edf5f045c02ef85104e0dbec3cea7db12904d@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:Bridging the gap: digital technology as enhancement\, not replaceme
  nt
 STATUS:CONFIRMED
@@ -410,9 +409,32 @@ URL:https://waag.org/en/event/bridging-gap-digital-technology-enhancement-n
 CATEGORIES:Waag
 END:VEVENT
 BEGIN:VEVENT
+UID:aa79c701711632dd126c993b807892a4979f7848935ef1134d81701056b5571e@pruts-
+ agenda.local
+DTSTAMP:20260910T121621Z
+SUMMARY:Go (Game) Evening at Techinc
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260928T171500Z
+DTEND:20260928T171500Z
+DESCRIPTION:Just an evening to play a friendly game of go (AKA Baduk or Wie
+ qi). I will teach go (the game) and we will play. Don't expect high level 
+ play. There will also be other games in the genre available\, e.g. Chess a
+ nd Hive. The location is a shared workshop where members are free to organ
+ ize events. There are soft drinks available for sale\, but you're welcome 
+ to bring your own. If you're not a member\, you can just show up and phone
+  the number on the front door\, and someone will come down and let you in.
+  Discussion of the programming language is not encouraged\, but tolerated.
+  https://wiki.techinc.nl/Go_Evening_2026-08-03
+LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-0
+ 9-28/go-game-evening-techinc
+CATEGORIES:bar/cafe
+END:VEVENT
+BEGIN:VEVENT
 UID:dd3f6de5d09d3feaa8f04d11d7910a3b712ec1e626f9acc282e21f0fc6ab9905@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -431,7 +453,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a46dd6708801c93314ee1c185be16373d850f4ceafef0d271591cdad6c9e635d@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:On the hunt for public tech
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -447,7 +469,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3dc7e15b3f4c622c2a3f9b0aab44c9db32cc8285f36bfa98301d3cdb8d319037@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:The Cowan Paradox & Other Inconveniences
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -490,7 +512,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1d3c6f645a0ea76a14218170a4998d9d7ef39b016fb62c9581b8c464ad573359@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -522,7 +544,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:397fdc2ec14395db4d547db76cccc56e758bca8a138e3d774166c147efe57fb2@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -541,7 +563,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a329f530bed3f14f6027aa8085780944e4f337ebe94bf607d6e7decdecf2c6d5@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -557,7 +579,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:02a4e4f87d64eca47b5549628e3e9ec8823d650ad2557293da8ab46cede648a2@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -576,7 +598,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c3937222052f2de34cbbe3809cc06853226faadcdcbe06ba59e674ff39148e08@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -608,7 +630,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9b84a1bc35682176bce547cb791524607d75e82ada72bfdf1242ae5da7fa081f@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -627,7 +649,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:469ceee25cd96abbba8efb989796fe433c56da6d5e745156f917d91573fa1993@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -641,9 +663,82 @@ URL:https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-10-22/c
 CATEGORIES:bar/cafe\,discussion/presentation\,meeting\,ccc
 END:VEVENT
 BEGIN:VEVENT
+UID:59d57d77a17d4a0e9bd02ce176cf1fe86cc82129cc1f5d42221920991fc59118@pruts-
+ agenda.local
+DTSTAMP:20260910T121621Z
+SUMMARY:Symposihmm 📡 Capture & Control
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20261024T090000Z
+DTEND:20261024T150000Z
+DESCRIPTION:With our second Symposihmm of the year\, Capture & Control\, we
+ ’ll be exploring the entanglements between processes of physiological an
+ d geological capture. How can we make sense of this paranoid era in online
+  platforms? And how are our minds and our planet being captured\, rendered
+ \, and manipulated?\n\nIn the 2000s\, Stanford University taught ‘captol
+ ogy’\, a course on computers as persuasive technologies. It’s perhaps
+  no surprise that Mike Krieger\, who went on to create Instagram\, took th
+ is class. Over the past twenty years\, social media platforms have continu
+ ed to perfect the tools of persuasion. They have figured out with extreme
+  precision how to grab and hold our attention\, while simultaneously becom
+ ing the main source of information for many people. Following these shifts
+  online\, artist and researcher Trevor Paglen has argued that these platfo
+ rms are the perfect place for “influence operations”\, referring to th
+ e psyops (psychological operations) of secret services. Whereas back in th
+ e day no one on the internet knew you were a dog\, today you can’t tell 
+ who’s a bot\, troll\, or CIA agent.  A notion that can feed into conspi
+ ratorial thinking and schizoposting. For Paglen\, we are currently moving 
+ from surveillance capitalism into an era of psyops capitalism\, where our 
+ behaviour is not only being tracked for profit\, but also manipulated and 
+ steered. Others are calling this era\, and the online visual culture in it
+ s wake\, “pysop realism”\, pointing to conspiracy minded posts rooted 
+ in distrust and paranoia.\nWhile we comment\, post\, and scroll our way th
+ rough social media—externalising our thoughts for data capture—the ram
+ pant digitisation and replication of the earth and biological life is quie
+ tly taking place. Companies like Quixel\, with over 18\,000 3D assets that
+  they’ve captured—plants\, rocks\, logs\, coral reefs\, forest floors
+ —sell our earth back to us to be used in gaming and other industries. Go
+ ogle Maps has led to Google Earth has led to the end-goal of digitally cap
+ turing the entire planet in order to create digital twins\, train AI world
+  models\, ‘preserve’ habitats and monuments on the brink of collapse\,
+  and build predictive systems. Palantir thrives on this data hoarding\, us
+ ing it to analyse and create connections within disconnected data sets for
+  militarisation and surveillance purposes. In the US\, Flock cameras scan 
+ around 20 billion license plates every month\, tracking the movement of pe
+ ople within cities and between states. And surveillance is expanding even 
+ further\, onto our own bodies\, with Meta selling over 7 million pairs of 
+ their Ray-Ban smart glasses in 2025\, a huge jump from previous years. The
+  processes of capturing\, connecting\, and analysing every element on eart
+ h is no longer a paranoid delusion\, it’s unfolding in front of our eyes
+ . \n📋 Program\n11.00 – 12.30 \n\nWelcome and introduction\nTalk b
+ y Daniël de Zeeuw\nTalk by Sophie Publig & Mikkel Rørbo\n\n12.30 – 13.
+ 15 \n\nLunch break\n\n13.15 – 15.00 \n\nHalf-Earth Socialism: A Plan
+ etary Crisis Game with Francis Tseng\nThe Internet is a Horrible Place and
+  I’m Here to Make it Worse: A workshop with Noura Tafeche\n\n15.15 –
+  17.00 \n\nLecture-performance with Emilia Tapprest & Søren Siebel\nCon
+ versation with Marina Otero Verzier\n\nThroughout the day there will be an
+  exhibition with works by Nick Vyssotsky and more artists to be announced.
+  \nPlease note that the activities between 13.15 and 15.00 won’t be broa
+ dcast on our livestream. Upon arrival at A Lab you can sign up for one of 
+ the activities on a first-come-first-served basis. \n📅 Date: Saturday 2
+ 4 October\n🕗 Time: 11.00 – 17.00 CEST\n📍 Location: A Lab and
+  livestream on The Inbetween\n🎟️ Tickets: Onsite €27\,50/Student 
+ €20/Livestream 7\,50 \n♿ Accessibility notes\nDuring the event we can 
+ provide live closed captioning for those with hearing impairments and disa
+ bilities. Please reach out to us via info@thehmm.nl—at least 3 days befo
+ re the event if possible—if you are joining on-site and have this access
+  need\, so that we can reserve a seat for you within view of the screen wi
+ th captions. If you are joining online via our livestream\, live captionin
+ g will be available as one of the streaming modes. \n🩵 This programme i
+ s kindly supported by the Creative Industries Fund NL\, AFK and hosted by
+  A Lab.
+URL:https://thehmm.nl/event/symposihmm-%f0%9f%93%a1-capture-control/
+CATEGORIES:The Hmm
+END:VEVENT
+BEGIN:VEVENT
 UID:8862d785a848ccb7cfbb32176dfcd90b130d4e2ff6a6c550860d26a053a6441a@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:The nature of our monetary system
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -660,7 +755,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1f87952e8153fff7bb9088c5894e8cac1b885a677950a1a0faa2a7ab4dd091b2@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -679,7 +774,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7fa32419d9094e8eda459f241a4df7383b08178f5a539ff8d45863d744b2f764@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:The Hmm @ Brainwash Festival
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -747,7 +842,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6b5b0e0ebc710ab42e4e9025d504e4db242ae31a3570e50140c9790dc661a331@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:Cyberdeck workshop: build your own 'mesh-berry' #2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -811,7 +906,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:784b736186fce05be5e60324a2ec978823e672ca45dbe5175dfe9c2895156008@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:40th Chaos Communication Congress
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -825,7 +920,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5dcf5d3deac925e519d6abbf9507de696d5859c1717815547af8d8357dc3a98d@pruts-
  agenda.local
-DTSTAMP:20260909T122309Z
+DTSTAMP:20260910T121621Z
 SUMMARY:FAB27 Oulu
 STATUS:CONFIRMED
 TRANSP:OPAQUE
