@@ -6,58 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pruts Agenda
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
-UID:a19fc75b90b42d74a87673a22109eb9e9fdf2ff033d1c608d5c7578ea10f9f32@pruts-
- agenda.local
-DTSTAMP:20260910T121621Z
-SUMMARY:AAAH!!! Security Culture Workshop/ Voku @ 19 00
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART:20260910T170000Z
-DTEND:20260910T210000Z
-DESCRIPTION:Special Event- Security Culture Workshop. Come for a Vegan Voku
-  @ 19 00 -Donations go to a AAAH!-mazing cause. Workshop @ 20 00- Bring Ca
- sh for drinks and voku What is AAAH!? AAAH! is a weekly Anarchist Action A
- ssistance Hour\, where you can meet other groups that can support you with
-  pulling off your action\, or give advice about logistics. During AAAH! yo
- u can make connections with groups including\, but not limited to: Street 
- Medics\, Support &amp\; Recovery\, and Arrestantengroep. How does AAAH wor
- k? We do consultations weekly\, you can walk in every Thursday from 19:00 
- until 20:30. If you want to talk to a specific group\, please reach out to
-  us beforehand so we can make sure the right person is present. You can do
-  this either by stopping by or e-mailing us at: a-a-a-h@riseup.net . Pleas
- e do not e-mail us any details of your action\, we would love to hear it i
- n person. We are also open as a meeting space for action groups during the
-  assistance hour. If your collective wants to meet during AAAH: reach out 
- to us! I don’t identify as an anarchist\, am I still welcome? That depen
- ds! Are you fighting for a better world\, and do you not exclude other pro
- gressive movements? Then yes! But please keep in mind we only organize acc
- ording to anarchist principles\, this means we organize horizontally and h
- elp people who do the same.
-LOCATION:Vrankrijk Spuistraat 216  Amsterdam Pays-Bas
-URL:https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-09-10/aaah-se
- curity-culture-workshop-voku-19-00
-CATEGORIES:diy workshop
-END:VEVENT
-BEGIN:VEVENT
-UID:8c6bdb4b85daad4f05fcabca8cf3ec4a2ce626bef58ca5a0728c85c1adb65777@pruts-
- agenda.local
-DTSTAMP:20260910T121621Z
-SUMMARY:Chaos Amsterdam
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART:20260910T180000Z
-DTEND:20260910T180000Z
-DESCRIPTION:A chaostreff in Amsterdam We meet every other Thursday. All cre
- atures welcome. https://chaos.amsterdam/ Entrance is -in- the garden!
-LOCATION:Budapest Pesthuislaan  Amsterdam Netherlands
-URL:https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-09-10/c
- haos-amsterdam
-CATEGORIES:bar/cafe\,discussion/presentation\,meeting\,ccc
-END:VEVENT
-BEGIN:VEVENT
 UID:5726ec1ff7f83a78ad0dfe6b9c96de926e09dfc75ba72cd77c5c38278fcfa7ca@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:SOLD OUT! Echoes from Afar: Build your own archive
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -110,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:365f435f95ee770d55820182b8fc4f6c06fc386eb1aaed6c32e9cebe37c93fd4@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:QUACK Community hang-out 
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -148,7 +99,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c43d8b8552336ed610db14064b7f5d69859fc427a41c09399fd848457ae19707@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -180,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:790984189c56ff5f8f6cfa0e7eb80f06d1aa4d1c47ba18f4162eef37718ed886@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:Creating with AI: Blasphemy or the next creative revolution?
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -197,7 +148,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d32d591b6dc36a8ff340eab1f6471f1d4a2acfc91d1379bd8338272fa83f9875@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -216,7 +167,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:17ee0955d7c11542c5ba48542aec823b82e3f61c733028706f7004d7245e8d4d@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:GOGBOT 2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -230,7 +181,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9ba3566fd1f4e2fda2f58b9cc139c12b5b080cf730d8b931e83a127e1dd26d4c@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:Opening: Buy it\, use it\, break it\, fix it
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -245,7 +196,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fed0421f41f72d84f4602b0948e10f02e128ee01bc5217296f805f9e4e18b1d2@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:Mesh Networking with Reticulum
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -263,7 +214,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:825ca28c948e3599b99ab6d7f1fc268eb0c9d4d9f8579f64b1d18852740d1181@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -282,7 +233,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bd852140b31290f44ec590d7f3c50cd5dc2fa681fa13c7b8c079e3eab84a7a69@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -298,7 +249,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3b9baca6d5a09c26e6abf900c8d7497423697035c55fe2d9d9d9bf035c1b6edb@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:Games for Cities Autumn ’26 Training Showcase
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -314,7 +265,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dd5b5599113184bf0c08ffe0939413c4f7a923018bca48578e4759a39d049ec1@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:Ambacht in Beeld Festival
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -329,7 +280,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a2da754dde15bc94fc334ddc7764eedb625c6f0ec61f3ca704ea99e5fd910505@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:SOLD OUT! Cyberdeck workshop: build your own 'mesh-berry' 🫐
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -393,7 +344,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d7553644261a89ccb424aec6788edf5f045c02ef85104e0dbec3cea7db12904d@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:Bridging the gap: digital technology as enhancement\, not replaceme
  nt
 STATUS:CONFIRMED
@@ -411,7 +362,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aa79c701711632dd126c993b807892a4979f7848935ef1134d81701056b5571e@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:Go (Game) Evening at Techinc
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -434,7 +385,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dd3f6de5d09d3feaa8f04d11d7910a3b712ec1e626f9acc282e21f0fc6ab9905@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -453,7 +404,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a46dd6708801c93314ee1c185be16373d850f4ceafef0d271591cdad6c9e635d@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:On the hunt for public tech
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -469,7 +420,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3dc7e15b3f4c622c2a3f9b0aab44c9db32cc8285f36bfa98301d3cdb8d319037@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:The Cowan Paradox & Other Inconveniences
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -512,7 +463,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1d3c6f645a0ea76a14218170a4998d9d7ef39b016fb62c9581b8c464ad573359@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -544,7 +495,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:397fdc2ec14395db4d547db76cccc56e758bca8a138e3d774166c147efe57fb2@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -563,7 +514,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a329f530bed3f14f6027aa8085780944e4f337ebe94bf607d6e7decdecf2c6d5@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -579,7 +530,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:02a4e4f87d64eca47b5549628e3e9ec8823d650ad2557293da8ab46cede648a2@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -598,7 +549,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c3937222052f2de34cbbe3809cc06853226faadcdcbe06ba59e674ff39148e08@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -630,7 +581,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9b84a1bc35682176bce547cb791524607d75e82ada72bfdf1242ae5da7fa081f@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -649,7 +600,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:469ceee25cd96abbba8efb989796fe433c56da6d5e745156f917d91573fa1993@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -665,7 +616,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:59d57d77a17d4a0e9bd02ce176cf1fe86cc82129cc1f5d42221920991fc59118@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:Symposihmm 📡 Capture & Control
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -723,22 +674,27 @@ DESCRIPTION:With our second Symposihmm of the year\, Capture & Control\, we
  the activities on a first-come-first-served basis. \n📅 Date: Saturday 2
  4 October\n🕗 Time: 11.00 – 17.00 CEST\n📍 Location: A Lab and
   livestream on The Inbetween\n🎟️ Tickets: Onsite €27\,50/Student 
- €20/Livestream 7\,50 \n♿ Accessibility notes\nDuring the event we can 
- provide live closed captioning for those with hearing impairments and disa
- bilities. Please reach out to us via info@thehmm.nl—at least 3 days befo
- re the event if possible—if you are joining on-site and have this access
-  need\, so that we can reserve a seat for you within view of the screen wi
- th captions. If you are joining online via our livestream\, live captionin
- g will be available as one of the streaming modes. \n🩵 This programme i
- s kindly supported by the Creative Industries Fund NL\, AFK and hosted by
-  A Lab.
+ €20/Livestream 7\,50 \n♿ Accessibility \n\nAt the venue\, a wheelchair
+ -accessible ramp is available\, as well as a wheelchair lift. The lift nee
+ ds to be arranged in advance\, so please email us at info@thehmm.nl\, at l
+ east 3 days before the event\, to let us know if you will need it. This al
+ lows us to make sure everything is ready and accessible upon arrival.\nA L
+ ab has an accessible MIVA (wheelchair-accessible) toilet that meets the ap
+ plicable accessibility requirements.\nDuring the event we can provide live
+  closed captioning for those with hearing impairments and disabilities. Pl
+ ease reach out to us via info@thehmm.nl—at least 3 days before the event
+  if possible—if you are joining on-site and have this access need\, so t
+ hat we can reserve a seat for you within view of the screen with captions.
+  If you are joining online via our livestream\, live captioning will be av
+ ailable as one of the streaming modes.\n\n🩵 This programme is kindly su
+ pported by the Creative Industries Fund NL\, AFK and hosted by A Lab.
 URL:https://thehmm.nl/event/symposihmm-%f0%9f%93%a1-capture-control/
 CATEGORIES:The Hmm
 END:VEVENT
 BEGIN:VEVENT
 UID:8862d785a848ccb7cfbb32176dfcd90b130d4e2ff6a6c550860d26a053a6441a@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:The nature of our monetary system
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -755,7 +711,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1f87952e8153fff7bb9088c5894e8cac1b885a677950a1a0faa2a7ab4dd091b2@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -774,7 +730,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7fa32419d9094e8eda459f241a4df7383b08178f5a539ff8d45863d744b2f764@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:The Hmm @ Brainwash Festival
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -840,9 +796,41 @@ URL:https://thehmm.nl/event/the-hmm-brainwash-festival/
 CATEGORIES:The Hmm
 END:VEVENT
 BEGIN:VEVENT
+UID:8f48e9872d273711da503043950bbd285fdfce027a0784382a23579d758228d9@pruts-
+ agenda.local
+DTSTAMP:20260911T121506Z
+SUMMARY:ABC Community  Bike Repair
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20261103T120000Z
+DTEND:20261103T170000Z
+DESCRIPTION:ABC Community bike repair event Is your bike making a weird noi
+ se? Do you just need a 15mm wrench to tighten the wheels? Or do you want t
+ o pimp your ride? ABC is hosting a community bike repair session at the Vr
+ ankrijk on the 1st and 3rd Tuesdays of the month from 13:00-18:00. This ev
+ ent is hosted by the ABC\, the Anarchist Bike Collective. We want to truly
+  build bike sharing. With the growing repression on activist and demonstra
+ tors it is crucial we build community resources and practice non-violent p
+ rovocation. Inspired by Provo's white bikes we have been fixing and distri
+ buting bikes with combination locks throughout Amsterdam. So if you want t
+ o fix your bike\, or have ideas on how to source\, maintain and utilise tr
+ ue bike sharing come by for a tea. Anarchist Bike Collective is looking fo
+ r more ppl who know something about bikes to help guide folks during our e
+ vents. We are a small non-hierarchical group of anarchists who are right n
+ ow focused on our bike repair cafe but with more people and time we can br
+ ing back our bike-sharing! We are looking for ppl who can help others repa
+ ir their bikes\, and provide some guidance for those with less experience.
+  If you know someone or are someone who would be interested\, please come 
+ to our next ABC event on Tues Nov 4 from 13:00-18:00 at the Vrankrijk. Or 
+ email us at Abikecollective@protonmail.com
+LOCATION:Vrankrijk Spuistraat 216  Amsterdam Pays-Bas
+URL:https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-03/abc-com
+ munity-bike-repair
+END:VEVENT
+BEGIN:VEVENT
 UID:6b5b0e0ebc710ab42e4e9025d504e4db242ae31a3570e50140c9790dc661a331@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:Cyberdeck workshop: build your own 'mesh-berry' #2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -906,7 +894,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:784b736186fce05be5e60324a2ec978823e672ca45dbe5175dfe9c2895156008@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:40th Chaos Communication Congress
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -920,7 +908,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5dcf5d3deac925e519d6abbf9507de696d5859c1717815547af8d8357dc3a98d@pruts-
  agenda.local
-DTSTAMP:20260910T121621Z
+DTSTAMP:20260911T121506Z
 SUMMARY:FAB27 Oulu
 STATUS:CONFIRMED
 TRANSP:OPAQUE

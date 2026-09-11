@@ -1,5 +1,22 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-11 14:15 CEST
+
+1 new, 1 updated, 2 deleted.
+
+### New events
+
+- **ABC Community  Bike Repair** - Tue 03 Nov 2026, 13:00 - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-03/abc-community-bike-repair
+
+### Updated events
+
+- **QUACK Community hang-out **: title
+
+### Deleted events
+
+- **AAAH!!! Security Culture Workshop/ Voku @ 19 00** - 20260910T170000Z - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-09-10/aaah-security-culture-workshop-voku-19-00
+- **Chaos Amsterdam** - 20260910T180000Z - Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-09-10/chaos-amsterdam
+
 ## 2026-09-10 14:16 CEST
 
 3 new, 1 updated, 1 deleted.
