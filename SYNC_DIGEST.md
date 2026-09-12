@@ -1,5 +1,17 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-12 13:39 CEST
+
+1 new, 1 updated, 0 deleted.
+
+### New events
+
+- **Harsh Computer - Live experimental computermusic and noise** - Fri 09 Oct 2026, 20:00 - Vondelbunker Vondelpark 8a  Amsterdam Pays-Bas - https://radar.squat.net/en/node/596392
+
+### Updated events
+
+- **QUACK Community hang-out **: title
+
 ## 2026-09-11 14:15 CEST
 
 1 new, 1 updated, 2 deleted.
