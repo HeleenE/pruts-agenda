@@ -1,5 +1,22 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-13 14:46 CEST
+
+2 new, 1 updated, 1 deleted.
+
+### New events
+
+- **Hackerspace Social Evening** - Wed 04 Nov 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-11-04/hackerspace-social-evening
+- **Chaos Amsterdam** - Thu 05 Nov 2026, 20:00 - Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-11-05/chaos-amsterdam
+
+### Updated events
+
+- **QUACK Community hang-out **: title
+
+### Deleted events
+
+- **SOLD OUT! Echoes from Afar: Build your own archive** - 20260912T120000Z - https://thehmm.nl/event/echoes-from-afar-build-your-own-archive/
+
 ## 2026-09-12 13:39 CEST
 
 1 new, 1 updated, 0 deleted.
