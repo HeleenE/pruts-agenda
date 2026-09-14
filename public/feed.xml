@@ -4,14 +4,7 @@
     <title>Pruts Agenda</title>
     <link>https://heleene.github.io/pruts-agenda/</link>
     <description>Upcoming hacker, maker and critical technology events.</description>
-    <lastBuildDate>Sun, 13 Sep 2026 12:46:16 GMT</lastBuildDate>
-    <item>
-      <title>QUACK Community hang-out </title>
-      <link>https://radar.squat.net/en/event/amsterdam/quack-queers-undoing-ableism-care-kollective/2026-09-13/quack-community-hang-out</link>
-      <guid isPermaLink="false">pruts-agenda:365f435f95ee770d55820182b8fc4f6c06fc386eb1aaed6c32e9cebe37c93fd4</guid>
-      <pubDate>Sun, 13 Sep 2026 12:00:00 GMT</pubDate>
-      <description>13 Sep 2026, 14:00 - Amsterdam Nederland, The Budapest Pesthuislaan  Amsterdam Netherlands - Radar - Our community gatherings are for everyone who experiences ableism, including (but not limited to) neurodiverse, disabled, chronically ill and mad people. Have you diagnosed yourself? You are welcome! Not sure if you are disabled, neurodiverse (etc.) enough for this gathering?...</description>
-    </item>
+    <lastBuildDate>Mon, 14 Sep 2026 14:10:45 GMT</lastBuildDate>
     <item>
       <title>ABC Community  Bike Repair</title>
       <link>https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-09-15/abc-community-bike-repair</link>
@@ -52,7 +45,7 @@
       <link>https://radar.squat.net/en/event/reticulum-low-countries/2026-09-19/mesh-networking-reticulum</link>
       <guid isPermaLink="false">pruts-agenda:fed0421f41f72d84f4602b0948e10f02e128ee01bc5217296f805f9e4e18b1d2</guid>
       <pubDate>Sat, 19 Sep 2026 13:00:00 GMT</pubDate>
-      <description>19 Sep 2026, 15:00 - Netherlands, TechInc (Technologia Incognita) Louwesweg 1  Amsterdam Netherlands - Radar - A day of hacking on reticulum and mesh networking. Intros, presentations, workshops and more...</description>
+      <description>19 Sep 2026, 15:00 - Netherlands, TechInc (Technologia Incognita) Louwesweg 1  Amsterdam Netherlands - Radar - A day of hacking on reticulum and mesh networking. Intros, presentations, workshops and more... This event is open to all technical levels and we welcome beginners - Doors Open 3PM Presentations and discussion/hacking in the main room. See schedule below! Continual bootstrap w...</description>
     </item>
     <item>
       <title>Hackerspace Social Evening</title>
@@ -179,6 +172,13 @@
       <guid isPermaLink="false">pruts-agenda:469ceee25cd96abbba8efb989796fe433c56da6d5e745156f917d91573fa1993</guid>
       <pubDate>Thu, 22 Oct 2026 18:00:00 GMT</pubDate>
       <description>22 Oct 2026, 20:00 - Budapest Pesthuislaan  Amsterdam Netherlands - Radar - A chaostreff in Amsterdam We meet every other Thursday. All creatures welcome. https://chaos.amsterdam/ Entrance is -in- the garden!</description>
+    </item>
+    <item>
+      <title>National Design Debate 2026</title>
+      <link>https://waag.org/en/event/national-design-debate-2026</link>
+      <guid isPermaLink="false">pruts-agenda:81318207699cb222ff186dde21f124011d17a7d592533e60bbb82e64c8900213</guid>
+      <pubDate>Fri, 23 Oct 2026 13:00:00 GMT</pubDate>
+      <description>23 Oct 2026, 15:00 - Waag</description>
     </item>
     <item>
       <title>Symposihmm 📡 Capture &amp; Control</title>

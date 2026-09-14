@@ -1,5 +1,17 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-14 16:10 CEST
+
+1 new, 0 updated, 1 deleted.
+
+### New events
+
+- **National Design Debate 2026** - Fri 23 Oct 2026, 15:00 - https://waag.org/en/event/national-design-debate-2026
+
+### Deleted events
+
+- **QUACK Community hang-out** - 20260913T120000Z - Amsterdam Nederland, The Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/quack-queers-undoing-ableism-care-kollective/2026-09-13/quack-community-hang-out
+
 ## 2026-09-13 14:46 CEST
 
 2 new, 1 updated, 1 deleted.
