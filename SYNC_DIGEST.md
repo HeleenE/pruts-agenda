@@ -1,5 +1,13 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-15 14:43 CEST
+
+0 new, 1 updated, 0 deleted.
+
+### Updated events
+
+- **SOLD OUT! Cyberdeck workshop: build your own 'mesh-berry' 🫐 #2**: title
+
 ## 2026-09-14 16:10 CEST
 
 1 new, 0 updated, 1 deleted.
