@@ -1,5 +1,19 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-16 14:38 CEST
+
+2 new, 0 updated, 2 deleted.
+
+### New events
+
+- **Anarchist Repair Cafe & end of 10** - Mon 05 Oct 2026, 19:00 - LAG Eerste Schinkelstraat 14-16  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/lag/2026-10-05/anarchist-repair-cafe-end-10
+- **Anarchist Repair Cafe & end of 10** - Mon 02 Nov 2026, 19:00 - LAG Eerste Schinkelstraat 14-16  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/lag/2026-11-02/anarchist-repair-cafe-end-10
+
+### Deleted events
+
+- **ABC Community  Bike Repair** - 20260915T110000Z - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-09-15/abc-community-bike-repair
+- **Creating with AI: Blasphemy or the next creative revolution?** - 20260915T130000Z - IJzaal PDZ - https://dezwijger.nl/programma/creating-with-ai-blasphemy-or-the-next-creative-revolution
+
 ## 2026-09-15 14:43 CEST
 
 0 new, 1 updated, 0 deleted.
