@@ -1,5 +1,19 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-18 14:16 CEST
+
+2 new, 0 updated, 2 deleted.
+
+### New events
+
+- **proxycafe - RISE AGAINST BIG TECH** - Wed 21 Oct 2026, 19:00 - Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas - https://radar.squat.net/en/proxycafe-rise-against-big-tech
+- **Celebrating 10 Years of The Hmm + Book Launch** - Fri 11 Dec 2026, 19:00 - https://thehmm.nl/event/celebrating-10-years-of-the-hmm-book-launch/
+
+### Deleted events
+
+- **Hackerspace Social Evening** - 20260916T173000Z - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-09-16/hackerspace-social-evening
+- **Opening: Buy it, use it, break it, fix it** - 20260917T150000Z - Waag Futurelab, Nieuwmarkt 4, 1012CR Amsterdam - https://waag.org/en/event/opening-buy-it-use-it-break-it-fix-it
+
 ## 2026-09-17 14:38 CEST
 
 0 new, 0 updated, 0 deleted.

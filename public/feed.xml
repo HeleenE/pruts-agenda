@@ -4,27 +4,13 @@
     <title>Pruts Agenda</title>
     <link>https://heleene.github.io/pruts-agenda/</link>
     <description>Upcoming hacker, maker and critical technology events.</description>
-    <lastBuildDate>Wed, 16 Sep 2026 12:38:58 GMT</lastBuildDate>
-    <item>
-      <title>Hackerspace Social Evening</title>
-      <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-09-16/hackerspace-social-evening</link>
-      <guid isPermaLink="false">pruts-agenda:d32d591b6dc36a8ff340eab1f6471f1d4a2acfc91d1379bd8338272fa83f9875</guid>
-      <pubDate>Wed, 16 Sep 2026 17:30:00 GMT</pubDate>
-      <description>16 Sep 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
-    </item>
+    <lastBuildDate>Fri, 18 Sep 2026 12:16:17 GMT</lastBuildDate>
     <item>
       <title>GOGBOT 2026</title>
       <link>https://www.gogbot.nl/</link>
       <guid isPermaLink="false">pruts-agenda:17ee0955d7c11542c5ba48542aec823b82e3f61c733028706f7004d7245e8d4d</guid>
       <pubDate>Thu, 17 Sep 2026 10:00:00 GMT</pubDate>
       <description>17 Sep 2026 - Enschede, Netherlands - Manufactured Minds. Festival for art, music and technology.</description>
-    </item>
-    <item>
-      <title>Opening: Buy it, use it, break it, fix it</title>
-      <link>https://waag.org/en/event/opening-buy-it-use-it-break-it-fix-it</link>
-      <guid isPermaLink="false">pruts-agenda:9ba3566fd1f4e2fda2f58b9cc139c12b5b080cf730d8b931e83a127e1dd26d4c</guid>
-      <pubDate>Thu, 17 Sep 2026 15:00:00 GMT</pubDate>
-      <description>17 Sep 2026, 17:00 - Waag Futurelab, Nieuwmarkt 4, 1012CR Amsterdam - Waag - Join us in this festive opening of the exhibition during GLUE Amsterdam, where 9 works of artists and designers will be showcased.</description>
     </item>
     <item>
       <title>Mesh Networking with Reticulum</title>
@@ -153,6 +139,13 @@
       <description>20 Oct 2026, 13:00 - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - Radar - ABC Community bike repair event Is your bike making a weird noise? Do you just need a 15mm wrench to tighten the wheels? Or do you want to pimp your ride? ABC is hosting a community bike repair session at the Vrankrijk on the 1st and 3rd Tuesdays of the month from 13:00-18:00....</description>
     </item>
     <item>
+      <title>proxycafe - RISE AGAINST BIG TECH</title>
+      <link>https://radar.squat.net/en/proxycafe-rise-against-big-tech</link>
+      <guid isPermaLink="false">pruts-agenda:80fa4c0102d56bc1e7a71b1746f0de3e8a7d16f4269d75faee1b4f67286b4667</guid>
+      <pubDate>Wed, 21 Oct 2026 17:00:00 GMT</pubDate>
+      <description>21 Oct 2026, 19:00 - Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas - Radar - We are living inside a sci-fi book. Which narrative of resistance are we going to write? In this talk we want to open a discussion, talk about the resistance to big tech. Which kind of alternatives are we working on? https://riseagainstbig.tech/ Proxycafe, free software worksh...</description>
+    </item>
+    <item>
       <title>Hackerspace Social Evening</title>
       <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-10-21/hackerspace-social-evening</link>
       <guid isPermaLink="false">pruts-agenda:9b84a1bc35682176bce547cb791524607d75e82ada72bfdf1242ae5da7fa081f</guid>
@@ -235,6 +228,13 @@
       <guid isPermaLink="false">pruts-agenda:6b5b0e0ebc710ab42e4e9025d504e4db242ae31a3570e50140c9790dc661a331</guid>
       <pubDate>Sat, 07 Nov 2026 12:00:00 GMT</pubDate>
       <description>07 Nov 2026, 13:00 - The Hmm - Hand-soldered cyberdecks are all over the internet. The cyberdecks we know from cyberpunk fiction and hacker culture were improvised machines—originally appearing in William Gibson’s 1984 novel Neuromancer—often built within a narrow and masculine idea of who gets to tinker, h...</description>
+    </item>
+    <item>
+      <title>Celebrating 10 Years of The Hmm + Book Launch</title>
+      <link>https://thehmm.nl/event/celebrating-10-years-of-the-hmm-book-launch/</link>
+      <guid isPermaLink="false">pruts-agenda:0169779285b749dab1382b4ece66d9e461fcf3ac7e2361c9f7e5dd3a399fb842</guid>
+      <pubDate>Fri, 11 Dec 2026 18:00:00 GMT</pubDate>
+      <description>11 Dec 2026, 19:00 - The Hmm - Earlier this year, the internet was briefly filled with the hope that 2026 might become the new 2016. In quasi-historical fashion, users resurfaced early Instagram filters and interfaces, Tumblr-motivational quotes, old memes, and other fragments of a supposedly simpler intern...</description>
     </item>
     <item>
       <title>40th Chaos Communication Congress</title>
