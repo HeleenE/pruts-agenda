@@ -1,5 +1,13 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-20 14:27 CEST
+
+0 new, 0 updated, 1 deleted.
+
+### Deleted events
+
+- **Mesh Networking with Reticulum** - 20260919T130000Z - Netherlands, TechInc (Technologia Incognita) Louwesweg 1  Amsterdam Netherlands - https://radar.squat.net/en/event/reticulum-low-countries/2026-09-19/mesh-networking-reticulum
+
 ## 2026-09-19 13:57 CEST
 
 0 new, 0 updated, 0 deleted.

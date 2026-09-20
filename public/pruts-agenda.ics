@@ -8,7 +8,7 @@ X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
 UID:17ee0955d7c11542c5ba48542aec823b82e3f61c733028706f7004d7245e8d4d@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:GOGBOT 2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -20,53 +20,9 @@ URL:https://www.gogbot.nl/
 CATEGORIES:art\,festival
 END:VEVENT
 BEGIN:VEVENT
-UID:fed0421f41f72d84f4602b0948e10f02e128ee01bc5217296f805f9e4e18b1d2@pruts-
- agenda.local
-DTSTAMP:20260919T115750Z
-SUMMARY:Mesh Networking with Reticulum
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART:20260919T130000Z
-DTEND:20260919T214000Z
-DESCRIPTION:A day of hacking on reticulum and mesh networking. Intros\, pre
- sentations\, workshops and more... This event is open to all technical lev
- els and we welcome beginners - Doors Open 3PM Presentations and discussion
- /hacking in the main room. See schedule below! Continual bootstrap worksho
- p in the aux room \, get started\, get going\, get help: Reticulum can eas
- ily run on your mobile phone (bluetooth and wifi) and/or with a Lora devic
- e (eg. Heltec or TBEAM devices). We also have a Raspberry Pi setup for hos
- ting and browsing nomadnet. For this we suggest bringing if you can one (o
- r more) of the following: Mobile phone (this is enough to join the reticul
- um network using a client) to join the network Laptop if you are intereste
- d to set up your computer to join the reticulum network += and publish you
- r own micron sites (e.g. dynamic content) LoRa devices if you would like t
- o flash them to run reticulum rnodes Raspberry Pi 4 if you would like to h
- elp test our (under heavy development) mesh 'basestation' software for pis
-  (which is reachable via a web browser) We hope to have some spare devices
-  for people to play with also\, so if you cant bring a device dont worry! 
- We can help you get your first reticulum connections up and running and fi
- gure out what you would like to explore. Presentations and Lightning Talks
-  There will be some short presentations sometime between 4pm and 6pm inclu
- ding: - Intro to Grassroots Communication Infrastructures with the Reticul
- um Network Stack - Status update: Reticulum Network deployment and use cas
- es in the Netherlands and around the world - A 3-D Vegetation & Building M
- odel for Accurate Radio‑Signal‑Loss Prediction in Flat Areas - Kiosk '
- base stations' for reticulum and nomadnet for community spaces - Reticulum
-  on Tanmatsu - You?... We welcome contributions and presentations. There w
- ill also be discussion and hacking on various reticulum related projects. 
- If you would like to add something contact realitygaps on IRC/Matrix/email
- . If you can help with the workshops please let us know.
-LOCATION:Netherlands\, TechInc (Technologia Incognita) Louwesweg 1  Amsterd
- am Netherlands
-URL:https://radar.squat.net/en/event/reticulum-low-countries/2026-09-19/mes
- h-networking-reticulum
-CATEGORIES:course/workshop\,discussion/presentation\,exhibition\,guided tou
- r\,work space/diy
-END:VEVENT
-BEGIN:VEVENT
 UID:825ca28c948e3599b99ab6d7f1fc268eb0c9d4d9f8579f64b1d18852740d1181@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -85,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bd852140b31290f44ec590d7f3c50cd5dc2fa681fa13c7b8c079e3eab84a7a69@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -101,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3b9baca6d5a09c26e6abf900c8d7497423697035c55fe2d9d9d9bf035c1b6edb@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:Games for Cities Autumn ’26 Training Showcase
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -117,7 +73,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dd5b5599113184bf0c08ffe0939413c4f7a923018bca48578e4759a39d049ec1@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:Ambacht in Beeld Festival
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -132,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a2da754dde15bc94fc334ddc7764eedb625c6f0ec61f3ca704ea99e5fd910505@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:SOLD OUT! Cyberdeck workshop: build your own 'mesh-berry' 🫐
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -196,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d7553644261a89ccb424aec6788edf5f045c02ef85104e0dbec3cea7db12904d@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:Bridging the gap: digital technology as enhancement\, not replaceme
  nt
 STATUS:CONFIRMED
@@ -214,7 +170,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aa79c701711632dd126c993b807892a4979f7848935ef1134d81701056b5571e@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:Go (Game) Evening at Techinc
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -237,7 +193,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dd3f6de5d09d3feaa8f04d11d7910a3b712ec1e626f9acc282e21f0fc6ab9905@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -256,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a46dd6708801c93314ee1c185be16373d850f4ceafef0d271591cdad6c9e635d@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:On the hunt for public tech
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -272,7 +228,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3dc7e15b3f4c622c2a3f9b0aab44c9db32cc8285f36bfa98301d3cdb8d319037@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:The Cowan Paradox & Other Inconveniences
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -315,7 +271,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3079d9206c3facc0f2fb6f99d7a9142811c6cc45fc5fea46a76f7e3c68c2b316@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:Anarchist Repair Cafe & end of 10
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -339,7 +295,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1d3c6f645a0ea76a14218170a4998d9d7ef39b016fb62c9581b8c464ad573359@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -371,7 +327,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:397fdc2ec14395db4d547db76cccc56e758bca8a138e3d774166c147efe57fb2@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -390,7 +346,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a329f530bed3f14f6027aa8085780944e4f337ebe94bf607d6e7decdecf2c6d5@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -406,7 +362,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ba17ee7f59f3b013c5ea6e5812682c5bef3b1392218713f3bfa5a01166e1648d@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:Harsh Computer - Live experimental computermusic and noise
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -435,7 +391,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:02a4e4f87d64eca47b5549628e3e9ec8823d650ad2557293da8ab46cede648a2@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -454,7 +410,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c3937222052f2de34cbbe3809cc06853226faadcdcbe06ba59e674ff39148e08@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -486,7 +442,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:80fa4c0102d56bc1e7a71b1746f0de3e8a7d16f4269d75faee1b4f67286b4667@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:proxycafe - RISE AGAINST BIG TECH
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -508,7 +464,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9b84a1bc35682176bce547cb791524607d75e82ada72bfdf1242ae5da7fa081f@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -527,7 +483,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:469ceee25cd96abbba8efb989796fe433c56da6d5e745156f917d91573fa1993@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -543,7 +499,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:81318207699cb222ff186dde21f124011d17a7d592533e60bbb82e64c8900213@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:National Design Debate 2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -555,7 +511,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:59d57d77a17d4a0e9bd02ce176cf1fe86cc82129cc1f5d42221920991fc59118@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:Symposihmm 📡 Capture & Control
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -633,7 +589,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8862d785a848ccb7cfbb32176dfcd90b130d4e2ff6a6c550860d26a053a6441a@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:The nature of our monetary system
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -650,7 +606,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1f87952e8153fff7bb9088c5894e8cac1b885a677950a1a0faa2a7ab4dd091b2@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -669,7 +625,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7fa32419d9094e8eda459f241a4df7383b08178f5a539ff8d45863d744b2f764@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:The Hmm @ Brainwash Festival
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -737,7 +693,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e47cf60d51b441a0c4c694c870f8c7ba5606c834d34ae3c15bb5c4edf158c27a@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:Anarchist Repair Cafe & end of 10
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -761,7 +717,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8f48e9872d273711da503043950bbd285fdfce027a0784382a23579d758228d9@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -793,7 +749,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8252d75aacb42b6daad12819d8f0bb402bc62f7a9c3950ee5aff5f6a00dee43d@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -812,7 +768,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d8b614f55ef54442f703b81ef199ceaf404d97fb412d37a7c3f26f70b672fe60@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -828,7 +784,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6b5b0e0ebc710ab42e4e9025d504e4db242ae31a3570e50140c9790dc661a331@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:SOLD OUT! Cyberdeck workshop: build your own 'mesh-berry' 🫐 #2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -892,7 +848,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0169779285b749dab1382b4ece66d9e461fcf3ac7e2361c9f7e5dd3a399fb842@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:Celebrating 10 Years of The Hmm + Book Launch
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -937,7 +893,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:784b736186fce05be5e60324a2ec978823e672ca45dbe5175dfe9c2895156008@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:40th Chaos Communication Congress
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -951,7 +907,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5dcf5d3deac925e519d6abbf9507de696d5859c1717815547af8d8357dc3a98d@pruts-
  agenda.local
-DTSTAMP:20260919T115750Z
+DTSTAMP:20260920T122725Z
 SUMMARY:FAB27 Oulu
 STATUS:CONFIRMED
 TRANSP:OPAQUE
