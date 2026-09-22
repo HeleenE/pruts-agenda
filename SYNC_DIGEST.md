@@ -1,5 +1,21 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-22 14:39 CEST
+
+1 new, 1 updated, 1 deleted.
+
+### New events
+
+- **FCA Sunday Feminist Discussion: Feminism and AI** - Sun 27 Sep 2026, 16:30 - Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/feminist-club-amsterdam/2026-09-27/fca-sunday-feminist-discussion-feminism-and-ai
+
+### Updated events
+
+- **National Design Debate 2026: Shaping Europe**: title, where, url
+
+### Deleted events
+
+- **GOGBOT 2026** - 20260917 - Enschede, Netherlands - https://www.gogbot.nl/
+
 ## 2026-09-21 16:17 CEST
 
 0 new, 0 updated, 0 deleted.

@@ -4,14 +4,7 @@
     <title>Pruts Agenda</title>
     <link>https://heleene.github.io/pruts-agenda/</link>
     <description>Upcoming hacker, maker and critical technology events.</description>
-    <lastBuildDate>Sun, 20 Sep 2026 12:27:25 GMT</lastBuildDate>
-    <item>
-      <title>GOGBOT 2026</title>
-      <link>https://www.gogbot.nl/</link>
-      <guid isPermaLink="false">pruts-agenda:17ee0955d7c11542c5ba48542aec823b82e3f61c733028706f7004d7245e8d4d</guid>
-      <pubDate>Thu, 17 Sep 2026 10:00:00 GMT</pubDate>
-      <description>17 Sep 2026 - Enschede, Netherlands - Manufactured Minds. Festival for art, music and technology.</description>
-    </item>
+    <lastBuildDate>Tue, 22 Sep 2026 12:39:56 GMT</lastBuildDate>
     <item>
       <title>Hackerspace Social Evening</title>
       <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-09-23/hackerspace-social-evening</link>
@@ -53,6 +46,13 @@
       <guid isPermaLink="false">pruts-agenda:d7553644261a89ccb424aec6788edf5f045c02ef85104e0dbec3cea7db12904d</guid>
       <pubDate>Sun, 27 Sep 2026 09:00:00 GMT</pubDate>
       <description>27 Sep 2026, 11:00 - NDSM Loods, Amsterdam - Waag - How can digital technology support craftsmanship without removing the maker from the process? In this lecture, Aslı Aydın Aksan explores the role of digital technology within craft.</description>
+    </item>
+    <item>
+      <title>FCA Sunday Feminist Discussion: Feminism and AI</title>
+      <link>https://radar.squat.net/en/event/amsterdam/feminist-club-amsterdam/2026-09-27/fca-sunday-feminist-discussion-feminism-and-ai</link>
+      <guid isPermaLink="false">pruts-agenda:250de0334b121b772fec94983cdcefe85b99be9de1cb143a887e9a798253234a</guid>
+      <pubDate>Sun, 27 Sep 2026 14:30:00 GMT</pubDate>
+      <description>27 Sep 2026, 16:30 - Amsterdam Netherlands - Radar - AI now plays a major role in our daily use of technology. The use of generative AI tools is putting into question authorship, academic fraud and data privacy. Through numerous examples, AI is recreating racist as well as misogynistic biases in its answers to its users. Not onl...</description>
     </item>
     <item>
       <title>Go (Game) Evening at Techinc</title>
@@ -153,11 +153,11 @@
       <description>22 Oct 2026, 20:00 - Budapest Pesthuislaan  Amsterdam Netherlands - Radar - A chaostreff in Amsterdam We meet every other Thursday. All creatures welcome. https://chaos.amsterdam/ Entrance is -in- the garden!</description>
     </item>
     <item>
-      <title>National Design Debate 2026</title>
-      <link>https://waag.org/en/event/national-design-debate-2026</link>
+      <title>National Design Debate 2026: Shaping Europe</title>
+      <link>https://waag.org/en/event/national-design-debate-2026-shaping-europe</link>
       <guid isPermaLink="false">pruts-agenda:81318207699cb222ff186dde21f124011d17a7d592533e60bbb82e64c8900213</guid>
       <pubDate>Fri, 23 Oct 2026 13:00:00 GMT</pubDate>
-      <description>23 Oct 2026, 15:00 - Waag</description>
+      <description>23 Oct 2026, 15:00 - Evoluon, Noord Brabantlaan 1A, Eindhoven - Waag</description>
     </item>
     <item>
       <title>Symposihmm 📡 Capture &amp; Control</title>
