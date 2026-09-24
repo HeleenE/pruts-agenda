@@ -12,6 +12,10 @@ Current sources:
 - Critical Infrastructure Lab
 - Manually added events
 
+Radar events are collected for a rolling three-month window. The client
+follows Radar's 500-result pages until the complete result set for that window
+has been fetched.
+
 Built with ChatGPT and Codex. Inspired by http://offbeat.amsterdam/
 
 ## Setup

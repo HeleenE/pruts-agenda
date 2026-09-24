@@ -2,6 +2,8 @@ import os
 
 
 RADAR_API_URL = "https://radar.squat.net/api/1.2/search/events.json"
+RADAR_PAGE_SIZE = 500
+RADAR_WINDOW_MONTHS = 3
 WAAG_ICS_URL = "https://waag.org/en/ics/feed.ics"
 HACKERS_AND_DESIGNERS_ACTIVITIES_URL = (
     "https://hackersanddesigners.nl/activities"
