@@ -1,5 +1,26 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-24 17:17 CEST
+
+14 new, 0 updated, 0 deleted.
+
+### New events
+
+- **Hackerspace Social Evening** - Wed 11 Nov 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-11-11/hackerspace-social-evening
+- **ABC Community  Bike Repair** - Tue 17 Nov 2026, 13:00 - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-17/abc-community-bike-repair
+- **Hackerspace Social Evening** - Wed 18 Nov 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-11-18/hackerspace-social-evening
+- **Chaos Amsterdam** - Thu 19 Nov 2026, 20:00 - Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-11-19/chaos-amsterdam
+- **Hackerspace Social Evening** - Wed 25 Nov 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-11-25/hackerspace-social-evening
+- **ABC Community  Bike Repair** - Tue 01 Dec 2026, 13:00 - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-01/abc-community-bike-repair
+- **Hackerspace Social Evening** - Wed 02 Dec 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-12-02/hackerspace-social-evening
+- **Chaos Amsterdam** - Thu 03 Dec 2026, 20:00 - Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-12-03/chaos-amsterdam
+- **Anarchist Repair Cafe & end of 10** - Mon 07 Dec 2026, 19:00 - LAG Eerste Schinkelstraat 14-16  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/lag/2026-12-07/anarchist-repair-cafe-end-10
+- **Hackerspace Social Evening** - Wed 09 Dec 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-12-09/hackerspace-social-evening
+- **ABC Community  Bike Repair** - Tue 15 Dec 2026, 13:00 - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-15/abc-community-bike-repair
+- **Hackerspace Social Evening** - Wed 16 Dec 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-12-16/hackerspace-social-evening
+- **Chaos Amsterdam** - Thu 17 Dec 2026, 20:00 - Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-12-17/chaos-amsterdam
+- **Hackerspace Social Evening** - Wed 23 Dec 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-12-23/hackerspace-social-evening
+
 ## 2026-09-24 14:45 CEST
 
 0 new, 0 updated, 0 deleted.
