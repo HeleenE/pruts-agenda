@@ -4,14 +4,7 @@
     <title>Pruts Agenda</title>
     <link>https://heleene.github.io/pruts-agenda/</link>
     <description>Upcoming hacker, maker and critical technology events.</description>
-    <lastBuildDate>Wed, 23 Sep 2026 12:47:54 GMT</lastBuildDate>
-    <item>
-      <title>Hackerspace Social Evening</title>
-      <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-09-23/hackerspace-social-evening</link>
-      <guid isPermaLink="false">pruts-agenda:825ca28c948e3599b99ab6d7f1fc268eb0c9d4d9f8579f64b1d18852740d1181</guid>
-      <pubDate>Wed, 23 Sep 2026 17:30:00 GMT</pubDate>
-      <description>23 Sep 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
-    </item>
+    <lastBuildDate>Thu, 24 Sep 2026 12:19:30 GMT</lastBuildDate>
     <item>
       <title>Chaos Amsterdam</title>
       <link>https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-09-24/chaos-amsterdam</link>
@@ -24,7 +17,7 @@
       <link>https://dezwijger.nl/programma/games-for-cities-training-showcase</link>
       <guid isPermaLink="false">pruts-agenda:3b9baca6d5a09c26e6abf900c8d7497423697035c55fe2d9d9d9bf035c1b6edb</guid>
       <pubDate>Fri, 25 Sep 2026 17:00:00 GMT</pubDate>
-      <description>25 Sep 2026, 19:00 - Expo - Showcasing prototype city games created by a diverse group of urban professionals and active citizens during the GfC autumn '26 training series.</description>
+      <description>25 Sep 2026, 19:00 - Expo PDZ - Showcasing prototype city games created by a diverse group of urban professionals and active citizens during the GfC autumn '26 training series.</description>
     </item>
     <item>
       <title>Ambacht in Beeld Festival</title>
@@ -50,9 +43,9 @@
     <item>
       <title>FCA Sunday Feminist Discussion: Feminism and AI</title>
       <link>https://radar.squat.net/en/event/amsterdam/feminist-club-amsterdam/2026-09-27/fca-sunday-feminist-discussion-feminism-and-ai</link>
-      <guid isPermaLink="false">pruts-agenda:250de0334b121b772fec94983cdcefe85b99be9de1cb143a887e9a798253234a</guid>
-      <pubDate>Sun, 27 Sep 2026 14:30:00 GMT</pubDate>
-      <description>27 Sep 2026, 16:30 - Amsterdam Netherlands - Radar - AI now plays a major role in our daily use of technology. The use of generative AI tools is putting into question authorship, academic fraud and data privacy. Through numerous examples, AI is recreating racist as well as misogynistic biases in its answers to its users. Not onl...</description>
+      <guid isPermaLink="false">pruts-agenda:7b220952599b49292c0e74bf145db13ed654c76fce3a054ac3a4942d7e2cd510</guid>
+      <pubDate>Sun, 27 Sep 2026 14:00:00 GMT</pubDate>
+      <description>27 Sep 2026, 16:00 - Amsterdam Netherlands - Radar - AI now plays a major role in our daily use of technology. The use of generative AI tools is putting into question authorship, academic fraud and data privacy. Through numerous examples, AI is recreating racist as well as misogynistic biases in its answers to its users. Not onl...</description>
     </item>
     <item>
       <title>Go (Game) Evening at Techinc</title>
@@ -90,6 +83,13 @@
       <description>05 Oct 2026, 19:00 - LAG Eerste Schinkelstraat 14-16  Amsterdam Pays-Bas - Radar - Anarchist Repair Cafe is an opportunity for everyone to repair their broken electronics, their favourite hoodie and to give anything they found by the road a second life. Je kunt je spullen komen repareren en eindeloos spelen met de elektronica die we op straat hebben gevonden...</description>
     </item>
     <item>
+      <title>Cleaning without contaminating</title>
+      <link>https://waag.org/en/event/cleaning-without-contaminating</link>
+      <guid isPermaLink="false">pruts-agenda:6cef58b6b3a0253c14f779e6cc6eb293cb33a952e191f7be3af1b36f01f87d2c</guid>
+      <pubDate>Mon, 05 Oct 2026 17:30:00 GMT</pubDate>
+      <description>05 Oct 2026, 19:30 - Waag Futurelab, Nieuwmarkt 4, 1012CR Amsterdam - Waag - On Thursday 5 November, join Waag Open to explore how cleaning products affect our water and make your own alternatives using plants, herbs and ingredients from your kitchen.</description>
+    </item>
+    <item>
       <title>ABC Community  Bike Repair</title>
       <link>https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-10-06/abc-community-bike-repair</link>
       <guid isPermaLink="false">pruts-agenda:1d3c6f645a0ea76a14218170a4998d9d7ef39b016fb62c9581b8c464ad573359</guid>
@@ -116,6 +116,13 @@
       <guid isPermaLink="false">pruts-agenda:ba17ee7f59f3b013c5ea6e5812682c5bef3b1392218713f3bfa5a01166e1648d</guid>
       <pubDate>Fri, 09 Oct 2026 18:00:00 GMT</pubDate>
       <description>09 Oct 2026, 20:00 - Vondelbunker Vondelpark 8a  Amsterdam Pays-Bas - Radar - Venta Protesix is the solo project of Italo Belladonna active since 2008. Always considered as one of the most controversial personalities of the entire panorama of experimental music in Italy, for over ten years he has been moving within the most extreme computer music with p...</description>
+    </item>
+    <item>
+      <title>HackFest 2026</title>
+      <link>https://hackfest.nl/</link>
+      <guid isPermaLink="false">pruts-agenda:92fcc66505f31132346d625f4aed73367d48b72944ff3a4051350e9be46e4326</guid>
+      <pubDate>Sat, 10 Oct 2026 10:00:00 GMT</pubDate>
+      <description>10 Oct 2026 - Enschede, Netherlands - HackFest aims to make technology and knowledge accessible to everyone, promotes creativity and stimulates both social and economic innovation. On Saturday 10 Oktober 2026, Hackfest gives a platform to a diverse group of creative minds, hackers, inventors, designers, artists, e...</description>
     </item>
     <item>
       <title>Hackerspace Social Evening</title>
@@ -221,6 +228,13 @@
       <guid isPermaLink="false">pruts-agenda:6b5b0e0ebc710ab42e4e9025d504e4db242ae31a3570e50140c9790dc661a331</guid>
       <pubDate>Sat, 07 Nov 2026 12:00:00 GMT</pubDate>
       <description>07 Nov 2026, 13:00 - The Hmm - Hand-soldered cyberdecks are all over the internet. The cyberdecks we know from cyberpunk fiction and hacker culture were improvised machines—originally appearing in William Gibson’s 1984 novel Neuromancer—often built within a narrow and masculine idea of who gets to tinker, h...</description>
+    </item>
+    <item>
+      <title>Water quality from space</title>
+      <link>https://waag.org/en/event/water-quality-space</link>
+      <guid isPermaLink="false">pruts-agenda:ef36644188921790de48ea23c4971268b5ac8e852860da9d59805a2049e85fea</guid>
+      <pubDate>Thu, 03 Dec 2026 18:30:00 GMT</pubDate>
+      <description>03 Dec 2026, 19:30 - Waag Futurelab, Nieuwmarkt 4, 1012CR Amsterdam - Waag - During this Waag Open on 3 December, you’ll discover how satellite data helps us measure water quality, and why human observations remain essential.</description>
     </item>
     <item>
       <title>Celebrating 10 Years of The Hmm + Book Launch</title>

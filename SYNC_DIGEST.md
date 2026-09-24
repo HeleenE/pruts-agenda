@@ -1,5 +1,25 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-24 14:19 CEST
+
+4 new, 1 updated, 2 deleted.
+
+### New events
+
+- **FCA Sunday Feminist Discussion: Feminism and AI** - Sun 27 Sep 2026, 16:00 - Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/feminist-club-amsterdam/2026-09-27/fca-sunday-feminist-discussion-feminism-and-ai
+- **Cleaning without contaminating** - Mon 05 Oct 2026, 19:30 - Waag Futurelab, Nieuwmarkt 4, 1012CR Amsterdam - https://waag.org/en/event/cleaning-without-contaminating
+- **HackFest 2026** - Sat 10 Oct 2026, 00:00 - Enschede, Netherlands - https://hackfest.nl/
+- **Water quality from space** - Thu 03 Dec 2026, 19:30 - Waag Futurelab, Nieuwmarkt 4, 1012CR Amsterdam - https://waag.org/en/event/water-quality-space
+
+### Updated events
+
+- **Games for Cities Autumn ’26 Training Showcase**: where
+
+### Deleted events
+
+- **Hackerspace Social Evening** - 20260923T173000Z - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-09-23/hackerspace-social-evening
+- **FCA Sunday Feminist Discussion: Feminism and AI** - 20260927T143000Z - Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/feminist-club-amsterdam/2026-09-27/fca-sunday-feminist-discussion-feminism-and-ai
+
 ## 2026-09-23 14:47 CEST
 
 0 new, 0 updated, 0 deleted.
