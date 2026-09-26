@@ -1,5 +1,14 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-26 14:16 CEST
+
+0 new, 0 updated, 2 deleted.
+
+### Deleted events
+
+- **Chaos Amsterdam** - 20260924T180000Z - Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-09-24/chaos-amsterdam
+- **Games for Cities Autumn ’26 Training Showcase** - 20260925T170000Z - Expo PDZ - https://dezwijger.nl/programma/games-for-cities-training-showcase
+
 ## 2026-09-25 14:49 CEST
 
 0 new, 0 updated, 0 deleted.
