@@ -76,3 +76,39 @@ events:
     description: Showcasing prototype city games created by a diverse group of urban professionals and active citizens during the GfC autumn '26 training series.
     topics:
       - Pakhuis de Zwijger
+
+  - id: pdz-marleen-stikker-2026
+    title: Marleen Stikker
+    start: 2026-10-20 20:00
+    location: Grote Zaal PDZ
+    url: https://dezwijger.nl/programma/marleen-stikker
+    description: Een uur lang in gesprek met oprichter van Waag Futurelab en internetpionier Marleen Stikker, over haar leven, werk en liefde voor Amsterdam.
+    topics:
+      - Pakhuis de Zwijger
+
+  - id: pdz-algoritmische-besluitvorming-2026
+    title: Algoritmische besluitvorming
+    start: 2026-10-21 20:00
+    location: Grote Zaal PDZ
+    url: https://dezwijger.nl/programma/algoritmische-besluitvorming
+    description: Wie beslist er nog als het algoritme de overheid stuurt? Een gesprek over geautomatiseerde besluitvorming, de menselijke maat en fundamentele rechten.
+    topics:
+      - Pakhuis de Zwijger
+
+  - id: pdz-tech-duurzaam-gebouwde-omgeving-2026
+    title: Tech voor een duurzaam gebouwde omgeving
+    start: 2026-10-28 19:00
+    location: IJzaal PDZ
+    url: https://dezwijger.nl/programma/tech-voor-een-duurzaam-gebouwde-omgeving
+    description: Over de rol van big data, BIM, digitale tweelingen, GIS en andere technologie bij duurzame en toekomstbestendige stedelijke ontwikkeling.
+    topics:
+      - Pakhuis de Zwijger
+
+  - id: pdz-vierkante-ogen-2026
+    title: Vierkante ogen
+    start: 2026-11-05 19:30
+    location: IJzaal PDZ
+    url: https://dezwijger.nl/programma/vierkante-ogen
+    description: Boekpresentatie en gesprek met informaticus Felienne Hermans over hoe softwareontwikkelaars de wereld zien en met hun apps vormgeven.
+    topics:
+      - Pakhuis de Zwijger
