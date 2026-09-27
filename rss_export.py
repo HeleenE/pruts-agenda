@@ -74,8 +74,6 @@ def _event_time(event: Event) -> str:
 
 
 def _source_label(event: Event) -> str:
-    if event.source == "manual":
-        return ""
     labels = {
         "criticalinfralab": "Critical Infrastructure Lab",
         "hackersanddesigners": "Hackers & Designers",

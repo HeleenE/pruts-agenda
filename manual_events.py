@@ -42,7 +42,7 @@ def _to_event(item: dict, manual_events_file: Path) -> Event:
         location=str(item.get("location", "") or ""),
         categories=_text_list(item.get("categories", []), manual_events_file),
         topics=_text_list(item.get("topics", []), manual_events_file),
-        source="manual",
+        source=str(item.get("source", "") or ""),
         all_day=all_day,
     )
 

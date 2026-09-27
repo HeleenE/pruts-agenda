@@ -62,7 +62,7 @@ def _event_html(event: Event, index: int) -> str:
     if description:
         description_html = f'            <p class="event-description">{escape(description)}</p>\n'
 
-    source = SOURCE_LABELS.get(event.source, "" if event.source == "manual" else event.source)
+    source = SOURCE_LABELS.get(event.source, event.source)
     source_names = {event.source.casefold(), source.casefold()}
     tags = [
         tag

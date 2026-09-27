@@ -74,8 +74,7 @@ events:
     location: Expo PDZ
     url: https://dezwijger.nl/programma/games-for-cities-training-showcase
     description: Showcasing prototype city games created by a diverse group of urban professionals and active citizens during the GfC autumn '26 training series.
-    topics:
-      - Pakhuis de Zwijger
+    source: Pakhuis de Zwijger
 
   - id: pdz-marleen-stikker-2026
     title: Marleen Stikker
@@ -83,8 +82,7 @@ events:
     location: Grote Zaal PDZ
     url: https://dezwijger.nl/programma/marleen-stikker
     description: Een uur lang in gesprek met oprichter van Waag Futurelab en internetpionier Marleen Stikker, over haar leven, werk en liefde voor Amsterdam.
-    topics:
-      - Pakhuis de Zwijger
+    source: Pakhuis de Zwijger
 
   - id: pdz-algoritmische-besluitvorming-2026
     title: Algoritmische besluitvorming
@@ -92,8 +90,7 @@ events:
     location: Grote Zaal PDZ
     url: https://dezwijger.nl/programma/algoritmische-besluitvorming
     description: Wie beslist er nog als het algoritme de overheid stuurt? Een gesprek over geautomatiseerde besluitvorming, de menselijke maat en fundamentele rechten.
-    topics:
-      - Pakhuis de Zwijger
+    source: Pakhuis de Zwijger
 
   - id: pdz-tech-duurzaam-gebouwde-omgeving-2026
     title: Tech voor een duurzaam gebouwde omgeving
@@ -101,8 +98,7 @@ events:
     location: IJzaal PDZ
     url: https://dezwijger.nl/programma/tech-voor-een-duurzaam-gebouwde-omgeving
     description: Over de rol van big data, BIM, digitale tweelingen, GIS en andere technologie bij duurzame en toekomstbestendige stedelijke ontwikkeling.
-    topics:
-      - Pakhuis de Zwijger
+    source: Pakhuis de Zwijger
 
   - id: pdz-vierkante-ogen-2026
     title: Vierkante ogen
@@ -110,8 +106,7 @@ events:
     location: IJzaal PDZ
     url: https://dezwijger.nl/programma/vierkante-ogen
     description: Boekpresentatie en gesprek met informaticus Felienne Hermans over hoe softwareontwikkelaars de wereld zien en met hun apps vormgeven.
-    topics:
-      - Pakhuis de Zwijger
+    source: Pakhuis de Zwijger
 
   - id: spui25-ai-blow-up-2026
     title: The AI Blow-up
@@ -119,8 +114,7 @@ events:
     location: SPUI25, Spui 25-27, Amsterdam
     url: https://www.spui25.nl/programma/the-ai-blow-up-how-the-technology-of-the-future-turned-into-a-political-battleground
     description: How AI moved from a largely technocratic subject to a political battleground involving energy, climate, misinformation, surveillance and democratic control over technology.
-    topics:
-      - SPUI25
+    source: SPUI25
 
   - id: spui25-post-quantum-cryptography-2026
     title: Societal Challenges around Post-Quantum Cryptography
@@ -128,8 +122,7 @@ events:
     location: SPUI25, Spui 25-27, Amsterdam
     url: https://www.spui25.nl/programma/societal-challenges-around-post-quantum-cryptography
     description: A panel on the social, political and economic challenges of making digital infrastructure quantum-safe while protecting privacy and fundamental rights.
-    topics:
-      - SPUI25
+    source: SPUI25
 
   - id: spui25-digitale-vrijheid-2026
     title: "Gevolgd, gemeten, voorspeld: vrijheid in een digitale wereld"
@@ -137,5 +130,4 @@ events:
     location: SPUI25, Spui 25-27, Amsterdam
     url: https://www.spui25.nl/programma/gevolgd-gemeten-voorspeld-vrijheid-in-een-digitale-wereld
     description: Een gesprek over digitale monitoring, profilering en toezicht, en over het beschermen van vrijheid, autonomie, privacy en menselijke waardigheid.
-    topics:
-      - SPUI25
+    source: SPUI25
