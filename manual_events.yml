@@ -112,3 +112,30 @@ events:
     description: Boekpresentatie en gesprek met informaticus Felienne Hermans over hoe softwareontwikkelaars de wereld zien en met hun apps vormgeven.
     topics:
       - Pakhuis de Zwijger
+
+  - id: spui25-ai-blow-up-2026
+    title: The AI Blow-up
+    start: 2026-10-06 17:00
+    location: SPUI25, Spui 25-27, Amsterdam
+    url: https://www.spui25.nl/programma/the-ai-blow-up-how-the-technology-of-the-future-turned-into-a-political-battleground
+    description: How AI moved from a largely technocratic subject to a political battleground involving energy, climate, misinformation, surveillance and democratic control over technology.
+    topics:
+      - SPUI25
+
+  - id: spui25-post-quantum-cryptography-2026
+    title: Societal Challenges around Post-Quantum Cryptography
+    start: 2026-10-19 17:00
+    location: SPUI25, Spui 25-27, Amsterdam
+    url: https://www.spui25.nl/programma/societal-challenges-around-post-quantum-cryptography
+    description: A panel on the social, political and economic challenges of making digital infrastructure quantum-safe while protecting privacy and fundamental rights.
+    topics:
+      - SPUI25
+
+  - id: spui25-digitale-vrijheid-2026
+    title: "Gevolgd, gemeten, voorspeld: vrijheid in een digitale wereld"
+    start: 2026-11-26 17:00
+    location: SPUI25, Spui 25-27, Amsterdam
+    url: https://www.spui25.nl/programma/gevolgd-gemeten-voorspeld-vrijheid-in-een-digitale-wereld
+    description: Een gesprek over digitale monitoring, profilering en toezicht, en over het beschermen van vrijheid, autonomie, privacy en menselijke waardigheid.
+    topics:
+      - SPUI25
