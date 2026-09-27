@@ -1,5 +1,24 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-27 15:07 CEST
+
+7 new, 0 updated, 2 deleted.
+
+### New events
+
+- **The AI Blow-up** - Tue 06 Oct 2026, 17:00 - SPUI25, Spui 25-27, Amsterdam - https://www.spui25.nl/programma/the-ai-blow-up-how-the-technology-of-the-future-turned-into-a-political-battleground
+- **Societal Challenges around Post-Quantum Cryptography** - Mon 19 Oct 2026, 17:00 - SPUI25, Spui 25-27, Amsterdam - https://www.spui25.nl/programma/societal-challenges-around-post-quantum-cryptography
+- **Marleen Stikker** - Tue 20 Oct 2026, 20:00 - Grote Zaal PDZ - https://dezwijger.nl/programma/marleen-stikker
+- **Algoritmische besluitvorming** - Wed 21 Oct 2026, 20:00 - Grote Zaal PDZ - https://dezwijger.nl/programma/algoritmische-besluitvorming
+- **Tech voor een duurzaam gebouwde omgeving** - Wed 28 Oct 2026, 19:00 - IJzaal PDZ - https://dezwijger.nl/programma/tech-voor-een-duurzaam-gebouwde-omgeving
+- **Vierkante ogen** - Thu 05 Nov 2026, 19:30 - IJzaal PDZ - https://dezwijger.nl/programma/vierkante-ogen
+- **Gevolgd, gemeten, voorspeld: vrijheid in een digitale wereld** - Thu 26 Nov 2026, 17:00 - SPUI25, Spui 25-27, Amsterdam - https://www.spui25.nl/programma/gevolgd-gemeten-voorspeld-vrijheid-in-een-digitale-wereld
+
+### Deleted events
+
+- **SOLD OUT! Cyberdeck workshop: build your own 'mesh-berry' 🫐** - 20260926T110000Z - https://thehmm.nl/event/cyberdeck-workshop-build-your-own-mesh-berry-%f0%9f%ab%90/
+- **Bridging the gap: digital technology as enhancement, not replacement** - 20260927T090000Z - NDSM Loods, Amsterdam - https://waag.org/en/event/bridging-gap-digital-technology-enhancement-not-replacement
+
 ## 2026-09-27 15:02 CEST
 
 0 new, 0 updated, 0 deleted.

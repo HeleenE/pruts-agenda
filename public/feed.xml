@@ -4,27 +4,13 @@
     <title>Pruts Agenda</title>
     <link>https://heleene.github.io/pruts-agenda/</link>
     <description>Upcoming hacker, maker and critical technology events.</description>
-    <lastBuildDate>Sat, 26 Sep 2026 12:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 13:07:20 GMT</lastBuildDate>
     <item>
       <title>Ambacht in Beeld Festival</title>
       <link>https://ambachtinbeeldfestival.nl/</link>
       <guid isPermaLink="false">pruts-agenda:dd5b5599113184bf0c08ffe0939413c4f7a923018bca48578e4759a39d049ec1</guid>
       <pubDate>Sat, 26 Sep 2026 10:00:00 GMT</pubDate>
       <description>26 Sep 2026 - NDSM-Loods, NDSM-Plein 85, 1033 WC Amsterdam - Festival with workshops, masterclasses and demonstrations by craftspeople from the Netherlands and abroad.</description>
-    </item>
-    <item>
-      <title>SOLD OUT! Cyberdeck workshop: build your own 'mesh-berry' 🫐</title>
-      <link>https://thehmm.nl/event/cyberdeck-workshop-build-your-own-mesh-berry-%f0%9f%ab%90/</link>
-      <guid isPermaLink="false">pruts-agenda:a2da754dde15bc94fc334ddc7764eedb625c6f0ec61f3ca704ea99e5fd910505</guid>
-      <pubDate>Sat, 26 Sep 2026 11:00:00 GMT</pubDate>
-      <description>26 Sep 2026, 13:00 - The Hmm - Hand-soldered cyberdecks are all over the internet. The cyberdecks we know from cyberpunk fiction and hacker culture were improvised machines—originally appearing in William Gibson’s 1984 novel Neuromancer—often built within a narrow and masculine idea of who gets to tinker, h...</description>
-    </item>
-    <item>
-      <title>Bridging the gap: digital technology as enhancement, not replacement</title>
-      <link>https://waag.org/en/event/bridging-gap-digital-technology-enhancement-not-replacement</link>
-      <guid isPermaLink="false">pruts-agenda:d7553644261a89ccb424aec6788edf5f045c02ef85104e0dbec3cea7db12904d</guid>
-      <pubDate>Sun, 27 Sep 2026 09:00:00 GMT</pubDate>
-      <description>27 Sep 2026, 11:00 - NDSM Loods, Amsterdam - Waag - How can digital technology support craftsmanship without removing the maker from the process? In this lecture, Aslı Aydın Aksan explores the role of digital technology within craft.</description>
     </item>
     <item>
       <title>FCA Sunday Feminist Discussion: Feminism and AI</title>
@@ -83,6 +69,13 @@
       <description>06 Oct 2026, 13:00 - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - Radar - ABC Community bike repair event Is your bike making a weird noise? Do you just need a 15mm wrench to tighten the wheels? Or do you want to pimp your ride? ABC is hosting a community bike repair session at the Vrankrijk on the 1st and 3rd Tuesdays of the month from 13:00-18:00....</description>
     </item>
     <item>
+      <title>The AI Blow-up</title>
+      <link>https://www.spui25.nl/programma/the-ai-blow-up-how-the-technology-of-the-future-turned-into-a-political-battleground</link>
+      <guid isPermaLink="false">pruts-agenda:6354408655160f807b20452d143514ea7cbb422d38503c7e7f0cfbb62110310a</guid>
+      <pubDate>Tue, 06 Oct 2026 15:00:00 GMT</pubDate>
+      <description>06 Oct 2026, 17:00 - SPUI25, Spui 25-27, Amsterdam - How AI moved from a largely technocratic subject to a political battleground involving energy, climate, misinformation, surveillance and democratic control over technology.</description>
+    </item>
+    <item>
       <title>Hackerspace Social Evening</title>
       <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-10-07/hackerspace-social-evening</link>
       <guid isPermaLink="false">pruts-agenda:397fdc2ec14395db4d547db76cccc56e758bca8a138e3d774166c147efe57fb2</guid>
@@ -118,11 +111,25 @@
       <description>14 Oct 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
     </item>
     <item>
+      <title>Societal Challenges around Post-Quantum Cryptography</title>
+      <link>https://www.spui25.nl/programma/societal-challenges-around-post-quantum-cryptography</link>
+      <guid isPermaLink="false">pruts-agenda:1b88612bcc2a3050f897c2162f1df02fd0c10a0ed705e5670dc103b2237e2022</guid>
+      <pubDate>Mon, 19 Oct 2026 15:00:00 GMT</pubDate>
+      <description>19 Oct 2026, 17:00 - SPUI25, Spui 25-27, Amsterdam - A panel on the social, political and economic challenges of making digital infrastructure quantum-safe while protecting privacy and fundamental rights.</description>
+    </item>
+    <item>
       <title>ABC Community  Bike Repair</title>
       <link>https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-10-20/abc-community-bike-repair</link>
       <guid isPermaLink="false">pruts-agenda:c3937222052f2de34cbbe3809cc06853226faadcdcbe06ba59e674ff39148e08</guid>
       <pubDate>Tue, 20 Oct 2026 11:00:00 GMT</pubDate>
       <description>20 Oct 2026, 13:00 - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - Radar - ABC Community bike repair event Is your bike making a weird noise? Do you just need a 15mm wrench to tighten the wheels? Or do you want to pimp your ride? ABC is hosting a community bike repair session at the Vrankrijk on the 1st and 3rd Tuesdays of the month from 13:00-18:00....</description>
+    </item>
+    <item>
+      <title>Marleen Stikker</title>
+      <link>https://dezwijger.nl/programma/marleen-stikker</link>
+      <guid isPermaLink="false">pruts-agenda:35e01b3b0de4cf6ff377cddd54573818d9eee11d223aba9fdba4a2f7c144609e</guid>
+      <pubDate>Tue, 20 Oct 2026 18:00:00 GMT</pubDate>
+      <description>20 Oct 2026, 20:00 - Grote Zaal PDZ - Een uur lang in gesprek met oprichter van Waag Futurelab en internetpionier Marleen Stikker, over haar leven, werk en liefde voor Amsterdam.</description>
     </item>
     <item>
       <title>proxycafe - RISE AGAINST BIG TECH</title>
@@ -137,6 +144,13 @@
       <guid isPermaLink="false">pruts-agenda:9b84a1bc35682176bce547cb791524607d75e82ada72bfdf1242ae5da7fa081f</guid>
       <pubDate>Wed, 21 Oct 2026 17:30:00 GMT</pubDate>
       <description>21 Oct 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
+    </item>
+    <item>
+      <title>Algoritmische besluitvorming</title>
+      <link>https://dezwijger.nl/programma/algoritmische-besluitvorming</link>
+      <guid isPermaLink="false">pruts-agenda:e0f517038b5835bade1340e85f9bfb47c890e05c0b9e4ad4da578a21f9c6fa6e</guid>
+      <pubDate>Wed, 21 Oct 2026 18:00:00 GMT</pubDate>
+      <description>21 Oct 2026, 20:00 - Grote Zaal PDZ - Wie beslist er nog als het algoritme de overheid stuurt? Een gesprek over geautomatiseerde besluitvorming, de menselijke maat en fundamentele rechten.</description>
     </item>
     <item>
       <title>Chaos Amsterdam</title>
@@ -165,6 +179,13 @@
       <guid isPermaLink="false">pruts-agenda:8862d785a848ccb7cfbb32176dfcd90b130d4e2ff6a6c550860d26a053a6441a</guid>
       <pubDate>Sun, 25 Oct 2026 11:30:00 GMT</pubDate>
       <description>25 Oct 2026, 12:30 - Waag Futurelab, Nieuwmarkt 4, 1012CR Amsterdam - Waag - In this edition of Good Money, we return to what money should be at its core: the public technology for organising labour and production. How can we create a better world, in which money does not first have to be ‘made’ through polluting and extractive activities?</description>
+    </item>
+    <item>
+      <title>Tech voor een duurzaam gebouwde omgeving</title>
+      <link>https://dezwijger.nl/programma/tech-voor-een-duurzaam-gebouwde-omgeving</link>
+      <guid isPermaLink="false">pruts-agenda:615810b9adb83407aa9077daf84d8c6517928fef88f2123af39a46a9f0a92120</guid>
+      <pubDate>Wed, 28 Oct 2026 18:00:00 GMT</pubDate>
+      <description>28 Oct 2026, 19:00 - IJzaal PDZ - Over de rol van big data, BIM, digitale tweelingen, GIS en andere technologie bij duurzame en toekomstbestendige stedelijke ontwikkeling.</description>
     </item>
     <item>
       <title>Hackerspace Social Evening</title>
@@ -200,6 +221,13 @@
       <guid isPermaLink="false">pruts-agenda:8252d75aacb42b6daad12819d8f0bb402bc62f7a9c3950ee5aff5f6a00dee43d</guid>
       <pubDate>Wed, 04 Nov 2026 18:30:00 GMT</pubDate>
       <description>04 Nov 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
+    </item>
+    <item>
+      <title>Vierkante ogen</title>
+      <link>https://dezwijger.nl/programma/vierkante-ogen</link>
+      <guid isPermaLink="false">pruts-agenda:18f53cb8dce61ff6f6cfd3691ad1de2ee025c61bd579ae6f30de7f3e6ccbcb27</guid>
+      <pubDate>Thu, 05 Nov 2026 18:30:00 GMT</pubDate>
+      <description>05 Nov 2026, 19:30 - IJzaal PDZ - Boekpresentatie en gesprek met informaticus Felienne Hermans over hoe softwareontwikkelaars de wereld zien en met hun apps vormgeven.</description>
     </item>
     <item>
       <title>Chaos Amsterdam</title>
@@ -249,6 +277,13 @@
       <guid isPermaLink="false">pruts-agenda:183bf1ef4068cc57a25d6e3b874196a891ef2451e127f58b5e2f1edf81245294</guid>
       <pubDate>Wed, 25 Nov 2026 18:30:00 GMT</pubDate>
       <description>25 Nov 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
+    </item>
+    <item>
+      <title>Gevolgd, gemeten, voorspeld: vrijheid in een digitale wereld</title>
+      <link>https://www.spui25.nl/programma/gevolgd-gemeten-voorspeld-vrijheid-in-een-digitale-wereld</link>
+      <guid isPermaLink="false">pruts-agenda:28c5108260fd8a3a9feadd9c697ff27882ba87944119024750cba7353eb1ac32</guid>
+      <pubDate>Thu, 26 Nov 2026 16:00:00 GMT</pubDate>
+      <description>26 Nov 2026, 17:00 - SPUI25, Spui 25-27, Amsterdam - Een gesprek over digitale monitoring, profilering en toezicht, en over het beschermen van vrijheid, autonomie, privacy en menselijke waardigheid.</description>
     </item>
     <item>
       <title>ABC Community  Bike Repair</title>
