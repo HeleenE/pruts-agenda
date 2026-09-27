@@ -4,7 +4,7 @@ from pathlib import Path
 
 from config import ICAL_OUTPUT_FILE, SYNC_DIGEST_FILE
 from dates import LOCAL_TIMEZONE, format_local_datetime
-from ics import extract_event_blocks
+from ics import extract_event_blocks, parse_datetime
 from ical_export import format_event_end, format_event_start
 from models import Event
 
@@ -13,33 +13,44 @@ from models import Event
 class FeedEvent:
     uid: str
     title: str
-    start: str
-    end: str
+    start: datetime
+    end: datetime | None
+    all_day: bool
     compare_start: str
     compare_end: str
-    sort_key: str
     location: str
     url: str
 
 
 @dataclass(frozen=True)
+class FieldChange:
+    label: str
+    old: str
+    new: str
+
+
+@dataclass(frozen=True)
 class FeedChange:
-    title: str
-    changes: list[str]
+    event: FeedEvent
+    changes: list[FieldChange]
 
 
 @dataclass(frozen=True)
 class FeedDigest:
     added: list[FeedEvent]
+    outdated: list[FeedEvent]
     removed: list[FeedEvent]
     changed: list[FeedChange]
     failed_sources: list[str]
+
 
 def build_feed_digest(
     old_feed: str,
     new_events: list[Event],
     failed_sources: list[str] | None = None,
+    now: datetime | None = None,
 ) -> FeedDigest:
+    sync_time = now or datetime.now(LOCAL_TIMEZONE)
     old_events = _parse_feed_events(old_feed)
     new_events_by_uid = {
         _event_uid(event): _to_feed_event(event)
@@ -51,13 +62,15 @@ def build_feed_digest(
         for uid, event in new_events_by_uid.items()
         if uid not in old_events
     ]
-    removed = []
+    missing = []
     if not failed_sources:
-        removed = [
+        missing = [
             event
             for uid, event in old_events.items()
             if uid not in new_events_by_uid
         ]
+    outdated = [event for event in missing if _event_has_ended(event, sync_time)]
+    removed = [event for event in missing if not _event_has_ended(event, sync_time)]
     changed = []
     for uid, event in new_events_by_uid.items():
         if uid not in old_events:
@@ -68,9 +81,10 @@ def build_feed_digest(
             changed.append(change)
 
     return FeedDigest(
-        added=sorted(added, key=lambda event: event.sort_key),
-        removed=sorted(removed, key=lambda event: event.sort_key),
-        changed=sorted(changed, key=lambda change: change.title.lower()),
+        added=sorted(added, key=lambda event: event.start),
+        outdated=sorted(outdated, key=lambda event: event.start),
+        removed=sorted(removed, key=lambda event: event.start),
+        changed=sorted(changed, key=lambda change: change.event.start),
         failed_sources=failed_sources or [],
     )
 
@@ -95,12 +109,14 @@ def append_feed_digest(
         (
             f"{len(digest.added)} new, "
             f"{len(digest.changed)} updated, "
+            f"{len(digest.outdated)} outdated, "
             f"{len(digest.removed)} deleted."
         ),
         "",
     ]
     _append_events(entry_lines, "New events", digest.added)
     _append_changed_events(entry_lines, "Updated events", digest.changed)
+    _append_events(entry_lines, "Outdated events", digest.outdated)
     _append_events(entry_lines, "Deleted events", digest.removed)
     _append_failed_sources(entry_lines, digest.failed_sources)
 
@@ -135,12 +151,7 @@ def _append_events(lines: list[str], heading: str, events: list[FeedEvent]) -> N
 
     lines.extend([f"### {heading}", ""])
     for event in events:
-        parts = [f"- **{event.title}**", event.start]
-        if event.location:
-            parts.append(event.location)
-        if event.url:
-            parts.append(event.url)
-        lines.append(" - ".join(parts))
+        lines.append(_event_line(event))
     lines.append("")
 
 
@@ -154,7 +165,12 @@ def _append_changed_events(
 
     lines.extend([f"### {heading}", ""])
     for change in changes:
-        lines.append(f"- **{change.title}**: {', '.join(change.changes)}")
+        lines.append(_event_line(change.event))
+        for field in change.changes:
+            lines.append(
+                f"  - {field.label}: {_display_value(field.old)} → "
+                f"{_display_value(field.new)}"
+            )
     lines.append("")
 
 
@@ -170,20 +186,23 @@ def _append_failed_sources(lines: list[str], failed_sources: list[str]) -> None:
 def _parse_feed_events(feed: str) -> dict[str, FeedEvent]:
     events = {}
     for block in extract_event_blocks(feed):
+        start = _parse_feed_datetime(block, "DTSTART")
+        end = _parse_feed_datetime(block, "DTEND", required=False)
         event = FeedEvent(
             uid=block.get("UID", ""),
             title=block.get("SUMMARY", ""),
-            start=block.get("DTSTART", ""),
-            end=block.get("DTEND", ""),
+            start=start,
+            end=end,
+            all_day=block.get("DTSTART_VALUE") == "DATE",
             compare_start=block.get("DTSTART_RAW", ""),
             compare_end=block.get("DTEND_RAW", ""),
-            sort_key=_sort_key_from_ical_start(block.get("DTSTART_RAW", "")),
             location=block.get("LOCATION", ""),
             url=block.get("URL", ""),
         )
         if event.uid:
             events[event.uid] = event
     return events
+
 
 def _event_uid(event: Event) -> str:
     from ical_export import _uid_hash
@@ -197,11 +216,11 @@ def _to_feed_event(event: Event) -> FeedEvent:
     return FeedEvent(
         uid=_event_uid(event),
         title=event.title,
-        start=format_local_datetime(event.start),
-        end=format_local_datetime(event.end_or_default),
+        start=event.start,
+        end=event.end_or_default,
+        all_day=event.all_day,
         compare_start=format_event_start(event),
         compare_end=format_event_end(event),
-        sort_key=event.start.astimezone(LOCAL_TIMEZONE).isoformat(),
         location=event.location,
         url=event.url,
     )
@@ -209,27 +228,70 @@ def _to_feed_event(event: Event) -> FeedEvent:
 
 def _event_change(old: FeedEvent, new: FeedEvent) -> FeedChange | None:
     changes = []
-    for field, label in (
-        ("title", "title"),
-        ("compare_start", "when"),
-        ("compare_end", "end"),
-        ("location", "where"),
-        ("url", "url"),
-    ):
-        if getattr(old, field) != getattr(new, field):
-            changes.append(label)
+    if old.title != new.title:
+        changes.append(FieldChange("title", old.title, new.title))
+    if old.compare_start != new.compare_start:
+        changes.append(
+            FieldChange("when", _format_start(old), _format_start(new))
+        )
+    if old.compare_end != new.compare_end:
+        changes.append(FieldChange("end", _format_end(old), _format_end(new)))
+    if old.location != new.location:
+        changes.append(FieldChange("where", old.location, new.location))
+    if old.url != new.url:
+        changes.append(FieldChange("url", old.url, new.url))
 
     if not changes:
         return None
 
-    return FeedChange(new.title or old.title, changes)
+    return FeedChange(new, changes)
 
 
-def _sort_key_from_ical_start(value: str) -> str:
-    if ":" not in value:
+def _parse_feed_datetime(
+    block: dict[str, str],
+    name: str,
+    required: bool = True,
+) -> datetime | None:
+    value = block.get(name, "")
+    if not value:
+        if required:
+            raise ValueError(f"Missing {name} in existing calendar event")
+        return None
+    if block.get(f"{name}_VALUE") == "DATE":
+        return datetime.strptime(value, "%Y%m%d").replace(
+            tzinfo=LOCAL_TIMEZONE,
+        )
+    return parse_datetime(value, block.get(f"{name}_TZID"))
+
+
+def _event_has_ended(event: FeedEvent, now: datetime) -> bool:
+    return (event.end or event.start) <= now
+
+
+def _event_line(event: FeedEvent) -> str:
+    parts = [f"- **{event.title}**", _format_start(event)]
+    if event.location:
+        parts.append(event.location)
+    if event.url:
+        parts.append(event.url)
+    return " - ".join(parts)
+
+
+def _format_start(event: FeedEvent) -> str:
+    return _format_datetime(event.start, event.all_day)
+
+
+def _format_end(event: FeedEvent) -> str:
+    if event.end is None:
         return ""
+    return _format_datetime(event.end, event.all_day)
 
-    raw_value = value.split(":", 1)[1]
-    if "T" in raw_value:
-        return raw_value
-    return f"{raw_value}T000000"
+
+def _format_datetime(value: datetime, all_day: bool) -> str:
+    if all_day:
+        return value.strftime("%a %d %b %Y")
+    return format_local_datetime(value)
+
+
+def _display_value(value: str) -> str:
+    return value or "*(empty)*"
