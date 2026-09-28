@@ -1,5 +1,23 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-28 18:43 CEST
+
+2 new, 0 updated, 2 outdated, 1 deleted.
+
+### New events
+
+- **Machines in Flames** - Mon 05 Oct 2026, 19:00 - Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-10-05/machines-flames
+- **Cleaning without contaminating** - Thu 05 Nov 2026, 19:30 - Waag Futurelab, Nieuwmarkt 4, 1012CR Amsterdam - https://waag.org/en/event/cleaning-without-contaminating
+
+### Outdated events
+
+- **Ambacht in Beeld Festival** - Sat 26 Sep 2026 - NDSM-Loods, NDSM-Plein 85, 1033 WC Amsterdam - https://ambachtinbeeldfestival.nl/
+- **FCA Sunday Feminist Discussion: Feminism and AI** - Sun 27 Sep 2026, 16:00 - Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/feminist-club-amsterdam/2026-09-27/fca-sunday-feminist-discussion-feminism-and-ai
+
+### Deleted events
+
+- **Cleaning without contaminating** - Mon 05 Oct 2026, 19:30 - Waag Futurelab, Nieuwmarkt 4, 1012CR Amsterdam - https://waag.org/en/event/cleaning-without-contaminating
+
 ## 2026-09-28 18:41 CEST
 
 0 new, 0 updated, 0 outdated, 0 deleted.

@@ -6,50 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pruts Agenda
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
-UID:dd5b5599113184bf0c08ffe0939413c4f7a923018bca48578e4759a39d049ec1@pruts-
- agenda.local
-DTSTAMP:20260927T130720Z
-SUMMARY:Ambacht in Beeld Festival
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260928
-DESCRIPTION:Festival with workshops\, masterclasses and demonstrations by c
- raftspeople from the Netherlands and abroad.
-LOCATION:NDSM-Loods\, NDSM-Plein 85\, 1033 WC Amsterdam
-URL:https://ambachtinbeeldfestival.nl/
-CATEGORIES:craft\,workshop\,festival
-END:VEVENT
-BEGIN:VEVENT
-UID:7b220952599b49292c0e74bf145db13ed654c76fce3a054ac3a4942d7e2cd510@pruts-
- agenda.local
-DTSTAMP:20260927T130720Z
-SUMMARY:FCA Sunday Feminist Discussion: Feminism and AI
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART:20260927T140000Z
-DTEND:20260927T160000Z
-DESCRIPTION:AI now plays a major role in our daily use of technology. The u
- se of generative AI tools is putting into question authorship\, academic f
- raud and data privacy. Through numerous examples\, AI is recreating racist
-  as well as misogynistic biases in its answers to its users. Not only is A
- I recreating biases\, but its use by some users is being extremely harmful
-  to women and children\, in the case of generated AI porn\, for instance. 
- AI's impact on society goes even further through its effect on our environ
- ment. As AI use grows day by day\, legislation struggles to keep pace\, an
- d many legislators and governments fail to understand the urgency of contr
- olling it. Our discussion is aimed at questioning our use of AI\, its impa
- ct on our daily lives\, as well as its dangers to our data privacy\, and w
- hether there are ways for us to act\; what are they?
-LOCATION:Amsterdam Netherlands
-URL:https://radar.squat.net/en/event/amsterdam/feminist-club-amsterdam/2026
- -09-27/fca-sunday-feminist-discussion-feminism-and-ai
-CATEGORIES:discussion/presentation
-END:VEVENT
-BEGIN:VEVENT
 UID:aa79c701711632dd126c993b807892a4979f7848935ef1134d81701056b5571e@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Go (Game) Evening at Techinc
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -72,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dd3f6de5d09d3feaa8f04d11d7910a3b712ec1e626f9acc282e21f0fc6ab9905@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -91,7 +50,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a46dd6708801c93314ee1c185be16373d850f4ceafef0d271591cdad6c9e635d@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:On the hunt for public tech
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -107,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3dc7e15b3f4c622c2a3f9b0aab44c9db32cc8285f36bfa98301d3cdb8d319037@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:The Cowan Paradox & Other Inconveniences
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -150,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3079d9206c3facc0f2fb6f99d7a9142811c6cc45fc5fea46a76f7e3c68c2b316@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Anarchist Repair Cafe & end of 10
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -172,25 +131,39 @@ URL:https://radar.squat.net/en/event/amsterdam/lag/2026-10-05/anarchist-rep
  air-cafe-end-10
 END:VEVENT
 BEGIN:VEVENT
-UID:6cef58b6b3a0253c14f779e6cc6eb293cb33a952e191f7be3af1b36f01f87d2c@pruts-
+UID:b8e9c6a225b7d8cd53d965b93145af9eee9f669d03213232c67d06ff8f2d6425@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
-SUMMARY:Cleaning without contaminating
+DTSTAMP:20260928T164328Z
+SUMMARY:Machines in Flames
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-DTSTART:20261005T173000Z
-DTEND:20261005T190000Z
-DESCRIPTION:On Thursday 5 November\, join Waag Open to explore how cleaning
-  products affect our water and make your own alternatives using plants\, h
- erbs and ingredients from your kitchen.
-LOCATION:Waag Futurelab\, Nieuwmarkt 4\, 1012CR Amsterdam
-URL:https://waag.org/en/event/cleaning-without-contaminating
-CATEGORIES:Waag
+DTSTART:20261005T170000Z
+DTEND:20261005T203000Z
+DESCRIPTION:Machines in Flames (2022\, 50min) finds a secret history of des
+ truction by following the footsteps of a clandestine group of French compu
+ ter workers from the 1980s. In 1980s Toulouse\, an elusive group began bom
+ bing computer companies. ‘CLODO’ disappeared after three years\, witho
+ ut ever being caught or ever to be heard of again. Two film makers launch 
+ an investigation into CLODO\, looking for answers\, motivations and identi
+ ties\, but are soon frustrated by a collective that struck in the dead of 
+ night\, leaving in their tracks only ashes and the sporadic line of crypti
+ c graffiti. The film combines archival traces\, a viral desktop choreograp
+ hy\, and late-night video recordings of CLODO’s targets into a meditatio
+ n on computation\, destruction\, and the lure of archives. In the days whe
+ re datacenters are more and more employed against us\, for AI and Dataming
+ \, we feel it is current look back at direct-action groups who've handled 
+ with these topics before. We will show part of the interview with the make
+ r\, show the documentary and have space for discussion after. Doors at 19:
+ 00\, start at 19.30
+LOCATION:Budapest Pesthuislaan  Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-10-05/m
+ achines-flames
+CATEGORIES:film
 END:VEVENT
 BEGIN:VEVENT
 UID:1d3c6f645a0ea76a14218170a4998d9d7ef39b016fb62c9581b8c464ad573359@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -222,7 +195,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6354408655160f807b20452d143514ea7cbb422d38503c7e7f0cfbb62110310a@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:The AI Blow-up
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -234,12 +207,11 @@ DESCRIPTION:How AI moved from a largely technocratic subject to a political
 LOCATION:SPUI25\, Spui 25-27\, Amsterdam
 URL:https://www.spui25.nl/programma/the-ai-blow-up-how-the-technology-of-th
  e-future-turned-into-a-political-battleground
-CATEGORIES:SPUI25
 END:VEVENT
 BEGIN:VEVENT
 UID:397fdc2ec14395db4d547db76cccc56e758bca8a138e3d774166c147efe57fb2@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -258,7 +230,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a329f530bed3f14f6027aa8085780944e4f337ebe94bf607d6e7decdecf2c6d5@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -274,7 +246,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ba17ee7f59f3b013c5ea6e5812682c5bef3b1392218713f3bfa5a01166e1648d@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Harsh Computer - Live experimental computermusic and noise
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -303,7 +275,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:92fcc66505f31132346d625f4aed73367d48b72944ff3a4051350e9be46e4326@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:HackFest 2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -329,7 +301,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:02a4e4f87d64eca47b5549628e3e9ec8823d650ad2557293da8ab46cede648a2@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -348,7 +320,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1b88612bcc2a3050f897c2162f1df02fd0c10a0ed705e5670dc103b2237e2022@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Societal Challenges around Post-Quantum Cryptography
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -360,12 +332,11 @@ DESCRIPTION:A panel on the social\, political and economic challenges of ma
 LOCATION:SPUI25\, Spui 25-27\, Amsterdam
 URL:https://www.spui25.nl/programma/societal-challenges-around-post-quantum
  -cryptography
-CATEGORIES:SPUI25
 END:VEVENT
 BEGIN:VEVENT
 UID:c3937222052f2de34cbbe3809cc06853226faadcdcbe06ba59e674ff39148e08@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -397,7 +368,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:35e01b3b0de4cf6ff377cddd54573818d9eee11d223aba9fdba4a2f7c144609e@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Marleen Stikker
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -408,12 +379,11 @@ DESCRIPTION:Een uur lang in gesprek met oprichter van Waag Futurelab en int
  rdam.
 LOCATION:Grote Zaal PDZ
 URL:https://dezwijger.nl/programma/marleen-stikker
-CATEGORIES:Pakhuis de Zwijger
 END:VEVENT
 BEGIN:VEVENT
 UID:80fa4c0102d56bc1e7a71b1746f0de3e8a7d16f4269d75faee1b4f67286b4667@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:proxycafe - RISE AGAINST BIG TECH
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -435,7 +405,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9b84a1bc35682176bce547cb791524607d75e82ada72bfdf1242ae5da7fa081f@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -454,7 +424,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e0f517038b5835bade1340e85f9bfb47c890e05c0b9e4ad4da578a21f9c6fa6e@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Algoritmische besluitvorming
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -465,12 +435,11 @@ DESCRIPTION:Wie beslist er nog als het algoritme de overheid stuurt? Een ge
  ntele rechten.
 LOCATION:Grote Zaal PDZ
 URL:https://dezwijger.nl/programma/algoritmische-besluitvorming
-CATEGORIES:Pakhuis de Zwijger
 END:VEVENT
 BEGIN:VEVENT
 UID:469ceee25cd96abbba8efb989796fe433c56da6d5e745156f917d91573fa1993@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -486,7 +455,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:81318207699cb222ff186dde21f124011d17a7d592533e60bbb82e64c8900213@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:National Design Debate 2026: Shaping Europe
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -499,7 +468,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:59d57d77a17d4a0e9bd02ce176cf1fe86cc82129cc1f5d42221920991fc59118@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Symposihmm 📡 Capture & Control
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -549,35 +518,38 @@ DESCRIPTION:With our second Symposihmm of the year\, Capture & Control\, we
  15 \n\nLunch break\n\n13.15 – 15.00 \n\nHalf-Earth Socialism: A Plan
  etary Crisis Game with Francis Tseng\nThe Internet is a Horrible Place and
   I’m Here to Make it Worse: A workshop with Noura Tafeche\n\n15.15 –
-  17.00 \n\nLecture-performance with Emilia Tapprest & Søren Siebel\nCon
- versation with Marina Otero Verzier\n\nThroughout the day there will be an
-  exhibition with works by Nick Vyssotsky and more artists to be announced.
-  \nPlease note that the activities between 13.15 and 15.00 won’t be broa
- dcast on our livestream. Upon arrival at A Lab you can sign up for one of 
- the activities on a first-come-first-served basis. \n📅 Date: Saturday 2
- 4 October\n🕗 Time: 11.00 – 17.00 CEST\n📍 Location: A Lab and
-  livestream on The Inbetween\n🎟️ Tickets: Onsite €27\,50/Student 
- €20/Livestream 7\,50 \n♿ Accessibility \n\nAt the venue\, a wheelchair
- -accessible ramp is available\, as well as a wheelchair lift. The lift nee
- ds to be arranged in advance\, so please email us at info@thehmm.nl\, at l
- east 3 days before the event\, to let us know if you will need it. This al
- lows us to make sure everything is ready and accessible upon arrival.\nA L
- ab has an accessible MIVA (wheelchair-accessible) toilet that meets the ap
- plicable accessibility requirements.\nDuring the event we can provide live
-  closed captioning for those with hearing impairments and disabilities. Pl
- ease reach out to us via info@thehmm.nl—at least 3 days before the event
-  if possible—if you are joining on-site and have this access need\, so t
- hat we can reserve a seat for you within view of the screen with captions.
-  If you are joining online via our livestream\, live captioning will be av
- ailable as one of the streaming modes.\n\n🩵 This programme is kindly su
- pported by the Creative Industries Fund NL\, AFK and hosted by A Lab.
+  17.00 \n\nOne pixel\, many worlds\, lecture-performance by Emilia Tappr
+ est & Søren Siebel\nConversation with Marina Otero Verzier\n\nThroughout 
+ the day there will be an exhibition with works by Nick Vyssotsky\, Constan
+ t Dullaart\, and more artists to be announced. \nDuring the lunch break 
+ San Serriffe will have a pop-up bookshop selling publications from the spe
+ akers and artists and other books connected to the symposium’s themes. \
+ nPlease note that the activities between 13.15 and 15.00 won’t be broadc
+ ast on our livestream. Upon arrival at A Lab you can sign up for one of th
+ e activities on a first-come-first-served basis. \n📅 Date: Saturday 24 
+ October\n🕗 Time: 11.00 – 17.00 CEST\n📍 Location: A Lab and l
+ ivestream on The Inbetween\n🎟️ Tickets: Onsite €27\,50/Student €
+ 20/Livestream 7\,50 \n♿ Accessibility \n\nAt the venue\, a wheelchair-ac
+ cessible ramp is available\, as well as a wheelchair lift. The lift needs 
+ to be arranged in advance\, so please email us at info@thehmm.nl\, at leas
+ t 3 days before the event\, to let us know if you will need it. This allow
+ s us to make sure everything is ready and accessible upon arrival.\nA Lab 
+ has an accessible MIVA (wheelchair-accessible) toilet that meets the appli
+ cable accessibility requirements.\nDuring the event we can provide live cl
+ osed captioning for those with hearing impairments and disabilities. Pleas
+ e reach out to us via info@thehmm.nl—at least 3 days before the event if
+  possible—if you are joining on-site and have this access need\, so that
+  we can reserve a seat for you within view of the screen with captions. If
+  you are joining online via our livestream\, live captioning will be avail
+ able as one of the streaming modes.\n\n🩵 This programme is kindly suppo
+ rted by the Creative Industries Fund NL\, AFK and hosted by A Lab.
 URL:https://thehmm.nl/event/symposihmm-%f0%9f%93%a1-capture-control/
 CATEGORIES:The Hmm
 END:VEVENT
 BEGIN:VEVENT
 UID:8862d785a848ccb7cfbb32176dfcd90b130d4e2ff6a6c550860d26a053a6441a@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:The nature of our monetary system
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -594,7 +566,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:615810b9adb83407aa9077daf84d8c6517928fef88f2123af39a46a9f0a92120@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Tech voor een duurzaam gebouwde omgeving
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -605,12 +577,11 @@ DESCRIPTION:Over de rol van big data\, BIM\, digitale tweelingen\, GIS en a
  ng.
 LOCATION:IJzaal PDZ
 URL:https://dezwijger.nl/programma/tech-voor-een-duurzaam-gebouwde-omgeving
-CATEGORIES:Pakhuis de Zwijger
 END:VEVENT
 BEGIN:VEVENT
 UID:1f87952e8153fff7bb9088c5894e8cac1b885a677950a1a0faa2a7ab4dd091b2@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -629,7 +600,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7fa32419d9094e8eda459f241a4df7383b08178f5a539ff8d45863d744b2f764@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:The Hmm @ Brainwash Festival
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -697,7 +668,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e47cf60d51b441a0c4c694c870f8c7ba5606c834d34ae3c15bb5c4edf158c27a@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Anarchist Repair Cafe & end of 10
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -721,7 +692,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8f48e9872d273711da503043950bbd285fdfce027a0784382a23579d758228d9@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -753,7 +724,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8252d75aacb42b6daad12819d8f0bb402bc62f7a9c3950ee5aff5f6a00dee43d@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -770,9 +741,25 @@ URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-1
 CATEGORIES:work space/diy
 END:VEVENT
 BEGIN:VEVENT
+UID:0b70a782ac73f624f2eacd682ec04f39480bf4577b34d9ce7468e446e528ca5b@pruts-
+ agenda.local
+DTSTAMP:20260928T164328Z
+SUMMARY:Cleaning without contaminating
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20261105T183000Z
+DTEND:20261105T200000Z
+DESCRIPTION:On Thursday 5 November\, join Waag Open to explore how cleaning
+  products affect our water and make your own alternatives using plants\, h
+ erbs and ingredients from your kitchen.
+LOCATION:Waag Futurelab\, Nieuwmarkt 4\, 1012CR Amsterdam
+URL:https://waag.org/en/event/cleaning-without-contaminating
+CATEGORIES:Waag
+END:VEVENT
+BEGIN:VEVENT
 UID:18f53cb8dce61ff6f6cfd3691ad1de2ee025c61bd579ae6f30de7f3e6ccbcb27@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Vierkante ogen
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -782,12 +769,11 @@ DESCRIPTION:Boekpresentatie en gesprek met informaticus Felienne Hermans ov
  er hoe softwareontwikkelaars de wereld zien en met hun apps vormgeven.
 LOCATION:IJzaal PDZ
 URL:https://dezwijger.nl/programma/vierkante-ogen
-CATEGORIES:Pakhuis de Zwijger
 END:VEVENT
 BEGIN:VEVENT
 UID:d8b614f55ef54442f703b81ef199ceaf404d97fb412d37a7c3f26f70b672fe60@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -803,7 +789,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6b5b0e0ebc710ab42e4e9025d504e4db242ae31a3570e50140c9790dc661a331@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:SOLD OUT! Cyberdeck workshop: build your own 'mesh-berry' 🫐 #2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -867,7 +853,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ea631ec4021a3e27ad3793672603ab58f435b2a35f5f28b108cbabaef5703487@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -886,7 +872,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ed48d69649266ffb9f16afd7ea9ad2c77416f6e0f8bdb8c5f2e7d48fb3eff5b8@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -918,7 +904,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4ea7c12955533cfcca8863c84c903d7a9acd8484d98312cc3c935a4310004d26@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -937,7 +923,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:af1e037d334a8d8192f06db53cc84ae73a0560fd296039d46b1a1f3125439ea6@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -953,7 +939,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:183bf1ef4068cc57a25d6e3b874196a891ef2451e127f58b5e2f1edf81245294@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -972,7 +958,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:28c5108260fd8a3a9feadd9c697ff27882ba87944119024750cba7353eb1ac32@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Gevolgd\, gemeten\, voorspeld: vrijheid in een digitale wereld
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -984,12 +970,11 @@ DESCRIPTION:Een gesprek over digitale monitoring\, profilering en toezicht\
 LOCATION:SPUI25\, Spui 25-27\, Amsterdam
 URL:https://www.spui25.nl/programma/gevolgd-gemeten-voorspeld-vrijheid-in-e
  en-digitale-wereld
-CATEGORIES:SPUI25
 END:VEVENT
 BEGIN:VEVENT
 UID:e8c9f47b98a882cd9c8299b91233f6ebcdd650365968a43225418333e297df27@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1021,7 +1006,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bf0132f6d62d6217a0cc2565fdf008b632685688ae10d8ad51a2d4e1dfab2a6e@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1040,7 +1025,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ef36644188921790de48ea23c4971268b5ac8e852860da9d59805a2049e85fea@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Water quality from space
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1056,7 +1041,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b908272120908433a13897020c7acb0087baf5832640fc10bfc004871a2e977b@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1072,7 +1057,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5c8d02e48e1008974ea03144937f21180dca3bbd755cfe09e8ec6e1ddccd2fe6@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Anarchist Repair Cafe & end of 10
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1096,7 +1081,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e4d1e7de7cc374d2e12465806574bf0c9b7a7da9ea731c177f8dab6e01f72eec@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1115,7 +1100,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0169779285b749dab1382b4ece66d9e461fcf3ac7e2361c9f7e5dd3a399fb842@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Celebrating 10 Years of The Hmm + Book Launch
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1160,7 +1145,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8a6ca5f685b71932e5d64c64a1b1b17c9289443cdac7fec66211862c0a4c4c46@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1192,7 +1177,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c77e17a56776321b2f9afbba38ad4d23c36f0c6853e52ce405e6854472e642b9@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1211,7 +1196,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:05542c8c653cf26066d1ce3dd6c5fc22c51cb05c15d8668e33effce9b34d1812@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1227,7 +1212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fddc3df03a5be90fce013e86c83b39a6d7af168025772daefaa38ff89ac2d2cc@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1246,7 +1231,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:784b736186fce05be5e60324a2ec978823e672ca45dbe5175dfe9c2895156008@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:40th Chaos Communication Congress
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1260,7 +1245,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5dcf5d3deac925e519d6abbf9507de696d5859c1717815547af8d8357dc3a98d@pruts-
  agenda.local
-DTSTAMP:20260927T130720Z
+DTSTAMP:20260928T164328Z
 SUMMARY:FAB27 Oulu
 STATUS:CONFIRMED
 TRANSP:OPAQUE
