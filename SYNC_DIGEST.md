@@ -1,5 +1,13 @@
 # Pruts Agenda Sync Digest
 
+## 2026-09-29 16:08 CEST
+
+0 new, 0 updated, 1 outdated, 0 deleted.
+
+### Outdated events
+
+- **Go (Game) Evening at Techinc** - Mon 28 Sep 2026, 19:15 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-09-28/go-game-evening-techinc
+
 ## 2026-09-28 18:43 CEST
 
 2 new, 0 updated, 2 outdated, 1 deleted.
