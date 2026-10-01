@@ -4,14 +4,7 @@
     <title>Pruts Agenda</title>
     <link>https://heleene.github.io/pruts-agenda/</link>
     <description>Upcoming hacker, maker and critical technology events.</description>
-    <lastBuildDate>Tue, 29 Sep 2026 14:08:01 GMT</lastBuildDate>
-    <item>
-      <title>Hackerspace Social Evening</title>
-      <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-09-30/hackerspace-social-evening</link>
-      <guid isPermaLink="false">pruts-agenda:dd3f6de5d09d3feaa8f04d11d7910a3b712ec1e626f9acc282e21f0fc6ab9905</guid>
-      <pubDate>Wed, 30 Sep 2026 17:30:00 GMT</pubDate>
-      <description>30 Sep 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
-    </item>
+    <lastBuildDate>Thu, 01 Oct 2026 14:33:25 GMT</lastBuildDate>
     <item>
       <title>On the hunt for public tech</title>
       <link>https://waag.org/en/event/hunt-public-tech</link>
@@ -354,6 +347,20 @@
       <guid isPermaLink="false">pruts-agenda:784b736186fce05be5e60324a2ec978823e672ca45dbe5175dfe9c2895156008</guid>
       <pubDate>Sun, 27 Dec 2026 11:00:00 GMT</pubDate>
       <description>27 Dec 2026 - Hamburg Messe, Messeplatz 1, 20357 Hamburg, Germany - 40C3 in Hamburg.</description>
+    </item>
+    <item>
+      <title>Hackerspace Social Evening</title>
+      <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-12-30/hackerspace-social-evening</link>
+      <guid isPermaLink="false">pruts-agenda:bdc1677e5e6036a89750a238b2beeaf61a08bb22eeeea3fa86d2dec79ab1dd3f</guid>
+      <pubDate>Wed, 30 Dec 2026 18:30:00 GMT</pubDate>
+      <description>30 Dec 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
+    </item>
+    <item>
+      <title>Chaos Amsterdam</title>
+      <link>https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-12-31/chaos-amsterdam</link>
+      <guid isPermaLink="false">pruts-agenda:9f56660619cc50e0b4fc6ae796b84908b8daad60dd51216ff6b51998521a934f</guid>
+      <pubDate>Thu, 31 Dec 2026 19:00:00 GMT</pubDate>
+      <description>31 Dec 2026, 20:00 - Budapest Pesthuislaan  Amsterdam Netherlands - Radar - A chaostreff in Amsterdam We meet every other Thursday. All creatures welcome. https://chaos.amsterdam/ Entrance is -in- the garden!</description>
     </item>
     <item>
       <title>FAB27 Oulu</title>
