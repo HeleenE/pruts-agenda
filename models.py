@@ -19,6 +19,8 @@ class Event:
     topics: list[str] = field(default_factory=list)
     source: str = "radar"
     all_day: bool = False
+    calendar_uid: str = ""
+    previous_occurrence_id: str = ""
 
     @property
     def is_upcoming(self) -> bool:
@@ -36,6 +38,8 @@ class Event:
 
     @property
     def occurrence_id(self) -> str:
+        if self.previous_occurrence_id:
+            return self.previous_occurrence_id
         return f"{self.uuid}:{self.start.isoformat()}"
 
     @property

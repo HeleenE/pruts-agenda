@@ -85,7 +85,11 @@ def _source_label(event: Event) -> str:
 
 
 def _guid(event: Event) -> str:
-    digest = sha256(event.occurrence_id.encode("utf-8")).hexdigest()
+    digest = (
+        event.calendar_uid.split("@", 1)[0]
+        if event.calendar_uid
+        else sha256(event.occurrence_id.encode("utf-8")).hexdigest()
+    )
     return f"pruts-agenda:{digest}"
 
 

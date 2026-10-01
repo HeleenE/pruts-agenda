@@ -53,14 +53,18 @@ def main() -> None:
         old_feed = read_existing_feed()
         collection = collect_events()
         if collection.failed_sources:
-            print(f"Failed sources: {', '.join(collection.failed_sources)}")
-            print("Keeping existing generated feeds unchanged.")
-            digest = build_feed_digest(old_feed, [], collection.failed_sources)
-            if append_feed_digest(digest):
-                print("Sync digest updated.")
-            return
+            from source_fallback import restore_failed_sources
 
-        digest = build_feed_digest(old_feed, collection.events)
+            print(f"Failed sources: {', '.join(collection.failed_sources)}")
+            collection.events.extend(
+                restore_failed_sources(old_feed, collection.failed_sources)
+            )
+            collection.events.sort(key=lambda event: event.start)
+            print("Continuing export, retaining upcoming events from unavailable sources.")
+
+        digest = build_feed_digest(
+            old_feed, collection.events, collection.failed_sources
+        )
         path = write_ical_feed(collection.events)
         rss_path = write_rss_feed(collection.events)
         html_path = write_html_page(collection.events)

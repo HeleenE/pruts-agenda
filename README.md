@@ -52,9 +52,12 @@ after the final day.
 Events listed in `deleted_events.yml` are excluded from the generated feed.
 Waag multi-day events are also excluded by default.
 
-If any automated source cannot be fetched, `export-ics` keeps the existing
-generated feeds unchanged and records the failed source in the digest. This
-avoids false deletions or re-added events when a source is temporarily down.
+If an automated source cannot be fetched, `export-ics` keeps its previously
+published upcoming events and updates the website and feeds using the other
+sources and manual events. Once the source recovers, fresh results replace
+the retained events. The digest
+records the failed source and suppresses deletion counts for that run, since
+missing events may be due to the outage.
 
 Print the report explicitly:
 

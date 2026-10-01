@@ -42,7 +42,11 @@ def _feed_lines(events: list[Event]) -> list[str]:
 def _event_lines(event: Event, timestamp: str) -> list[str]:
     lines = [
         "BEGIN:VEVENT",
-        _property("UID", f"{_uid_hash(event.occurrence_id)}@{ICAL_UID_DOMAIN}"),
+        _property("UID", event.calendar_uid or f"{_uid_hash(event.occurrence_id)}@{ICAL_UID_DOMAIN}"),
+        _property("X-PRUTS-SOURCE", event.source),
+        _property("X-PRUTS-UUID", event.uuid),
+        _property("X-PRUTS-RADAR-ID", event.radar_id),
+        _property("X-PRUTS-OCCURRENCE-ID", event.occurrence_id),
         f"DTSTAMP:{timestamp}",
         _property("SUMMARY", event.title),
         "STATUS:CONFIRMED",

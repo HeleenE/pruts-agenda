@@ -205,6 +205,8 @@ def _parse_feed_events(feed: str) -> dict[str, FeedEvent]:
 
 
 def _event_uid(event: Event) -> str:
+    if event.calendar_uid:
+        return event.calendar_uid
     from ical_export import _uid_hash
 
     from config import ICAL_UID_DOMAIN
