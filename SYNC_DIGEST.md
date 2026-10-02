@@ -1,5 +1,13 @@
 # Pruts Agenda Sync Digest
 
+## 2026-10-02 03:55 CEST
+
+0 new, 0 updated, 1 outdated, 0 deleted.
+
+### Outdated events
+
+- **On the hunt for public tech** - Thu 01 Oct 2026, 19:30 - Waag Futurelab, Nieuwmarkt 4, 1012CR Amsterdam - https://waag.org/en/event/hunt-public-tech
+
 ## 2026-10-01 16:33 CEST
 
 2 new, 0 updated, 1 outdated, 0 deleted.
