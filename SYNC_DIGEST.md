@@ -1,5 +1,13 @@
 # Pruts Agenda Sync Digest
 
+## 2026-10-04 04:17 CEST
+
+0 new, 0 updated, 1 outdated, 0 deleted.
+
+### Outdated events
+
+- **The Cowan Paradox & Other Inconveniences** - Sat 03 Oct 2026, 12:30 - https://thehmm.nl/event/the-cowan-paradox-other-inconveniences/
+
 ## 2026-10-03 03:35 CEST
 
 0 new, 0 updated, 0 outdated, 0 deleted.
