@@ -1,5 +1,14 @@
 # Pruts Agenda Sync Digest
 
+## 2026-10-06 04:37 CEST
+
+0 new, 0 updated, 2 outdated, 0 deleted.
+
+### Outdated events
+
+- **Anarchist Repair Cafe & end of 10** - Mon 05 Oct 2026, 19:00 - LAG Eerste Schinkelstraat 14-16  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/lag/2026-10-05/anarchist-repair-cafe-end-10
+- **Machines in Flames** - Mon 05 Oct 2026, 19:00 - Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-10-05/machines-flames
+
 ## 2026-10-05 03:27 CEST
 
 0 new, 0 updated, 0 outdated, 0 deleted.
