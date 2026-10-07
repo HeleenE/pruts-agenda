@@ -4,7 +4,7 @@
     <title>Pruts Agenda</title>
     <link>https://heleene.github.io/pruts-agenda/</link>
     <description>Upcoming hacker, maker and critical technology events.</description>
-    <lastBuildDate>Wed, 07 Oct 2026 11:27:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 11:43:51 GMT</lastBuildDate>
     <item>
       <title>Hackerspace Social Evening</title>
       <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-10-07/hackerspace-social-evening</link>
@@ -39,6 +39,13 @@
       <guid isPermaLink="false">pruts-agenda:02a4e4f87d64eca47b5549628e3e9ec8823d650ad2557293da8ab46cede648a2</guid>
       <pubDate>Wed, 14 Oct 2026 17:30:00 GMT</pubDate>
       <description>14 Oct 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
+    </item>
+    <item>
+      <title>The politics of the internet</title>
+      <link>https://debalie.nl/programma/the-politics-of-the-internet-14-10-2026/</link>
+      <guid isPermaLink="false">pruts-agenda:5c93ec1774229c525a461f1b93643f9979b7b4284d0f7a11e8753c8d5f51c584</guid>
+      <pubDate>Wed, 14 Oct 2026 18:00:00 GMT</pubDate>
+      <description>14 Oct 2026, 20:00 - De Balie, Kleine-Gartmanplantsoen 10, 1017 RR Amsterdam - Critical Infrastructure Lab - Britt Paris examines the architecture of power embedded in the internet and asks how digital infrastructure could be organized around public values rather than private interests, with an artistic intermezzo by Jen Liu.</description>
     </item>
     <item>
       <title>Open hackathon at the Critical Infrastructure Lab</title>

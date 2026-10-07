@@ -1,5 +1,13 @@
 # Pruts Agenda Sync Digest
 
+## 2026-10-07 13:43 CEST
+
+1 new, 0 updated, 0 outdated, 0 deleted.
+
+### New events
+
+- **The politics of the internet** - Wed 14 Oct 2026, 20:00 - De Balie, Kleine-Gartmanplantsoen 10, 1017 RR Amsterdam - https://debalie.nl/programma/the-politics-of-the-internet-14-10-2026/
+
 ## 2026-10-07 13:27 CEST
 
 5 new, 0 updated, 0 outdated, 0 deleted.
