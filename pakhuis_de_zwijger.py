@@ -59,33 +59,43 @@ class PakhuisDeZwijgerClient:
         now = datetime.now(LOCAL_TIMEZONE)
         page = 1
         previous_date = ""
-        while True:
-            response = requests.get(
-                self.api_url,
-                params={
-                    "page": page,
-                    "prev_date": previous_date,
-                    "domains[]": TECHNOLOGY_DOMAIN_ID,
-                },
-                headers=REQUEST_HEADERS,
-                timeout=self.timeout,
-            )
-            response.raise_for_status()
-            try:
-                payload = response.json()
-                html = payload["data"]
-                total_pages = int(payload["total_pages"])
-                previous_date = str(payload.get("last_date", ""))
-            except (KeyError, TypeError, ValueError) as error:
-                raise requests.RequestException(
-                    "Pakhuis de Zwijger returned an unexpected agenda response"
-                ) from error
-            for card in _extract_agenda_cards(html, now.year, now.month):
-                if card.url:
-                    cards[urljoin(self.agenda_url, card.url)] = card
-            if page >= total_pages:
-                break
-            page += 1
+        with requests.Session() as session:
+            session.headers.update(REQUEST_HEADERS)
+            agenda_response = session.get(self.agenda_url, timeout=self.timeout)
+            _raise_with_diagnostics(agenda_response, "agenda session")
+
+            while True:
+                response = session.get(
+                    self.api_url,
+                    params={
+                        "page": page,
+                        "prev_date": previous_date,
+                        "domains[]": TECHNOLOGY_DOMAIN_ID,
+                    },
+                    headers={
+                        "Accept": "application/json, text/javascript, */*; q=0.01",
+                        "Referer": self.agenda_url,
+                        "X-Requested-With": "XMLHttpRequest",
+                    },
+                    timeout=self.timeout,
+                )
+                _raise_with_diagnostics(response, f"agenda AJAX page {page}")
+                try:
+                    payload = response.json()
+                    html = payload["data"]
+                    total_pages = int(payload["total_pages"])
+                    previous_date = str(payload.get("last_date", ""))
+                except (KeyError, TypeError, ValueError) as error:
+                    raise requests.RequestException(
+                        "Pakhuis de Zwijger returned an unexpected agenda response "
+                        f"({_response_diagnostics(response)})"
+                    ) from error
+                for card in _extract_agenda_cards(html, now.year, now.month):
+                    if card.url:
+                        cards[urljoin(self.agenda_url, card.url)] = card
+                if page >= total_pages:
+                    break
+                page += 1
 
         events = []
         for url, card in cards.items():
@@ -94,6 +104,26 @@ class PakhuisDeZwijgerClient:
             except ValueError as error:
                 print(f"Skipping malformed Pakhuis de Zwijger event ({card.title}): {error}")
         return events
+
+
+def _raise_with_diagnostics(response: requests.Response, request_name: str) -> None:
+    try:
+        response.raise_for_status()
+    except requests.HTTPError as error:
+        raise requests.RequestException(
+            f"Pakhuis de Zwijger {request_name} failed "
+            f"({_response_diagnostics(response)})"
+        ) from error
+
+
+def _response_diagnostics(response: requests.Response) -> str:
+    content_type = response.headers.get("Content-Type", "unknown")
+    server = response.headers.get("Server", "unknown")
+    body = re.sub(r"\s+", " ", response.text).strip()[:240]
+    return (
+        f"HTTP {response.status_code}; content-type={content_type!r}; "
+        f"server={server!r}; body={body!r}"
+    )
 
 
 def _extract_agenda_cards(
