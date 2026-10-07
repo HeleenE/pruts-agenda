@@ -1,5 +1,21 @@
 # Pruts Agenda Sync Digest
 
+## 2026-10-07 13:27 CEST
+
+5 new, 0 updated, 0 outdated, 0 deleted.
+
+### New events
+
+- **Open hackathon at the Critical Infrastructure Lab** - Fri 16 Oct 2026 - UvA BG1, rooms 0.12 and 0.16, Turfdraagsterpad 9, 1012 XT Amsterdam - https://www.criticalinfralab.net/upcoming/?id=1920
+- **Conversations That Matter: What Do We Leave Behind Online?** - Tue 27 Oct 2026, 19:30 - Studio PDZ - https://dezwijger.nl/programma/conversations-that-matter-what-do-we-leave-behind-online
+- **Tech voor een duurzaam gebouwde omgeving** - Wed 28 Oct 2026, 20:00 - IJzaal PDZ - https://dezwijger.nl/programma/tech-voor-een-duurzaam-gebouwde-omgeving
+- **WICCON 2026** - Thu 29 Oct 2026, 09:00 - De Lichtfabriek, Energieplein 73, 2031 TC Haarlem - https://wiccon.nl/
+- **AI in the family: who does what at home?** - Mon 02 Nov 2026, 20:00 - Grote Zaal PDZ - https://dezwijger.nl/programma/ai-in-the-family-who-does-what-at-home
+
+### Source warnings
+
+- Unavailable: Radar
+
 ## 2026-10-07 03:56 CEST
 
 1 new, 0 updated, 2 outdated, 0 deleted.

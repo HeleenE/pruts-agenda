@@ -4,7 +4,7 @@
     <title>Pruts Agenda</title>
     <link>https://heleene.github.io/pruts-agenda/</link>
     <description>Upcoming hacker, maker and critical technology events.</description>
-    <lastBuildDate>Wed, 07 Oct 2026 01:56:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 11:27:05 GMT</lastBuildDate>
     <item>
       <title>Hackerspace Social Evening</title>
       <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-10-07/hackerspace-social-evening</link>
@@ -39,6 +39,13 @@
       <guid isPermaLink="false">pruts-agenda:02a4e4f87d64eca47b5549628e3e9ec8823d650ad2557293da8ab46cede648a2</guid>
       <pubDate>Wed, 14 Oct 2026 17:30:00 GMT</pubDate>
       <description>14 Oct 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
+    </item>
+    <item>
+      <title>Open hackathon at the Critical Infrastructure Lab</title>
+      <link>https://www.criticalinfralab.net/upcoming/?id=1920</link>
+      <guid isPermaLink="false">pruts-agenda:b47667f2be6468af4ac70bf67aebcbc5e5bf85985d50f53d7519abe792c605d3</guid>
+      <pubDate>Fri, 16 Oct 2026 10:00:00 GMT</pubDate>
+      <description>16 Oct 2026 - UvA BG1, rooms 0.12 and 0.16, Turfdraagsterpad 9, 1012 XT Amsterdam - Critical Infrastructure Lab - An open, hands-on hackathon exploring alternative internet infrastructures through hardware, software and computing projects, including mud batteries, 5G, AI edge computing, antennas and Reticulum nodes. No prior experience required.</description>
     </item>
     <item>
       <title>Societal Challenges around Post-Quantum Cryptography</title>
@@ -111,11 +118,11 @@
       <description>25 Oct 2026, 12:30 - Waag Futurelab, Nieuwmarkt 4, 1012CR Amsterdam - Waag - In this edition of Good Money, we return to what money should be at its core: the public technology for organising labour and production. How can we create a better world, in which money does not first have to be ‘made’ through polluting and extractive activities?</description>
     </item>
     <item>
-      <title>Tech voor een duurzaam gebouwde omgeving</title>
-      <link>https://dezwijger.nl/programma/tech-voor-een-duurzaam-gebouwde-omgeving</link>
-      <guid isPermaLink="false">pruts-agenda:615810b9adb83407aa9077daf84d8c6517928fef88f2123af39a46a9f0a92120</guid>
-      <pubDate>Wed, 28 Oct 2026 18:00:00 GMT</pubDate>
-      <description>28 Oct 2026, 19:00 - IJzaal PDZ - Pakhuis de Zwijger - Over de rol van big data, BIM, digitale tweelingen, GIS en andere technologie bij duurzame en toekomstbestendige stedelijke ontwikkeling.</description>
+      <title>Conversations That Matter: What Do We Leave Behind Online?</title>
+      <link>https://dezwijger.nl/programma/conversations-that-matter-what-do-we-leave-behind-online</link>
+      <guid isPermaLink="false">pruts-agenda:440e8769d16c868144abd77f53fd757f2697c938bf28e3399ad69a27139c42ba</guid>
+      <pubDate>Tue, 27 Oct 2026 18:30:00 GMT</pubDate>
+      <description>27 Oct 2026, 19:30 - Studio PDZ - Pakhuis de Zwijger - A conversation about digital legacies, personal data and deciding what should happen to our online identities and accounts after death.</description>
     </item>
     <item>
       <title>Hackerspace Social Evening</title>
@@ -123,6 +130,20 @@
       <guid isPermaLink="false">pruts-agenda:1f87952e8153fff7bb9088c5894e8cac1b885a677950a1a0faa2a7ab4dd091b2</guid>
       <pubDate>Wed, 28 Oct 2026 18:30:00 GMT</pubDate>
       <description>28 Oct 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
+    </item>
+    <item>
+      <title>Tech voor een duurzaam gebouwde omgeving</title>
+      <link>https://dezwijger.nl/programma/tech-voor-een-duurzaam-gebouwde-omgeving</link>
+      <guid isPermaLink="false">pruts-agenda:2c8d94c794dd1db2d549c1c3a8216480db56aad594ec23e3c4be84cf520e0864</guid>
+      <pubDate>Wed, 28 Oct 2026 19:00:00 GMT</pubDate>
+      <description>28 Oct 2026, 20:00 - IJzaal PDZ - Pakhuis de Zwijger - Over de rol van big data, BIM, digitale tweelingen, GIS en andere technologie bij duurzame en toekomstbestendige stedelijke ontwikkeling.</description>
+    </item>
+    <item>
+      <title>WICCON 2026</title>
+      <link>https://wiccon.nl/</link>
+      <guid isPermaLink="false">pruts-agenda:c9a3af767b83982cee3d3ca8269e951e290e63107628cfd07e5d51037373919e</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 GMT</pubDate>
+      <description>29 Oct 2026, 09:00 - De Lichtfabriek, Energieplein 73, 2031 TC Haarlem - A cybersecurity conference with an all-women speaker line-up, highlighting women's technical achievements through talks and workshops. All attendees are welcome.</description>
     </item>
     <item>
       <title>The Hmm @ Brainwash Festival</title>
@@ -137,6 +158,13 @@
       <guid isPermaLink="false">pruts-agenda:e47cf60d51b441a0c4c694c870f8c7ba5606c834d34ae3c15bb5c4edf158c27a</guid>
       <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
       <description>02 Nov 2026, 19:00 - LAG Eerste Schinkelstraat 14-16  Amsterdam Pays-Bas - Radar - Anarchist Repair Cafe is an opportunity for everyone to repair their broken electronics, their favourite hoodie and to give anything they found by the road a second life. Je kunt je spullen komen repareren en eindeloos spelen met de elektronica die we op straat hebben gevonden...</description>
+    </item>
+    <item>
+      <title>AI in the family: who does what at home?</title>
+      <link>https://dezwijger.nl/programma/ai-in-the-family-who-does-what-at-home</link>
+      <guid isPermaLink="false">pruts-agenda:43b633c2de7bbaff3c9ade82384f10393da50244d19ac1591bfb1b6ede549651</guid>
+      <pubDate>Mon, 02 Nov 2026 19:00:00 GMT</pubDate>
+      <description>02 Nov 2026, 20:00 - Grote Zaal PDZ - Pakhuis de Zwijger - An evening about household AI, unequal care work, embedded bias, privacy and whether a European home assistant can provide an alternative to Big Tech.</description>
     </item>
     <item>
       <title>ABC Community  Bike Repair</title>
