@@ -13,17 +13,17 @@ X-PRUTS-UUID:443c3553-66bf-464c-8ad7-c82bb0b0129d
 X-PRUTS-RADAR-ID:589334
 X-PRUTS-OCCURRENCE-ID:443c3553-66bf-464c-8ad7-c82bb0b0129d:2026-10-07T19:30
  :00+02:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20261007T173000Z
 DTEND:20261007T173000Z
-DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
- open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
- visiting hackers welcome\, refugees welcome! Our phone number is listed at
-  the front door. Give it a call\, wait through the automated message\, and
-  someone should answer it and help you in.
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\,
+  open to everyone! Non-members welcome\, guests welcome\, expats welcome\,
+  visiting hackers welcome\, refugees welcome! Our phone number is listed a
+ t the front door. Give it a call\, wait through the automated message\, an
+ d someone should answer it and help you in.
 LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
 URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-1
  0-07/hackerspace-social-evening
@@ -37,7 +37,7 @@ X-PRUTS-UUID:b3eac430-30a9-4025-92e3-718985be349e
 X-PRUTS-RADAR-ID:577373
 X-PRUTS-OCCURRENCE-ID:b3eac430-30a9-4025-92e3-718985be349e:2026-10-08T20:00
  :00+02:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -58,7 +58,7 @@ X-PRUTS-UUID:65f29a36-5dad-45d6-8459-b64361e07a9a
 X-PRUTS-RADAR-ID:596392
 X-PRUTS-OCCURRENCE-ID:65f29a36-5dad-45d6-8459-b64361e07a9a:2026-10-09T20:00
  :00+02:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Harsh Computer - Live experimental computermusic and noise
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -72,14 +72,14 @@ DESCRIPTION:Venta Protesix is the solo project of Italo Belladonna active s
  choacoustic discomfort to his listeners through live sets of digital harsh
   noise with strong impact. Sjoerd Juxtathe world wide web is full of (un)f
  ound footage \, distorted remnants of unfinished projects\, audio files fr
- om forgotten games\, cryptic symbols\, redundant information and security 
- camera livestreams with zero watchers. a world that is there but rarely pe
- rceived and almost intimate when perceived through the screen\, but no one
-  will know you are there. gazing into the abyss\, an empty room. audiovisu
- al performance that explores dissociation and disconnectedness through dig
- ital archeology portraying the emptiness of online places. video with 4 de
- ck dj playing soundfiles from my collected sound archive slow_girlsharsh d
- atabending audio corruption Free entrancecash preferred
+ om forgotten games\, cryptic symbols\, redundant information and security
+  camera livestreams with zero watchers. a world that is there but rarely p
+ erceived and almost intimate when perceived through the screen\, but no on
+ e will know you are there. gazing into the abyss\, an empty room. audiovis
+ ual performance that explores dissociation and disconnectedness through di
+ gital archeology portraying the emptiness of online places. video with 4 d
+ eck dj playing soundfiles from my collected sound archive slow_girlsharsh
+  databending audio corruption Free entrancecash preferred
 LOCATION:Vondelbunker Vondelpark 8a  Amsterdam Pays-Bas
 URL:https://radar.squat.net/en/node/596392
 CATEGORIES:music/concert
@@ -91,7 +91,7 @@ X-PRUTS-SOURCE:
 X-PRUTS-UUID:manual:hackfest.nl-2026
 X-PRUTS-RADAR-ID:hackfest.nl-2026
 X-PRUTS-OCCURRENCE-ID:manual:hackfest.nl-2026:2026-10-10T00:00:00+02:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:HackFest 2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -104,12 +104,12 @@ DESCRIPTION:HackFest aims to make technology and knowledge accessible to\ne
  , engineers\, developers and\nhobbyists to showcase their projects in an i
  nspiring space.\n\nThese enthusiastic makers come to Hackfest to present t
  heir\ncreations and share their discoveries with the public. The event\nbr
- ings together curious people who enjoy learning and sharing\ntheir skills 
- through lectures and workshops and working on their\nown projects on site.
-  It is a place where people are amazed by\ninstallations\, original do-it-
- yourself projects\, fascinating\ndiscoveries and innovative solutions.\n\n
- Hackfest puts these projects in the spotlight and provides a\nplatform for
-  original ideas.\n
+ ings together curious people who enjoy learning and sharing\ntheir skills
+  through lectures and workshops and working on their\nown projects on site
+ . It is a place where people are amazed by\ninstallations\, original do-it
+ -yourself projects\, fascinating\ndiscoveries and innovative solutions.\n\
+ nHackfest puts these projects in the spotlight and provides a\nplatform fo
+ r original ideas.\n
 LOCATION:Enschede\, Netherlands
 URL:https://hackfest.nl/
 CATEGORIES:exposition\,maker
@@ -122,17 +122,17 @@ X-PRUTS-UUID:d3b24c08-2661-4960-b735-4b8d50a88b2f
 X-PRUTS-RADAR-ID:589335
 X-PRUTS-OCCURRENCE-ID:d3b24c08-2661-4960-b735-4b8d50a88b2f:2026-10-14T19:30
  :00+02:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20261014T173000Z
 DTEND:20261014T173000Z
-DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
- open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
- visiting hackers welcome\, refugees welcome! Our phone number is listed at
-  the front door. Give it a call\, wait through the automated message\, and
-  someone should answer it and help you in.
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\,
+  open to everyone! Non-members welcome\, guests welcome\, expats welcome\,
+  visiting hackers welcome\, refugees welcome! Our phone number is listed a
+ t the front door. Give it a call\, wait through the automated message\, an
+ d someone should answer it and help you in.
 LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
 URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-1
  0-14/hackerspace-social-evening
@@ -146,16 +146,16 @@ X-PRUTS-UUID:manual:critical-infra-lab-politics-of-the-internet-2026
 X-PRUTS-RADAR-ID:critical-infra-lab-politics-of-the-internet-2026
 X-PRUTS-OCCURRENCE-ID:manual:critical-infra-lab-politics-of-the-internet-20
  26:2026-10-14T20:00:00+02:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:The politics of the internet
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20261014T180000Z
 DTEND:20261014T200000Z
-DESCRIPTION:Britt Paris examines the architecture of power embedded in the 
- internet and asks how digital infrastructure could be organized around pub
- lic values rather than private interests\, with an artistic intermezzo by 
- Jen Liu.
+DESCRIPTION:Britt Paris examines the architecture of power embedded in the
+  internet and asks how digital infrastructure could be organized around pu
+ blic values rather than private interests\, with an artistic intermezzo by
+  Jen Liu.
 LOCATION:De Balie\, Kleine-Gartmanplantsoen 10\, 1017 RR Amsterdam
 URL:https://debalie.nl/programma/the-politics-of-the-internet-14-10-2026/
 CATEGORIES:digital infrastructure\,internet\,public values
@@ -168,7 +168,7 @@ X-PRUTS-UUID:manual:critical-infra-lab-open-hackathon-2026
 X-PRUTS-RADAR-ID:critical-infra-lab-open-hackathon-2026
 X-PRUTS-OCCURRENCE-ID:manual:critical-infra-lab-open-hackathon-2026:2026-10
  -16T00:00:00+02:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Open hackathon at the Critical Infrastructure Lab
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -191,7 +191,7 @@ X-PRUTS-UUID:manual:spui25-post-quantum-cryptography-2026
 X-PRUTS-RADAR-ID:spui25-post-quantum-cryptography-2026
 X-PRUTS-OCCURRENCE-ID:manual:spui25-post-quantum-cryptography-2026:2026-10-
  19T17:00:00+02:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Societal Challenges around Post-Quantum Cryptography
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -212,7 +212,7 @@ X-PRUTS-UUID:2df8cd49-8b8d-43d4-946c-3220fa344c95
 X-PRUTS-RADAR-ID:593213
 X-PRUTS-OCCURRENCE-ID:2df8cd49-8b8d-43d4-946c-3220fa344c95:2026-10-20T13:00
  :00+02:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -234,32 +234,12 @@ DESCRIPTION:ABC Community bike repair event Is your bike making a weird noi
  ow focused on our bike repair cafe but with more people and time we can br
  ing back our bike-sharing! We are looking for ppl who can help others repa
  ir their bikes\, and provide some guidance for those with less experience.
-  If you know someone or are someone who would be interested\, please come 
- to our next ABC event on Tues Nov 4 from 13:00-18:00 at the Vrankrijk. Or 
- email us at Abikecollective@protonmail.com
+  If you know someone or are someone who would be interested\, please come
+  to our next ABC event on Tues Nov 4 from 13:00-18:00 at the Vrankrijk. Or
+  email us at Abikecollective@protonmail.com
 LOCATION:Vrankrijk Spuistraat 216  Amsterdam Pays-Bas
 URL:https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-10-20/abc-com
  munity-bike-repair
-END:VEVENT
-BEGIN:VEVENT
-UID:35e01b3b0de4cf6ff377cddd54573818d9eee11d223aba9fdba4a2f7c144609e@pruts-
- agenda.local
-X-PRUTS-SOURCE:Pakhuis de Zwijger
-X-PRUTS-UUID:manual:pdz-marleen-stikker-2026
-X-PRUTS-RADAR-ID:pdz-marleen-stikker-2026
-X-PRUTS-OCCURRENCE-ID:manual:pdz-marleen-stikker-2026:2026-10-20T20:00:00+0
- 2:00
-DTSTAMP:20261007T114351Z
-SUMMARY:Marleen Stikker
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART:20261020T180000Z
-DTEND:20261020T200000Z
-DESCRIPTION:Een uur lang in gesprek met oprichter van Waag Futurelab en int
- ernetpionier Marleen Stikker\, over haar leven\, werk en liefde voor Amste
- rdam.
-LOCATION:Grote Zaal PDZ
-URL:https://dezwijger.nl/programma/marleen-stikker
 END:VEVENT
 BEGIN:VEVENT
 UID:80fa4c0102d56bc1e7a71b1746f0de3e8a7d16f4269d75faee1b4f67286b4667@pruts-
@@ -269,7 +249,7 @@ X-PRUTS-UUID:db868475-92b5-4ee5-9bee-2d417c67ddee
 X-PRUTS-RADAR-ID:597356
 X-PRUTS-OCCURRENCE-ID:db868475-92b5-4ee5-9bee-2d417c67ddee:2026-10-21T19:00
  :00+02:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:proxycafe - RISE AGAINST BIG TECH
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -279,11 +259,11 @@ DESCRIPTION:We are living inside a sci-fi book. Which narrative of resistan
  ce are we going to write? In this talk we want to open a discussion\, talk
   about the resistance to big tech. Which kind of alternatives are we worki
  ng on? https://riseagainstbig.tech/ Proxycafe\, free software workshops. D
- iscussing tech and politics\, GNU/Linux\, fixing computers and revive old 
- laptops\, free and opensource software workshops. Zapatista coffee. Timeli
- ne: - 19:00 doors open\, possible snacks\, pizza. (Joe's already open from
-  15:00 to 19:00 with the Joe's Salon) - 20:00 talk/discussion starts - 21:
- 00 talk/discussion ends - 22:00 good night https://proxycafe.puscii.nl/
+ iscussing tech and politics\, GNU/Linux\, fixing computers and revive old
+  laptops\, free and opensource software workshops. Zapatista coffee. Timel
+ ine: - 19:00 doors open\, possible snacks\, pizza. (Joe's already open fro
+ m 15:00 to 19:00 with the Joe's Salon) - 20:00 talk/discussion starts - 21
+ :00 talk/discussion ends - 22:00 good night https://proxycafe.puscii.nl/
 LOCATION:Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas
 URL:https://radar.squat.net/en/proxycafe-rise-against-big-tech
 CATEGORIES:discussion/presentation
@@ -296,41 +276,21 @@ X-PRUTS-UUID:06e8f5f7-91b1-47d7-8640-2681a0cebb6e
 X-PRUTS-RADAR-ID:589336
 X-PRUTS-OCCURRENCE-ID:06e8f5f7-91b1-47d7-8640-2681a0cebb6e:2026-10-21T19:30
  :00+02:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20261021T173000Z
 DTEND:20261021T173000Z
-DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
- open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
- visiting hackers welcome\, refugees welcome! Our phone number is listed at
-  the front door. Give it a call\, wait through the automated message\, and
-  someone should answer it and help you in.
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\,
+  open to everyone! Non-members welcome\, guests welcome\, expats welcome\,
+  visiting hackers welcome\, refugees welcome! Our phone number is listed a
+ t the front door. Give it a call\, wait through the automated message\, an
+ d someone should answer it and help you in.
 LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
 URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-1
  0-21/hackerspace-social-evening
 CATEGORIES:work space/diy
-END:VEVENT
-BEGIN:VEVENT
-UID:e0f517038b5835bade1340e85f9bfb47c890e05c0b9e4ad4da578a21f9c6fa6e@pruts-
- agenda.local
-X-PRUTS-SOURCE:Pakhuis de Zwijger
-X-PRUTS-UUID:manual:pdz-algoritmische-besluitvorming-2026
-X-PRUTS-RADAR-ID:pdz-algoritmische-besluitvorming-2026
-X-PRUTS-OCCURRENCE-ID:manual:pdz-algoritmische-besluitvorming-2026:2026-10-
- 21T20:00:00+02:00
-DTSTAMP:20261007T114351Z
-SUMMARY:Algoritmische besluitvorming
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART:20261021T180000Z
-DTEND:20261021T200000Z
-DESCRIPTION:Wie beslist er nog als het algoritme de overheid stuurt? Een ge
- sprek over geautomatiseerde besluitvorming\, de menselijke maat en fundame
- ntele rechten.
-LOCATION:Grote Zaal PDZ
-URL:https://dezwijger.nl/programma/algoritmische-besluitvorming
 END:VEVENT
 BEGIN:VEVENT
 UID:469ceee25cd96abbba8efb989796fe433c56da6d5e745156f917d91573fa1993@pruts-
@@ -340,7 +300,7 @@ X-PRUTS-UUID:f0b8675d-984e-4dee-9404-1a2f897f03a5
 X-PRUTS-RADAR-ID:577374
 X-PRUTS-OCCURRENCE-ID:f0b8675d-984e-4dee-9404-1a2f897f03a5:2026-10-22T20:00
  :00+02:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -361,7 +321,7 @@ X-PRUTS-UUID:waag:e4ca39c8-0d42-40c3-bf0e-00818a270fc3
 X-PRUTS-RADAR-ID:waag:e4ca39c8-0d42-40c3-bf0e-00818a270fc3
 X-PRUTS-OCCURRENCE-ID:waag:e4ca39c8-0d42-40c3-bf0e-00818a270fc3:2026-10-23T
  13:00:00+00:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:National Design Debate 2026: Shaping Europe
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -379,7 +339,7 @@ X-PRUTS-UUID:thehmm:10049-1792839600-1792861200@thehmm.nl
 X-PRUTS-RADAR-ID:thehmm:10049-1792839600-1792861200@thehmm.nl
 X-PRUTS-OCCURRENCE-ID:thehmm:10049-1792839600-1792861200@thehmm.nl:2026-10-
  24T11:00:00+02:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Symposihmm 📡 Capture & Control
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -399,65 +359,65 @@ DESCRIPTION:With our second Symposihmm of the year\, Capture & Control\, we
   online\, artist and researcher Trevor Paglen has argued that these platfo
  rms are the perfect place for “influence operations”\, referring to th
  e psyops (psychological operations) of secret services. Whereas back in th
- e day no one on the internet knew you were a dog\, today you can’t tell 
- who’s a bot\, troll\, or CIA agent.  A notion that can feed into conspi
- ratorial thinking and schizoposting. For Paglen\, we are currently moving 
- from surveillance capitalism into an era of psyops capitalism\, where our 
- behaviour is not only being tracked for profit\, but also manipulated and 
- steered. Others are calling this era\, and the online visual culture in it
- s wake\, “pysop realism”\, pointing to conspiracy minded posts rooted 
- in distrust and paranoia.\nWhile we comment\, post\, and scroll our way th
- rough social media—externalising our thoughts for data capture—the ram
- pant digitisation and replication of the earth and biological life is quie
- tly taking place. Companies like Quixel\, with over 18\,000 3D assets that
-  they’ve captured—plants\, rocks\, logs\, coral reefs\, forest floors
+ e day no one on the internet knew you were a dog\, today you can’t tell
+  who’s a bot\, troll\, or CIA agent.  A notion that can feed into consp
+ iratorial thinking and schizoposting. For Paglen\, we are currently moving
+  from surveillance capitalism into an era of psyops capitalism\, where our
+  behaviour is not only being tracked for profit\, but also manipulated and
+  steered. Others are calling this era\, and the online visual culture in i
+ ts wake\, “pysop realism”\, pointing to conspiracy minded posts rooted
+  in distrust and paranoia.\nWhile we comment\, post\, and scroll our way t
+ hrough social media—externalising our thoughts for data capture—the ra
+ mpant digitisation and replication of the earth and biological life is qui
+ etly taking place. Companies like Quixel\, with over 18\,000 3D assets tha
+ t they’ve captured—plants\, rocks\, logs\, coral reefs\, forest floors
  —sell our earth back to us to be used in gaming and other industries. Go
  ogle Maps has led to Google Earth has led to the end-goal of digitally cap
  turing the entire planet in order to create digital twins\, train AI world
   models\, ‘preserve’ habitats and monuments on the brink of collapse\,
   and build predictive systems. Palantir thrives on this data hoarding\, us
  ing it to analyse and create connections within disconnected data sets for
-  militarisation and surveillance purposes. In the US\, Flock cameras scan 
- around 20 billion license plates every month\, tracking the movement of pe
- ople within cities and between states. And surveillance is expanding even 
- further\, onto our own bodies\, with Meta selling over 7 million pairs of 
- their Ray-Ban smart glasses in 2025\, a huge jump from previous years. The
-  processes of capturing\, connecting\, and analysing every element on eart
- h is no longer a paranoid delusion\, it’s unfolding in front of our eyes
- . \n📋 Program\n11.00 – 12.30 \n\nWelcome and introduction\nTalk b
- y Daniël de Zeeuw\nTalk by Sophie Publig & Mikkel Rørbo\n\n12.30 – 13.
- 15 \n\nLunch break\n\n13.15 – 15.00 \n\nHalf-Earth Socialism: A Plan
- etary Crisis Game with Francis Tseng\nThe Internet is a Horrible Place and
-  I’m Here to Make it Worse: A workshop with Noura Tafeche (online host)\
- n\n15.15 – 17.00 \n\nConversation with Marina Otero Verzier (online 
- speaker)\nOne pixel\, many worlds\, lecture-performance by Emilia Tapprest
-  & Søren Siebel\n\nThroughout the day there will be an exhibition with wo
- rks by Nick Vyssotsky\, Constant Dullaart\, and Tewa Barnosa. \nDuring the
-  lunch break San Serriffe will have a pop-up bookshop selling publication
- s from the speakers and artists and other books connected to the symposium
- ’s themes. \nPlease note that the activities between 13.15 and 15.00 won
- ’t be broadcast on our livestream. Upon arrival at A Lab you can sign up
-  for one of the activities on a first-come-first-served basis. \nFor Noura
-  Tafeche’s workshop\, you will need to bring a laptop with you. Please n
- ote that this workshop includes discussion and analysis of implicit violen
- t imagery and representations of rape culture\, child abuse\, and self-har
- m. \n📅 Date: Saturday 24 October\n🕗 Time: 11.00 – 17.00 CEST\n
- 📍 Location: A Lab and livestream on The Inbetween\n🎟️ Tickets: 
- Onsite €27\,50/Student €20/Livestream 7\,50 \n♿ Accessibility \n\nAt
-  the venue\, a wheelchair-accessible ramp is available\, as well as a whee
- lchair lift. The lift needs to be arranged in advance\, so please email us
-  at info@thehmm.nl\, at least 3 days before the event\, to let us know if 
- you will need it. This allows us to make sure everything is ready and acce
- ssible upon arrival.\nA Lab has an accessible MIVA (wheelchair-accessible)
-  toilet that meets the applicable accessibility requirements.\nDuring the 
- event we can provide live closed captioning for those with hearing impairm
- ents and disabilities. Please reach out to us via info@thehmm.nl—at leas
- t 3 days before the event if possible—if you are joining on-site and hav
- e this access need\, so that we can reserve a seat for you within view of 
- the screen with captions. If you are joining online via our livestream\, l
- ive captioning will be available as one of the streaming modes.\n\n🩵 Th
- is programme is kindly supported by the Creative Industries Fund NL\, AFK
-  and hosted by A Lab.
+  militarisation and surveillance purposes. In the US\, Flock cameras scan
+  around 20 billion license plates every month\, tracking the movement of p
+ eople within cities and between states. And surveillance is expanding even
+  further\, onto our own bodies\, with Meta selling over 7 million pairs of
+  their Ray-Ban smart glasses in 2025\, a huge jump from previous years. Th
+ e processes of capturing\, connecting\, and analysing every element on ear
+ th is no longer a paranoid delusion\, it’s unfolding in front of our eye
+ s. \n📋 Program\n11.00 – 12.30 \n\nWelcome and introduction\nTalk
+  by Daniël de Zeeuw\nTalk by Sophie Publig & Mikkel Rørbo\n\n12.30 – 1
+ 3.15 \n\nLunch break\n\n13.15 – 15.00 \n\nHalf-Earth Socialism: A Pl
+ anetary Crisis Game with Francis Tseng\nThe Internet is a Horrible Place a
+ nd I’m Here to Make it Worse: A workshop with Noura Tafeche (online host
+ )\n\n15.15 – 17.00 \n\nConversation with Marina Otero Verzier (onlin
+ e speaker)\nOne pixel\, many worlds\, lecture-performance by Emilia Tappre
+ st & Søren Siebel\n\nThroughout the day there will be an exhibition with
+  works by Nick Vyssotsky\, Constant Dullaart\, and Tewa Barnosa. \nDuring
+  the lunch break San Serriffe will have a pop-up bookshop selling publica
+ tions from the speakers and artists and other books connected to the sympo
+ sium’s themes. \nPlease note that the activities between 13.15 and 15.00
+  won’t be broadcast on our livestream. Upon arrival at A Lab you can sig
+ n up for one of the activities on a first-come-first-served basis. \nFor N
+ oura Tafeche’s workshop\, you will need to bring a laptop with you. Plea
+ se note that this workshop includes discussion and analysis of implicit vi
+ olent imagery and representations of rape culture\, child abuse\, and self
+ -harm. \n📅 Date: Saturday 24 October\n🕗 Time: 11.00 – 17.00 CE
+ ST\n📍 Location: A Lab and livestream on The Inbetween\n🎟️ Ticke
+ ts: Onsite €27\,50/Student €20/Livestream 7\,50 \n♿ Accessibility \n
+ \nAt the venue\, a wheelchair-accessible ramp is available\, as well as a
+  wheelchair lift. The lift needs to be arranged in advance\, so please ema
+ il us at info@thehmm.nl\, at least 3 days before the event\, to let us kno
+ w if you will need it. This allows us to make sure everything is ready and
+  accessible upon arrival.\nA Lab has an accessible MIVA (wheelchair-access
+ ible) toilet that meets the applicable accessibility requirements.\nDuring
+  the event we can provide live closed captioning for those with hearing im
+ pairments and disabilities. Please reach out to us via info@thehmm.nl—at
+  least 3 days before the event if possible—if you are joining on-site an
+ d have this access need\, so that we can reserve a seat for you within vie
+ w of the screen with captions. If you are joining online via our livestrea
+ m\, live captioning will be available as one of the streaming modes.\n\n
+ 🩵 This programme is kindly supported by the Creative Industries Fund N
+ L\, AFK and hosted by A Lab.
 URL:https://thehmm.nl/event/symposihmm-%f0%9f%93%a1-capture-control/
 CATEGORIES:The Hmm
 END:VEVENT
@@ -469,39 +429,19 @@ X-PRUTS-UUID:waag:e70c545e-4b5e-4f8e-8659-1a188085b878
 X-PRUTS-RADAR-ID:waag:e70c545e-4b5e-4f8e-8659-1a188085b878
 X-PRUTS-OCCURRENCE-ID:waag:e70c545e-4b5e-4f8e-8659-1a188085b878:2026-10-25T
  11:30:00+00:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:The nature of our monetary system
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20261025T113000Z
 DTEND:20261025T160000Z
-DESCRIPTION:In this edition of Good Money\, we return to what money should 
- be at its core: the public technology for organising labour and production
- . How can we create a better world\, in which money does not first have to
-  be ‘made’ through polluting and extractive activities?
+DESCRIPTION:In this edition of Good Money\, we return to what money should
+  be at its core: the public technology for organising labour and productio
+ n. How can we create a better world\, in which money does not first have t
+ o be ‘made’ through polluting and extractive activities?
 LOCATION:Waag Futurelab\, Nieuwmarkt 4\, 1012CR Amsterdam
 URL:https://waag.org/en/event/nature-our-monetary-system
 CATEGORIES:Waag
-END:VEVENT
-BEGIN:VEVENT
-UID:440e8769d16c868144abd77f53fd757f2697c938bf28e3399ad69a27139c42ba@pruts-
- agenda.local
-X-PRUTS-SOURCE:Pakhuis de Zwijger
-X-PRUTS-UUID:manual:pdz-digital-legacy-2026
-X-PRUTS-RADAR-ID:pdz-digital-legacy-2026
-X-PRUTS-OCCURRENCE-ID:manual:pdz-digital-legacy-2026:2026-10-27T19:30:00+01
- :00
-DTSTAMP:20261007T114351Z
-SUMMARY:Conversations That Matter: What Do We Leave Behind Online?
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART:20261027T183000Z
-DTEND:20261027T203000Z
-DESCRIPTION:A conversation about digital legacies\, personal data and decid
- ing what should happen to our online identities and accounts after death.
-LOCATION:Studio PDZ
-URL:https://dezwijger.nl/programma/conversations-that-matter-what-do-we-lea
- ve-behind-online
 END:VEVENT
 BEGIN:VEVENT
 UID:1f87952e8153fff7bb9088c5894e8cac1b885a677950a1a0faa2a7ab4dd091b2@pruts-
@@ -511,17 +451,17 @@ X-PRUTS-UUID:2d50e901-ebed-49ba-a9d1-0fd289e1962a
 X-PRUTS-RADAR-ID:589337
 X-PRUTS-OCCURRENCE-ID:2d50e901-ebed-49ba-a9d1-0fd289e1962a:2026-10-28T19:30
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20261028T183000Z
 DTEND:20261028T183000Z
-DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
- open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
- visiting hackers welcome\, refugees welcome! Our phone number is listed at
-  the front door. Give it a call\, wait through the automated message\, and
-  someone should answer it and help you in.
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\,
+  open to everyone! Non-members welcome\, guests welcome\, expats welcome\,
+  visiting hackers welcome\, refugees welcome! Our phone number is listed a
+ t the front door. Give it a call\, wait through the automated message\, an
+ d someone should answer it and help you in.
 LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
 URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-1
  0-28/hackerspace-social-evening
@@ -535,7 +475,7 @@ X-PRUTS-UUID:manual:pdz-tech-duurzaam-gebouwde-omgeving-2026
 X-PRUTS-RADAR-ID:pdz-tech-duurzaam-gebouwde-omgeving-2026
 X-PRUTS-OCCURRENCE-ID:manual:pdz-tech-duurzaam-gebouwde-omgeving-2026:2026-
  10-28T20:00:00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Tech voor een duurzaam gebouwde omgeving
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -554,15 +494,15 @@ X-PRUTS-SOURCE:
 X-PRUTS-UUID:manual:wiccon-haarlem-2026
 X-PRUTS-RADAR-ID:wiccon-haarlem-2026
 X-PRUTS-OCCURRENCE-ID:manual:wiccon-haarlem-2026:2026-10-29T09:00:00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:WICCON 2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20261029T080000Z
 DTEND:20261030T170000Z
-DESCRIPTION:A cybersecurity conference with an all-women speaker line-up\, 
- highlighting women's technical achievements through talks and workshops. A
- ll attendees are welcome.
+DESCRIPTION:A cybersecurity conference with an all-women speaker line-up\,
+  highlighting women's technical achievements through talks and workshops.
+  All attendees are welcome.
 LOCATION:De Lichtfabriek\, Energieplein 73\, 2031 TC Haarlem
 URL:https://wiccon.nl/
 CATEGORIES:cybersecurity\,conference
@@ -575,7 +515,7 @@ X-PRUTS-UUID:thehmm:9600-1793473200-1793476800@thehmm.nl
 X-PRUTS-RADAR-ID:thehmm:9600-1793473200-1793476800@thehmm.nl
 X-PRUTS-OCCURRENCE-ID:thehmm:9600-1793473200-1793476800@thehmm.nl:2026-10-3
  1T19:00:00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:The Hmm @ Brainwash Festival
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -583,60 +523,60 @@ DTSTART:20261031T180000Z
 DTEND:20261031T190000Z
 DESCRIPTION:The Hmm presents AI\, AI\, AI @ Brainwash festival\nWe use algo
  rithms\, platforms and AI-driven tools every day\, often without really un
- derstanding what’s happening behind the screen. The Hmm’s educational 
- programme\, ‘ai\, ai\, ai’\, turns these invisible systems into someth
- ing you can see\, understand\, question and play with. During Brainwash fe
- stival we’re launching our latest workshops—not involving AI\, but abo
- ut AI—specially designed for children aged 8 and over\, and their parent
- s. You can experience ‘Make your own Slopject’ and ‘Squish the Syste
- m’ at Brainwash festival Ijzaal. \nMake your own Slopject\nDo you ever s
- top to think that everything you do online is being tracked? Every ‘like
- ’\, every scroll and every second you spend watching a video tells us so
- mething about you. All those little bits of information together are what 
- we call data. Algorithms use that data to try and predict what you like\, 
- so you see more of that sort of content and adverts. Handy\, perhaps\, but
-  is it actually always fair? \nIn the ‘Make your own Slopject’ worksho
- p\, you’ll step into the role of an algorithm yourself. In exchange for 
- handing over your own data\, you’ll receive a token with which you can d
- raw (or ‘buy’) another person’s data profile from the ball machine. 
- What does this person watch? What music do they listen to? What do they se
- arch for online? Afterwards\, you’ll design (or mould) a collectable fig
- urine that you’re almost certain the person behind the data profile woul
- d want to buy. \nSquish the System: from facts to vibes\nFor a long time\,
-  the rule was: if there’s a photo of it\, it must have happened. We now 
- live in an age where any photo could just as easily have been created by A
- I. Every day we’re inundated with photos\, videos and memes\, not intend
- ed to tell a story\, but to make you feel something: curious\, restless\, 
- in love with a product. Enough to keep you looking\, clicking\, buying som
- ething. It’s not just people watching. Algorithms are squishing the worl
- d around us into categories they can understand. \nImages\, therefore\, re
- fer less and less to anything\, and increasingly demand something from us.
-  A squishy is the perfect object to explore this. It isn’t made to be lo
- oked at\, but to do something with: grab it\, squeeze it\, be unable to le
- t it go. Just like the images around us. \nIn this workshop\, you’re not
-  a consumer of images\, but a creator. You’ll design your own paper squi
- shy with a mission: an object that says nothing\, but triggers a specific 
- sensation. How do you make it go viral? Which aesthetic works for that\, a
- nd with which target audience? And what does it need to look like to achie
- ve that? \nAbout The Hmm\nThe Hmm is a platform for internet cultures. We 
- explore and celebrate the creativity that arises from virtual interactions
-  and the interplay with the technologies that make them possible. Through 
- accessible events\, research\, exhibitions and educational programmes\, we
-  offer a curious audience playful and engaging insights into online life. 
- The workshops ‘Make your own Slopject’ and ‘Squish the System: from 
- facts to vibes’ have been developed in collaboration with artist Maria M
- ombers\, who is also one of The Hmm’s tutors. \nAbout Brainwash Festival
-  \nBrainwash Festival is the place to be for thought-provoking ideas and v
- isions of the future. At Brainwash Festival\, philosophers\, scientists\, 
- artists and writers come together to explore the big questions of our time
-  and challenge the status quo. We bring together established figures and n
- ew voices. We celebrate thinking\, doubt and your curiosity. \nBrainwash F
- estival 2026 takes up the theme ‘the shape of us’\, through which it e
- xplores\, from different perspectives\, what it means to live together. \n
- More information about the programme TBA. \n📅 Date: 31 October\n📍 To
- lhuistuin\n⏱️19:10h – 20:10h: Make your Own Slopject\n⏱️ 20:30h 
- – 21:30h: Squish the System \n🎟️ Tickets: via Brainwash\n♿ Access
- ibility notes\nFind more info on the Tolhuistuin website.
+ derstanding what’s happening behind the screen. The Hmm’s educational
+  programme\, ‘ai\, ai\, ai’\, turns these invisible systems into somet
+ hing you can see\, understand\, question and play with. During Brainwash f
+ estival we’re launching our latest workshops—not involving AI\, but ab
+ out AI—specially designed for children aged 8 and over\, and their paren
+ ts. You can experience ‘Make your own Slopject’ and ‘Squish the Syst
+ em’ at Brainwash festival Ijzaal. \nMake your own Slopject\nDo you ever
+  stop to think that everything you do online is being tracked? Every ‘li
+ ke’\, every scroll and every second you spend watching a video tells us
+  something about you. All those little bits of information together are wh
+ at we call data. Algorithms use that data to try and predict what you like
+ \, so you see more of that sort of content and adverts. Handy\, perhaps\,
+  but is it actually always fair? \nIn the ‘Make your own Slopject’ wor
+ kshop\, you’ll step into the role of an algorithm yourself. In exchange
+  for handing over your own data\, you’ll receive a token with which you
+  can draw (or ‘buy’) another person’s data profile from the ball mac
+ hine. What does this person watch? What music do they listen to? What do t
+ hey search for online? Afterwards\, you’ll design (or mould) a collectab
+ le figurine that you’re almost certain the person behind the data profil
+ e would want to buy. \nSquish the System: from facts to vibes\nFor a long
+  time\, the rule was: if there’s a photo of it\, it must have happened.
+  We now live in an age where any photo could just as easily have been crea
+ ted by AI. Every day we’re inundated with photos\, videos and memes\, no
+ t intended to tell a story\, but to make you feel something: curious\, res
+ tless\, in love with a product. Enough to keep you looking\, clicking\, bu
+ ying something. It’s not just people watching. Algorithms are squishing
+  the world around us into categories they can understand. \nImages\, there
+ fore\, refer less and less to anything\, and increasingly demand something
+  from us. A squishy is the perfect object to explore this. It isn’t made
+  to be looked at\, but to do something with: grab it\, squeeze it\, be una
+ ble to let it go. Just like the images around us. \nIn this workshop\, you
+ ’re not a consumer of images\, but a creator. You’ll design your own p
+ aper squishy with a mission: an object that says nothing\, but triggers a
+  specific sensation. How do you make it go viral? Which aesthetic works fo
+ r that\, and with which target audience? And what does it need to look lik
+ e to achieve that? \nAbout The Hmm\nThe Hmm is a platform for internet cul
+ tures. We explore and celebrate the creativity that arises from virtual in
+ teractions and the interplay with the technologies that make them possible
+ . Through accessible events\, research\, exhibitions and educational progr
+ ammes\, we offer a curious audience playful and engaging insights into onl
+ ine life. The workshops ‘Make your own Slopject’ and ‘Squish the Sys
+ tem: from facts to vibes’ have been developed in collaboration with arti
+ st Maria Mombers\, who is also one of The Hmm’s tutors. \nAbout Brainwas
+ h Festival \nBrainwash Festival is the place to be for thought-provoking i
+ deas and visions of the future. At Brainwash Festival\, philosophers\, sci
+ entists\, artists and writers come together to explore the big questions o
+ f our time and challenge the status quo. We bring together established fig
+ ures and new voices. We celebrate thinking\, doubt and your curiosity. \nB
+ rainwash Festival 2026 takes up the theme ‘the shape of us’\, through
+  which it explores\, from different perspectives\, what it means to live t
+ ogether. \nMore information about the programme TBA. \n📅 Date: 31 Octob
+ er\n📍 Tolhuistuin\n⏱️19:10h – 20:10h: Make your Own Slopject\n⏱
+ ️ 20:30h – 21:30h: Squish the System \n🎟️ Tickets: via Brainwash\
+ n♿ Accessibility notes\nFind more info on the Tolhuistuin website.
 URL:https://thehmm.nl/event/the-hmm-brainwash-festival/
 CATEGORIES:The Hmm
 END:VEVENT
@@ -648,46 +588,26 @@ X-PRUTS-UUID:e08b4fce-7e03-4057-a346-d36b80bd7f86
 X-PRUTS-RADAR-ID:597112
 X-PRUTS-OCCURRENCE-ID:e08b4fce-7e03-4057-a346-d36b80bd7f86:2026-11-02T19:00
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Anarchist Repair Cafe & end of 10
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20261102T180000Z
 DTEND:20261102T210000Z
-DESCRIPTION:Anarchist Repair Cafe is an opportunity for everyone to repair 
- their broken electronics\, their favourite hoodie and to give anything the
- y found by the road a second life. Je kunt je spullen komen repareren en e
- indeloos spelen met de elektronica die we op straat hebben gevonden om nie
- uwe projecten te beginnen. Daarnaast kun je het juk van windows van je af 
- gooien en Linux op je computer komen installeren! De ondersteuning van Win
- dows 10 is gestopt en dat is het ideale moment om je te verzetten tegen de
-  eindeloze ‘vernieuwing’ en ‘verbetering’ van technologie. Miljoen
- en computers worden in een klap onbruikbaar in een van de grotere e-waste 
- momenten. Wij helpen je bij de overstap. opening times: every first Monday
-  of the month.
+DESCRIPTION:Anarchist Repair Cafe is an opportunity for everyone to repair
+  their broken electronics\, their favourite hoodie and to give anything th
+ ey found by the road a second life. Je kunt je spullen komen repareren en
+  eindeloos spelen met de elektronica die we op straat hebben gevonden om n
+ ieuwe projecten te beginnen. Daarnaast kun je het juk van windows van je a
+ f gooien en Linux op je computer komen installeren! De ondersteuning van W
+ indows 10 is gestopt en dat is het ideale moment om je te verzetten tegen
+  de eindeloze ‘vernieuwing’ en ‘verbetering’ van technologie. Milj
+ oenen computers worden in een klap onbruikbaar in een van de grotere e-was
+ te momenten. Wij helpen je bij de overstap. opening times: every first Mon
+ day of the month.
 LOCATION:LAG Eerste Schinkelstraat 14-16  Amsterdam Pays-Bas
 URL:https://radar.squat.net/en/event/amsterdam/lag/2026-11-02/anarchist-rep
  air-cafe-end-10
-END:VEVENT
-BEGIN:VEVENT
-UID:43b633c2de7bbaff3c9ade82384f10393da50244d19ac1591bfb1b6ede549651@pruts-
- agenda.local
-X-PRUTS-SOURCE:Pakhuis de Zwijger
-X-PRUTS-UUID:manual:pdz-ai-in-the-family-2026
-X-PRUTS-RADAR-ID:pdz-ai-in-the-family-2026
-X-PRUTS-OCCURRENCE-ID:manual:pdz-ai-in-the-family-2026:2026-11-02T20:00:00+
- 01:00
-DTSTAMP:20261007T114351Z
-SUMMARY:AI in the family: who does what at home?
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART:20261102T190000Z
-DTEND:20261102T210000Z
-DESCRIPTION:An evening about household AI\, unequal care work\, embedded bi
- as\, privacy and whether a European home assistant can provide an alternat
- ive to Big Tech.
-LOCATION:Grote Zaal PDZ
-URL:https://dezwijger.nl/programma/ai-in-the-family-who-does-what-at-home
 END:VEVENT
 BEGIN:VEVENT
 UID:8f48e9872d273711da503043950bbd285fdfce027a0784382a23579d758228d9@pruts-
@@ -697,7 +617,7 @@ X-PRUTS-UUID:a7df09e8-801f-4945-91f0-9ed750fad607
 X-PRUTS-RADAR-ID:593217
 X-PRUTS-OCCURRENCE-ID:a7df09e8-801f-4945-91f0-9ed750fad607:2026-11-03T13:00
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -719,9 +639,9 @@ DESCRIPTION:ABC Community bike repair event Is your bike making a weird noi
  ow focused on our bike repair cafe but with more people and time we can br
  ing back our bike-sharing! We are looking for ppl who can help others repa
  ir their bikes\, and provide some guidance for those with less experience.
-  If you know someone or are someone who would be interested\, please come 
- to our next ABC event on Tues Nov 4 from 13:00-18:00 at the Vrankrijk. Or 
- email us at Abikecollective@protonmail.com
+  If you know someone or are someone who would be interested\, please come
+  to our next ABC event on Tues Nov 4 from 13:00-18:00 at the Vrankrijk. Or
+  email us at Abikecollective@protonmail.com
 LOCATION:Vrankrijk Spuistraat 216  Amsterdam Pays-Bas
 URL:https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-03/abc-com
  munity-bike-repair
@@ -734,17 +654,17 @@ X-PRUTS-UUID:86fb6155-5087-4aa9-9b6e-34a466ba3795
 X-PRUTS-RADAR-ID:589338
 X-PRUTS-OCCURRENCE-ID:86fb6155-5087-4aa9-9b6e-34a466ba3795:2026-11-04T19:30
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20261104T183000Z
 DTEND:20261104T183000Z
-DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
- open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
- visiting hackers welcome\, refugees welcome! Our phone number is listed at
-  the front door. Give it a call\, wait through the automated message\, and
-  someone should answer it and help you in.
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\,
+  open to everyone! Non-members welcome\, guests welcome\, expats welcome\,
+  visiting hackers welcome\, refugees welcome! Our phone number is listed a
+ t the front door. Give it a call\, wait through the automated message\, an
+ d someone should answer it and help you in.
 LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
 URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-1
  1-04/hackerspace-social-evening
@@ -758,7 +678,7 @@ X-PRUTS-UUID:waag:07bb5f32-e2ff-4c13-b5a8-d8d365d31288
 X-PRUTS-RADAR-ID:waag:07bb5f32-e2ff-4c13-b5a8-d8d365d31288
 X-PRUTS-OCCURRENCE-ID:waag:07bb5f32-e2ff-4c13-b5a8-d8d365d31288:2026-11-05T
  18:30:00+00:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Cleaning without contaminating
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -772,25 +692,6 @@ URL:https://waag.org/en/event/cleaning-without-contaminating
 CATEGORIES:Waag
 END:VEVENT
 BEGIN:VEVENT
-UID:18f53cb8dce61ff6f6cfd3691ad1de2ee025c61bd579ae6f30de7f3e6ccbcb27@pruts-
- agenda.local
-X-PRUTS-SOURCE:Pakhuis de Zwijger
-X-PRUTS-UUID:manual:pdz-vierkante-ogen-2026
-X-PRUTS-RADAR-ID:pdz-vierkante-ogen-2026
-X-PRUTS-OCCURRENCE-ID:manual:pdz-vierkante-ogen-2026:2026-11-05T19:30:00+01
- :00
-DTSTAMP:20261007T114351Z
-SUMMARY:Vierkante ogen
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART:20261105T183000Z
-DTEND:20261105T203000Z
-DESCRIPTION:Boekpresentatie en gesprek met informaticus Felienne Hermans ov
- er hoe softwareontwikkelaars de wereld zien en met hun apps vormgeven.
-LOCATION:IJzaal PDZ
-URL:https://dezwijger.nl/programma/vierkante-ogen
-END:VEVENT
-BEGIN:VEVENT
 UID:d8b614f55ef54442f703b81ef199ceaf404d97fb412d37a7c3f26f70b672fe60@pruts-
  agenda.local
 X-PRUTS-SOURCE:radar
@@ -798,7 +699,7 @@ X-PRUTS-UUID:897d30d7-9c86-4083-84b3-52dcc2ef6d0c
 X-PRUTS-RADAR-ID:577375
 X-PRUTS-OCCURRENCE-ID:897d30d7-9c86-4083-84b3-52dcc2ef6d0c:2026-11-05T20:00
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -819,7 +720,7 @@ X-PRUTS-UUID:thehmm:10041-1794056400-1794070800@thehmm.nl
 X-PRUTS-RADAR-ID:thehmm:10041-1794056400-1794070800@thehmm.nl
 X-PRUTS-OCCURRENCE-ID:thehmm:10041-1794056400-1794070800@thehmm.nl:2026-11-
  07T13:00:00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:SOLD OUT! Cyberdeck workshop: build your own 'mesh-berry' 🫐 #2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -828,55 +729,55 @@ DTEND:20261107T160000Z
 DESCRIPTION:Hand-soldered cyberdecks are all over the internet. The cyberde
  cks we know from cyberpunk fiction and hacker culture were improvised mach
  ines—originally appearing in William Gibson’s 1984 novel Neuromancer
- —often built within a narrow and masculine idea of who gets to tinker\, 
- hack\, and build. The cyberdecks filling our feeds today look different. T
- hey’re cute. \nFrom mermaid-shell Raspberry Pis to Hello Kitty makeup ca
- ses\, these devices have exploded in popularity over the past year\, thank
- s to women teaching each other to build artistic\, hyper-feminine computer
- s online. \nCyberdecks push back against the sleek\, sealed\, and extracti
- ve technologies we rely on every day. While most consumer computers lock u
- s into systems that are becoming increasingly unethical\, from non-consens
- ual surveillance to automatic AI integration no one asked for\, cyberdecks
-  are hacked together. Often built with femininity and sustainability in mi
- nd\, they’re personalised with cute and colourful items that would other
- wise be thrown away. In an age of mass-produced devices\, cyberdecks turn 
- technology into a form of self-expression. \nMake your personalised ‘mes
- h-berry’! 🫐\nIn this workshop\, you’ll build your very own\, person
- alised ‘mesh-berry’ 🫐 device: a local chat tool that runs on a mesh
-  network. You don’t need WiFi\, internet\, or anything Big Tech related.
-  To keep things accessible\, we won’t build a full computer\, but focus 
- on a working chat tool you can actually take home and use\, change\, or bu
- ild upon. \nGuided by web developer and artist Heerko van der Kooij\, you
- ’ll learn how to hand-solder your own motherboard and how to style your 
- chat program. Lilian Stolk from The Hmm will go a bit deeper into the aest
- hetic side of things\, looking at how (and why) to design a personal case 
- for your device \nAfter the workshop\, you’ll walk away with a working m
- esh-berry that you can use to chat with other mesh-berry owners nearby. If
-  your friends couldn’t make it to this workshop\, you’ll have picked u
- p the skills to build one for them yourself. \nRequirements and Prep\n\nYo
- u don’t need to have any experience with coding to join this workshop. T
- he ticket price includes all the hardware you’ll need: a screen\, keyboa
- rd\, battery\, and speaker. We’ll provide some basic crafting materials\
- , but we ask you to bring your own case that is at least 5x7cm (a bag\, b
- ox\, tin\, or anything else you’d like to turn into your device’s shel
- l) and extra bits and pieces to personalise it further. Think of stickers\
- , fabric\, beads\, paint\, or anything else that makes it yours. The works
- hop will be conducted in English. Please feel free to join us\, but don’
- t wait to long. Our first workshop sold out fast. \nSize hardware:\n– sc
- reen (including outside): 8\,5 x 5 x 1 cm (size of the screen is 6\,5 x 4\
- ,9 cm). It needs a bit of extra space for the battery\, the speaker and ca
- bles.\n– keyboard: 8\,4 x 5\,3 cm\nCheck for an image in the speaker car
- ousel. \nThe Hmm experiments…\nThis event is part of a series of program
- s that we are developing with The Hmm\, where we give space in our studio 
- for our community to explore new ideas and experiment with workshops as pa
- rt of our public program. \n\nWhat you need to know\n\n📅 Date: Saturday
-  26 September 2026\n🕗 Times: 13.00 – 17.00 CEST\n📍 Location: The H
- mm’s studio\, NDSM-plein 125\, 1033 WC Amsterdam\n🎟 Tickets: €55 re
- gular\, €51\,50 students (this is including €47\,50 for hardware mater
- ial)\n\nAs these workshops are more intimate sessions\, there is a limited
-  supply of tickets available. You can find information about physical acce
- ssibility at The Hmm’s studio here. \n\n💚 This programme is kindly su
- pported by the Creative Industries Fund NL
+ —often built within a narrow and masculine idea of who gets to tinker\,
+  hack\, and build. The cyberdecks filling our feeds today look different.
+  They’re cute. \nFrom mermaid-shell Raspberry Pis to Hello Kitty makeup
+  cases\, these devices have exploded in popularity over the past year\, th
+ anks to women teaching each other to build artistic\, hyper-feminine compu
+ ters online. \nCyberdecks push back against the sleek\, sealed\, and extra
+ ctive technologies we rely on every day. While most consumer computers loc
+ k us into systems that are becoming increasingly unethical\, from non-cons
+ ensual surveillance to automatic AI integration no one asked for\, cyberde
+ cks are hacked together. Often built with femininity and sustainability in
+  mind\, they’re personalised with cute and colourful items that would ot
+ herwise be thrown away. In an age of mass-produced devices\, cyberdecks tu
+ rn technology into a form of self-expression. \nMake your personalised ‘
+ mesh-berry’! 🫐\nIn this workshop\, you’ll build your very own\, per
+ sonalised ‘mesh-berry’ 🫐 device: a local chat tool that runs on a m
+ esh network. You don’t need WiFi\, internet\, or anything Big Tech relat
+ ed. To keep things accessible\, we won’t build a full computer\, but foc
+ us on a working chat tool you can actually take home and use\, change\, or
+  build upon. \nGuided by web developer and artist Heerko van der Kooij\, y
+ ou’ll learn how to hand-solder your own motherboard and how to style you
+ r chat program. Lilian Stolk from The Hmm will go a bit deeper into the ae
+ sthetic side of things\, looking at how (and why) to design a personal cas
+ e for your device \nAfter the workshop\, you’ll walk away with a working
+  mesh-berry that you can use to chat with other mesh-berry owners nearby.
+  If your friends couldn’t make it to this workshop\, you’ll have picke
+ d up the skills to build one for them yourself. \nRequirements and Prep\n\
+ nYou don’t need to have any experience with coding to join this workshop
+ . The ticket price includes all the hardware you’ll need: a screen\, key
+ board\, battery\, and speaker. We’ll provide some basic crafting materia
+ ls\, but we ask you to bring your own case that is at least 5x7cm (a bag\
+ , box\, tin\, or anything else you’d like to turn into your device’s s
+ hell) and extra bits and pieces to personalise it further. Think of sticke
+ rs\, fabric\, beads\, paint\, or anything else that makes it yours. The wo
+ rkshop will be conducted in English. Please feel free to join us\, but don
+ ’t wait to long. Our first workshop sold out fast. \nSize hardware:\n–
+  screen (including outside): 8\,5 x 5 x 1 cm (size of the screen is 6\,5 x
+  4\,9 cm). It needs a bit of extra space for the battery\, the speaker and
+  cables.\n– keyboard: 8\,4 x 5\,3 cm\nCheck for an image in the speaker
+  carousel. \nThe Hmm experiments…\nThis event is part of a series of pro
+ grams that we are developing with The Hmm\, where we give space in our stu
+ dio for our community to explore new ideas and experiment with workshops a
+ s part of our public program. \n\nWhat you need to know\n\n📅 Date: Satu
+ rday 26 September 2026\n🕗 Times: 13.00 – 17.00 CEST\n📍 Location: T
+ he Hmm’s studio\, NDSM-plein 125\, 1033 WC Amsterdam\n🎟 Tickets: €5
+ 5 regular\, €51\,50 students (this is including €47\,50 for hardware m
+ aterial)\n\nAs these workshops are more intimate sessions\, there is a lim
+ ited supply of tickets available. You can find information about physical
+  accessibility at The Hmm’s studio here. \n\n💚 This programme is kind
+ ly supported by the Creative Industries Fund NL
 URL:https://thehmm.nl/event/cyberdeck-workshop-build-your-own-mesh-berry-2/
 CATEGORIES:The Hmm
 END:VEVENT
@@ -888,17 +789,17 @@ X-PRUTS-UUID:1c1a1765-577d-42f0-9360-0485ae52b069
 X-PRUTS-RADAR-ID:589339
 X-PRUTS-OCCURRENCE-ID:1c1a1765-577d-42f0-9360-0485ae52b069:2026-11-11T19:30
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20261111T183000Z
 DTEND:20261111T183000Z
-DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
- open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
- visiting hackers welcome\, refugees welcome! Our phone number is listed at
-  the front door. Give it a call\, wait through the automated message\, and
-  someone should answer it and help you in.
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\,
+  open to everyone! Non-members welcome\, guests welcome\, expats welcome\,
+  visiting hackers welcome\, refugees welcome! Our phone number is listed a
+ t the front door. Give it a call\, wait through the automated message\, an
+ d someone should answer it and help you in.
 LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
 URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-1
  1-11/hackerspace-social-evening
@@ -912,7 +813,7 @@ X-PRUTS-UUID:dbfd403a-edb9-4a9b-a8b0-1e5be84d318d
 X-PRUTS-RADAR-ID:593248
 X-PRUTS-OCCURRENCE-ID:dbfd403a-edb9-4a9b-a8b0-1e5be84d318d:2026-11-17T13:00
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -934,9 +835,9 @@ DESCRIPTION:ABC Community bike repair event Is your bike making a weird noi
  ow focused on our bike repair cafe but with more people and time we can br
  ing back our bike-sharing! We are looking for ppl who can help others repa
  ir their bikes\, and provide some guidance for those with less experience.
-  If you know someone or are someone who would be interested\, please come 
- to our next ABC event on Tues Nov 4 from 13:00-18:00 at the Vrankrijk. Or 
- email us at Abikecollective@protonmail.com
+  If you know someone or are someone who would be interested\, please come
+  to our next ABC event on Tues Nov 4 from 13:00-18:00 at the Vrankrijk. Or
+  email us at Abikecollective@protonmail.com
 LOCATION:Vrankrijk Spuistraat 216  Amsterdam Pays-Bas
 URL:https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-17/abc-com
  munity-bike-repair
@@ -949,17 +850,17 @@ X-PRUTS-UUID:394a3a0f-b833-49f9-b707-3c263f822244
 X-PRUTS-RADAR-ID:589340
 X-PRUTS-OCCURRENCE-ID:394a3a0f-b833-49f9-b707-3c263f822244:2026-11-18T19:30
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20261118T183000Z
 DTEND:20261118T183000Z
-DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
- open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
- visiting hackers welcome\, refugees welcome! Our phone number is listed at
-  the front door. Give it a call\, wait through the automated message\, and
-  someone should answer it and help you in.
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\,
+  open to everyone! Non-members welcome\, guests welcome\, expats welcome\,
+  visiting hackers welcome\, refugees welcome! Our phone number is listed a
+ t the front door. Give it a call\, wait through the automated message\, an
+ d someone should answer it and help you in.
 LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
 URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-1
  1-18/hackerspace-social-evening
@@ -973,7 +874,7 @@ X-PRUTS-UUID:82299576-3673-4da6-b38e-12d52cdb7e74
 X-PRUTS-RADAR-ID:577376
 X-PRUTS-OCCURRENCE-ID:82299576-3673-4da6-b38e-12d52cdb7e74:2026-11-19T20:00
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -994,17 +895,17 @@ X-PRUTS-UUID:edd01492-9ce4-47ad-9334-ebbd2e8f9d96
 X-PRUTS-RADAR-ID:589341
 X-PRUTS-OCCURRENCE-ID:edd01492-9ce4-47ad-9334-ebbd2e8f9d96:2026-11-25T19:30
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20261125T183000Z
 DTEND:20261125T183000Z
-DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
- open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
- visiting hackers welcome\, refugees welcome! Our phone number is listed at
-  the front door. Give it a call\, wait through the automated message\, and
-  someone should answer it and help you in.
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\,
+  open to everyone! Non-members welcome\, guests welcome\, expats welcome\,
+  visiting hackers welcome\, refugees welcome! Our phone number is listed a
+ t the front door. Give it a call\, wait through the automated message\, an
+ d someone should answer it and help you in.
 LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
 URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-1
  1-25/hackerspace-social-evening
@@ -1018,15 +919,15 @@ X-PRUTS-UUID:manual:spui25-digitale-vrijheid-2026
 X-PRUTS-RADAR-ID:spui25-digitale-vrijheid-2026
 X-PRUTS-OCCURRENCE-ID:manual:spui25-digitale-vrijheid-2026:2026-11-26T17:00
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Gevolgd\, gemeten\, voorspeld: vrijheid in een digitale wereld
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20261126T160000Z
 DTEND:20261126T180000Z
 DESCRIPTION:Een gesprek over digitale monitoring\, profilering en toezicht\
- , en over het beschermen van vrijheid\, autonomie\, privacy en menselijke 
- waardigheid.
+ , en over het beschermen van vrijheid\, autonomie\, privacy en menselijke
+  waardigheid.
 LOCATION:SPUI25\, Spui 25-27\, Amsterdam
 URL:https://www.spui25.nl/programma/gevolgd-gemeten-voorspeld-vrijheid-in-e
  en-digitale-wereld
@@ -1039,7 +940,7 @@ X-PRUTS-UUID:3b62a51c-d612-406d-a59c-e77c8d3cc301
 X-PRUTS-RADAR-ID:593253
 X-PRUTS-OCCURRENCE-ID:3b62a51c-d612-406d-a59c-e77c8d3cc301:2026-12-01T13:00
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1061,9 +962,9 @@ DESCRIPTION:ABC Community bike repair event Is your bike making a weird noi
  ow focused on our bike repair cafe but with more people and time we can br
  ing back our bike-sharing! We are looking for ppl who can help others repa
  ir their bikes\, and provide some guidance for those with less experience.
-  If you know someone or are someone who would be interested\, please come 
- to our next ABC event on Tues Nov 4 from 13:00-18:00 at the Vrankrijk. Or 
- email us at Abikecollective@protonmail.com
+  If you know someone or are someone who would be interested\, please come
+  to our next ABC event on Tues Nov 4 from 13:00-18:00 at the Vrankrijk. Or
+  email us at Abikecollective@protonmail.com
 LOCATION:Vrankrijk Spuistraat 216  Amsterdam Pays-Bas
 URL:https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-01/abc-com
  munity-bike-repair
@@ -1076,17 +977,17 @@ X-PRUTS-UUID:fa4ebcc6-a2ec-4320-8e29-cf0447a5e091
 X-PRUTS-RADAR-ID:589342
 X-PRUTS-OCCURRENCE-ID:fa4ebcc6-a2ec-4320-8e29-cf0447a5e091:2026-12-02T19:30
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20261202T183000Z
 DTEND:20261202T183000Z
-DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
- open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
- visiting hackers welcome\, refugees welcome! Our phone number is listed at
-  the front door. Give it a call\, wait through the automated message\, and
-  someone should answer it and help you in.
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\,
+  open to everyone! Non-members welcome\, guests welcome\, expats welcome\,
+  visiting hackers welcome\, refugees welcome! Our phone number is listed a
+ t the front door. Give it a call\, wait through the automated message\, an
+ d someone should answer it and help you in.
 LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
 URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-1
  2-02/hackerspace-social-evening
@@ -1100,7 +1001,7 @@ X-PRUTS-UUID:waag:bdb41954-970f-45f1-bbc0-d72bf3e9646e
 X-PRUTS-RADAR-ID:waag:bdb41954-970f-45f1-bbc0-d72bf3e9646e
 X-PRUTS-OCCURRENCE-ID:waag:bdb41954-970f-45f1-bbc0-d72bf3e9646e:2026-12-03T
  18:30:00+00:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Water quality from space
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1121,7 +1022,7 @@ X-PRUTS-UUID:e7cca115-b77b-47d1-b402-8e5eb6e611bd
 X-PRUTS-RADAR-ID:577377
 X-PRUTS-OCCURRENCE-ID:e7cca115-b77b-47d1-b402-8e5eb6e611bd:2026-12-03T20:00
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1142,23 +1043,23 @@ X-PRUTS-UUID:5af809da-f1a2-46da-bfd6-8984330dac28
 X-PRUTS-RADAR-ID:597113
 X-PRUTS-OCCURRENCE-ID:5af809da-f1a2-46da-bfd6-8984330dac28:2026-12-07T19:00
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Anarchist Repair Cafe & end of 10
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20261207T180000Z
 DTEND:20261207T210000Z
-DESCRIPTION:Anarchist Repair Cafe is an opportunity for everyone to repair 
- their broken electronics\, their favourite hoodie and to give anything the
- y found by the road a second life. Je kunt je spullen komen repareren en e
- indeloos spelen met de elektronica die we op straat hebben gevonden om nie
- uwe projecten te beginnen. Daarnaast kun je het juk van windows van je af 
- gooien en Linux op je computer komen installeren! De ondersteuning van Win
- dows 10 is gestopt en dat is het ideale moment om je te verzetten tegen de
-  eindeloze ‘vernieuwing’ en ‘verbetering’ van technologie. Miljoen
- en computers worden in een klap onbruikbaar in een van de grotere e-waste 
- momenten. Wij helpen je bij de overstap. opening times: every first Monday
-  of the month.
+DESCRIPTION:Anarchist Repair Cafe is an opportunity for everyone to repair
+  their broken electronics\, their favourite hoodie and to give anything th
+ ey found by the road a second life. Je kunt je spullen komen repareren en
+  eindeloos spelen met de elektronica die we op straat hebben gevonden om n
+ ieuwe projecten te beginnen. Daarnaast kun je het juk van windows van je a
+ f gooien en Linux op je computer komen installeren! De ondersteuning van W
+ indows 10 is gestopt en dat is het ideale moment om je te verzetten tegen
+  de eindeloze ‘vernieuwing’ en ‘verbetering’ van technologie. Milj
+ oenen computers worden in een klap onbruikbaar in een van de grotere e-was
+ te momenten. Wij helpen je bij de overstap. opening times: every first Mon
+ day of the month.
 LOCATION:LAG Eerste Schinkelstraat 14-16  Amsterdam Pays-Bas
 URL:https://radar.squat.net/en/event/amsterdam/lag/2026-12-07/anarchist-rep
  air-cafe-end-10
@@ -1171,17 +1072,17 @@ X-PRUTS-UUID:98d1792a-3ebc-4597-ba63-cd413c7df5a3
 X-PRUTS-RADAR-ID:589343
 X-PRUTS-OCCURRENCE-ID:98d1792a-3ebc-4597-ba63-cd413c7df5a3:2026-12-09T19:30
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20261209T183000Z
 DTEND:20261209T183000Z
-DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
- open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
- visiting hackers welcome\, refugees welcome! Our phone number is listed at
-  the front door. Give it a call\, wait through the automated message\, and
-  someone should answer it and help you in.
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\,
+  open to everyone! Non-members welcome\, guests welcome\, expats welcome\,
+  visiting hackers welcome\, refugees welcome! Our phone number is listed a
+ t the front door. Give it a call\, wait through the automated message\, an
+ d someone should answer it and help you in.
 LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
 URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-1
  2-09/hackerspace-social-evening
@@ -1195,7 +1096,7 @@ X-PRUTS-UUID:thehmm:10146-1797015600-1797026400@thehmm.nl
 X-PRUTS-RADAR-ID:thehmm:10146-1797015600-1797026400@thehmm.nl
 X-PRUTS-OCCURRENCE-ID:thehmm:10146-1797015600-1797026400@thehmm.nl:2026-12-
  11T19:00:00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Celebrating 10 Years of The Hmm + Book Launch
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1203,37 +1104,37 @@ DTSTART:20261211T180000Z
 DTEND:20261211T210000Z
 DESCRIPTION:Earlier this year\, the internet was briefly filled with the ho
  pe that 2026 might become the new 2016. In quasi-historical fashion\, user
- s resurfaced early Instagram filters and interfaces\, Tumblr-motivational 
- quotes\, old memes\, and other fragments of a supposedly simpler internet.
-  Collectively\, it became a meditation on how social media used to be bett
- er\, or at least how much it felt better. Though users relied on a more ge
- neralised nostalgia to resurrect the aesthetic of the time\, they were\, i
- n a sense\, correct. The internet really did feel different. 2016 was the 
- year that all news feeds became algorithmic\, and with it our relationship
-  with social media fundamentally changed.\n‎\n\nSerendipitously\, The Hm
- m was also born ten years ago\, in 2016. Since then\, we have tried to tra
- ce\, interrogate and intervene in the forces shaping our online lives\, in
- cluding the algorithmic feed itself. To celebrate this legacy\, we are thr
- owing a festive evening at W139 in Amsterdam\, filled with performances\, 
- workshops\, drinks and more.\n‎\n‎Suggested For You: Reflecting on a d
- ecade in the feed\nThe evening will also mark the launch of our 10-year an
- niversary publication: Suggested For You: Reflecting on a Decade in the Fe
- ed. Part celebration\, part reflection\, the book looks back at the algori
- thmic feed and the decade of internet cultures that has unfolded around it
- . Featuring essays\, interviews\, image contributions and artist profiles 
- from Ruba Al-Sweel\, Evelyn Austin and Rejo Zenger\, Jak Ritger\, Soyun Pa
- rk and Leo Scarin\, Noura Tafeche\, Neema Githere\, Alex Quicho\, Constant
-  Dullaart\, Mamali Shafahi and Ali Eslami\, Danielle Brathwaite-Shirley\, 
- K Allado McDowell and Aidan Walker\, the publication brings together a ran
- ge of perspectives on how the algorithmic feed has come to shape life onli
- ne.\nYou can already pre-order the book. It will be available to pick-up a
- nd purchase at the event.\n‎\nProgram\nSpeakers\, workshops and performa
- nces to be announced soon.\n‎\nWhat you need to know\n\n📅 Date: Frida
- y 11 December 2026\n🕗 Times: 19.00 – 22.00 CET\n📍 Location: W139\,
-  Warmoesstraat 139\, 1012 JB Amsterdam\n🎟 Tickets: Free\, but please re
- gister!\n‎\n\n‎💚 This programme is kindly supported by the Amsterda
- ms Fonds voor de Kunsten and Het Cultuurfonds. Suggested For You is suppor
- ted by Mondriaanfonds.
+ s resurfaced early Instagram filters and interfaces\, Tumblr-motivational
+  quotes\, old memes\, and other fragments of a supposedly simpler internet
+ . Collectively\, it became a meditation on how social media used to be bet
+ ter\, or at least how much it felt better. Though users relied on a more g
+ eneralised nostalgia to resurrect the aesthetic of the time\, they were\,
+  in a sense\, correct. The internet really did feel different. 2016 was th
+ e year that all news feeds became algorithmic\, and with it our relationsh
+ ip with social media fundamentally changed.\n‎\n\nSerendipitously\, The
+  Hmm was also born ten years ago\, in 2016. Since then\, we have tried to
+  trace\, interrogate and intervene in the forces shaping our online lives\
+ , including the algorithmic feed itself. To celebrate this legacy\, we are
+  throwing a festive evening at W139 in Amsterdam\, filled with performance
+ s\, workshops\, drinks and more.\n‎\n‎Suggested For You: Reflecting on
+  a decade in the feed\nThe evening will also mark the launch of our 10-yea
+ r anniversary publication: Suggested For You: Reflecting on a Decade in th
+ e Feed. Part celebration\, part reflection\, the book looks back at the al
+ gorithmic feed and the decade of internet cultures that has unfolded aroun
+ d it. Featuring essays\, interviews\, image contributions and artist profi
+ les from Ruba Al-Sweel\, Evelyn Austin and Rejo Zenger\, Jak Ritger\, Soyu
+ n Park and Leo Scarin\, Noura Tafeche\, Neema Githere\, Alex Quicho\, Cons
+ tant Dullaart\, Mamali Shafahi and Ali Eslami\, Danielle Brathwaite-Shirle
+ y\, K Allado McDowell and Aidan Walker\, the publication brings together a
+  range of perspectives on how the algorithmic feed has come to shape life
+  online.\nYou can already pre-order the book. It will be available to pick
+ -up and purchase at the event.\n‎\nProgram\nSpeakers\, workshops and per
+ formances to be announced soon.\n‎\nWhat you need to know\n\n📅 Date:
+  Friday 11 December 2026\n🕗 Times: 19.00 – 22.00 CET\n📍 Location:
+  W139\, Warmoesstraat 139\, 1012 JB Amsterdam\n🎟 Tickets: Free\, but pl
+ ease register!\n‎\n\n‎💚 This programme is kindly supported by the A
+ msterdams Fonds voor de Kunsten and Het Cultuurfonds. Suggested For You is
+  supported by Mondriaanfonds.
 URL:https://thehmm.nl/event/celebrating-10-years-of-the-hmm-book-launch/
 CATEGORIES:The Hmm
 END:VEVENT
@@ -1245,7 +1146,7 @@ X-PRUTS-UUID:ac890608-d910-491c-8ece-0d71a43f9699
 X-PRUTS-RADAR-ID:593257
 X-PRUTS-OCCURRENCE-ID:ac890608-d910-491c-8ece-0d71a43f9699:2026-12-15T13:00
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1267,9 +1168,9 @@ DESCRIPTION:ABC Community bike repair event Is your bike making a weird noi
  ow focused on our bike repair cafe but with more people and time we can br
  ing back our bike-sharing! We are looking for ppl who can help others repa
  ir their bikes\, and provide some guidance for those with less experience.
-  If you know someone or are someone who would be interested\, please come 
- to our next ABC event on Tues Nov 4 from 13:00-18:00 at the Vrankrijk. Or 
- email us at Abikecollective@protonmail.com
+  If you know someone or are someone who would be interested\, please come
+  to our next ABC event on Tues Nov 4 from 13:00-18:00 at the Vrankrijk. Or
+  email us at Abikecollective@protonmail.com
 LOCATION:Vrankrijk Spuistraat 216  Amsterdam Pays-Bas
 URL:https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-15/abc-com
  munity-bike-repair
@@ -1282,17 +1183,17 @@ X-PRUTS-UUID:fc42e61c-de36-42d7-91d5-d9e312627a2d
 X-PRUTS-RADAR-ID:589344
 X-PRUTS-OCCURRENCE-ID:fc42e61c-de36-42d7-91d5-d9e312627a2d:2026-12-16T19:30
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20261216T183000Z
 DTEND:20261216T183000Z
-DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
- open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
- visiting hackers welcome\, refugees welcome! Our phone number is listed at
-  the front door. Give it a call\, wait through the automated message\, and
-  someone should answer it and help you in.
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\,
+  open to everyone! Non-members welcome\, guests welcome\, expats welcome\,
+  visiting hackers welcome\, refugees welcome! Our phone number is listed a
+ t the front door. Give it a call\, wait through the automated message\, an
+ d someone should answer it and help you in.
 LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
 URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-1
  2-16/hackerspace-social-evening
@@ -1306,7 +1207,7 @@ X-PRUTS-UUID:97161c47-cdd0-46ba-9edf-a3d3e8e8ca45
 X-PRUTS-RADAR-ID:577378
 X-PRUTS-OCCURRENCE-ID:97161c47-cdd0-46ba-9edf-a3d3e8e8ca45:2026-12-17T20:00
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1327,17 +1228,17 @@ X-PRUTS-UUID:67c9e384-6d34-4179-bbeb-4ebe0ba5e3fa
 X-PRUTS-RADAR-ID:589345
 X-PRUTS-OCCURRENCE-ID:67c9e384-6d34-4179-bbeb-4ebe0ba5e3fa:2026-12-23T19:30
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20261223T183000Z
 DTEND:20261223T183000Z
-DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
- open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
- visiting hackers welcome\, refugees welcome! Our phone number is listed at
-  the front door. Give it a call\, wait through the automated message\, and
-  someone should answer it and help you in.
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\,
+  open to everyone! Non-members welcome\, guests welcome\, expats welcome\,
+  visiting hackers welcome\, refugees welcome! Our phone number is listed a
+ t the front door. Give it a call\, wait through the automated message\, an
+ d someone should answer it and help you in.
 LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
 URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-1
  2-23/hackerspace-social-evening
@@ -1350,7 +1251,7 @@ X-PRUTS-SOURCE:
 X-PRUTS-UUID:manual:ccc-40c3-2026
 X-PRUTS-RADAR-ID:ccc-40c3-2026
 X-PRUTS-OCCURRENCE-ID:manual:ccc-40c3-2026:2026-12-27T00:00:00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:40th Chaos Communication Congress
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1369,17 +1270,17 @@ X-PRUTS-UUID:b5c2aa13-f1d8-4be1-87d3-bd4ae1f82c53
 X-PRUTS-RADAR-ID:589346
 X-PRUTS-OCCURRENCE-ID:b5c2aa13-f1d8-4be1-87d3-bd4ae1f82c53:2026-12-30T19:30
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20261230T183000Z
 DTEND:20261230T183000Z
-DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
- open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
- visiting hackers welcome\, refugees welcome! Our phone number is listed at
-  the front door. Give it a call\, wait through the automated message\, and
-  someone should answer it and help you in.
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\,
+  open to everyone! Non-members welcome\, guests welcome\, expats welcome\,
+  visiting hackers welcome\, refugees welcome! Our phone number is listed a
+ t the front door. Give it a call\, wait through the automated message\, an
+ d someone should answer it and help you in.
 LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
 URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-1
  2-30/hackerspace-social-evening
@@ -1393,7 +1294,7 @@ X-PRUTS-UUID:ce0d6607-7d08-4ddf-b9f2-f7cfac96ebc7
 X-PRUTS-RADAR-ID:577379
 X-PRUTS-OCCURRENCE-ID:ce0d6607-7d08-4ddf-b9f2-f7cfac96ebc7:2026-12-31T20:00
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1414,17 +1315,17 @@ X-PRUTS-UUID:76425267-89cf-46a4-9d46-ff14b73cee70
 X-PRUTS-RADAR-ID:589347
 X-PRUTS-OCCURRENCE-ID:76425267-89cf-46a4-9d46-ff14b73cee70:2027-01-06T19:30
  :00+01:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20270106T183000Z
 DTEND:20270106T183000Z
-DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\, 
- open to everyone! Non-members welcome\, guests welcome\, expats welcome\, 
- visiting hackers welcome\, refugees welcome! Our phone number is listed at
-  the front door. Give it a call\, wait through the automated message\, and
-  someone should answer it and help you in.
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\,
+  open to everyone! Non-members welcome\, guests welcome\, expats welcome\,
+  visiting hackers welcome\, refugees welcome! Our phone number is listed a
+ t the front door. Give it a call\, wait through the automated message\, an
+ d someone should answer it and help you in.
 LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
 URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2027-0
  1-06/hackerspace-social-evening
@@ -1437,7 +1338,7 @@ X-PRUTS-SOURCE:
 X-PRUTS-UUID:manual:fab27-oulu-2027
 X-PRUTS-RADAR-ID:fab27-oulu-2027
 X-PRUTS-OCCURRENCE-ID:manual:fab27-oulu-2027:2027-08-01T00:00:00+02:00
-DTSTAMP:20261007T114351Z
+DTSTAMP:20261007T122351Z
 SUMMARY:FAB27 Oulu
 STATUS:CONFIRMED
 TRANSP:OPAQUE
