@@ -9,6 +9,7 @@ from models import Event
 
 SOURCE_LABELS = {
     "hackersanddesigners": "Hackers & Designers",
+    "pakhuisdezwijger": "Pakhuis de Zwijger",
     "radar": "Radar Squad",
     "thehmm": "The Hmm",
     "waag": "Waag",

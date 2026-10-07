@@ -9,6 +9,7 @@ HACKERS_AND_DESIGNERS_ACTIVITIES_URL = (
     "https://hackersanddesigners.nl/activities"
 )
 THE_HMM_ICS_URL = "https://thehmm.nl/events-page/?ical=1"
+PAKHUIS_DE_ZWIJGER_AGENDA_URL = "https://dezwijger.nl/agenda"
 CITY = "Amsterdam"
 REQUEST_TIMEOUT = 60
 REQUEST_HEADERS = {

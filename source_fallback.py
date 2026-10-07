@@ -12,6 +12,7 @@ SOURCES = {
     "Waag": ("waag", "waag.org"),
     "Hackers & Designers": ("hackersanddesigners", "hackersanddesigners.nl"),
     "The Hmm": ("thehmm", "thehmm.nl"),
+    "Pakhuis de Zwijger": ("pakhuisdezwijger", "dezwijger.nl"),
 }
 
 

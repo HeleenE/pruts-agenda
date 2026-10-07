@@ -131,8 +131,12 @@ def _fold_line(line: str) -> list[str]:
     for char in line:
         next_value = f"{current}{char}"
         if len(next_value.encode("utf-8")) > byte_limit:
+            carry = ""
+            if current.endswith(" "):
+                current = current[:-1]
+                carry = " "
             chunks.append(current)
-            current = char
+            current = f"{carry}{char}"
             byte_limit = 74
         else:
             current = next_value

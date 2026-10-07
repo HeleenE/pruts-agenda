@@ -17,6 +17,7 @@ KEEP_VENUES = {
 
 KEEP_SOURCES = {
     "hackersanddesigners",
+    "pakhuisdezwijger",
     "thehmm",
     "waag",
 }
