@@ -1,5 +1,18 @@
 # Pruts Agenda Sync Digest
 
+## 2026-10-07 14:57 CEST
+
+6 new, 0 updated, 0 outdated, 0 deleted.
+
+### New events
+
+- **Marleen Stikker** - Tue 20 Oct 2026, 20:00 - Grote Zaal PDZ - https://dezwijger.nl/programma/marleen-stikker
+- **Algoritmische besluitvorming** - Wed 21 Oct 2026, 20:00 - Grote Zaal PDZ - https://dezwijger.nl/programma/algoritmische-besluitvorming
+- **Conversations That Matter: What Do We Leave Behind Online?** - Tue 27 Oct 2026, 19:30 - Studio PDZ - https://dezwijger.nl/programma/conversations-that-matter-what-do-we-leave-behind-online
+- **AI in the family: who does what at home?** - Mon 02 Nov 2026, 20:00 - Grote Zaal PDZ - https://dezwijger.nl/programma/ai-in-the-family-who-does-what-at-home
+- **Vierkante ogen** - Thu 05 Nov 2026, 19:30 - IJzaal PDZ - https://dezwijger.nl/programma/vierkante-ogen
+- **TEDxAmsterdam 2026: After Growth** - Thu 12 Nov 2026, 14:00 - https://dezwijger.nl/programma/tedxamsterdam-2026-after-growth
+
 ## 2026-10-07 14:43 CEST
 
 0 new, 0 updated, 0 outdated, 0 deleted.
