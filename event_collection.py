@@ -11,7 +11,6 @@ from filters import should_include
 from hackersanddesigners import HackersAndDesignersClient
 from manual_events import load_manual_events
 from models import Event
-from pakhuis_de_zwijger import PakhuisDeZwijgerClient
 from radar import RadarClient
 from thehmm import TheHmmClient
 from waag import WaagClient
@@ -32,7 +31,6 @@ def collect_events(
     waag = WaagClient()
     hackers_and_designers = HackersAndDesignersClient()
     the_hmm = TheHmmClient()
-    pakhuis_de_zwijger = PakhuisDeZwijgerClient()
 
     skipped_venues = Counter()
     skipped_categories = Counter()
@@ -46,7 +44,6 @@ def collect_events(
         ("Waag", waag.get_events),
         ("Hackers & Designers", hackers_and_designers.get_events),
         ("The Hmm", the_hmm.get_events),
-        ("Pakhuis de Zwijger", pakhuis_de_zwijger.get_events),
     ]
     source_events = []
     for name, fetch in sources:

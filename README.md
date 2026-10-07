@@ -9,7 +9,7 @@ Current sources:
 - Waag's English feed
 - Hackers & Designers activities
 - The Hmm feed
-- Pakhuis de Zwijger programmes tagged with the Technology domain
+- Locally imported Pakhuis de Zwijger programmes tagged with the Technology domain
 - Manually added events
 
 Radar events are collected for a rolling three-month window. The client
@@ -48,6 +48,16 @@ python3 main.py export-ics
 Manual events live in `manual_events.yml` and are merged into the generated
 feed. For all-day multi-day events, the `end` date is exclusive: use the day
 after the final day.
+
+Refresh the Pakhuis de Zwijger events locally and then commit the updated
+`manual_events.yml`:
+
+```sh
+python3 main.py import-pdz
+```
+
+The command replaces its clearly marked PdZ section and leaves the other
+manual events untouched. The GitHub workflow does not contact PdZ.
 
 Events listed in `deleted_events.yml` are excluded from the generated feed.
 Waag multi-day events are also excluded by default.

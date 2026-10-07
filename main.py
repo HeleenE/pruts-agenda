@@ -19,11 +19,24 @@ def parse_args() -> argparse.Namespace:
         "export-ics",
         help="Write matching events to an iCalendar feed file.",
     )
+    subparsers.add_parser(
+        "import-pdz",
+        help="Fetch Technology events from PdZ and update manual_events.yml.",
+    )
     return parser.parse_args()
 
 
 def main() -> None:
     args = parse_args()
+
+    if args.command == "import-pdz":
+        from manual_events import update_pakhuis_manual_events
+        from pakhuis_de_zwijger import PakhuisDeZwijgerClient
+
+        events = PakhuisDeZwijgerClient().get_events()
+        added = update_pakhuis_manual_events(events)
+        print(f"Updated manual_events.yml with {added} Pakhuis de Zwijger events.")
+        return
 
     from event_collection import collect_events
 

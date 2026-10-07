@@ -8,6 +8,10 @@ from dates import LOCAL_TIMEZONE
 from models import Event
 
 
+PDZ_SECTION_START = "# BEGIN AUTO-IMPORTED PAKHUIS DE ZWIJGER EVENTS"
+PDZ_SECTION_END = "# END AUTO-IMPORTED PAKHUIS DE ZWIJGER EVENTS"
+
+
 def load_manual_events(path: str = MANUAL_EVENTS_FILE) -> list[Event]:
     manual_events_file = Path(path)
     if not manual_events_file.exists():
@@ -19,6 +23,70 @@ def load_manual_events(path: str = MANUAL_EVENTS_FILE) -> list[Event]:
         raise ValueError(f"{manual_events_file} must contain an events list.")
 
     return [_to_event(item, manual_events_file) for item in events]
+
+
+def update_pakhuis_manual_events(
+    events: list[Event],
+    path: str = MANUAL_EVENTS_FILE,
+) -> int:
+    manual_events_file = Path(path)
+    text = manual_events_file.read_text(encoding="utf-8")
+    base_text = _without_managed_pdz_section(text)
+    data = yaml.safe_load(base_text) or {}
+    existing_urls = {
+        str(item.get("url", ""))
+        for item in data.get("events", [])
+        if isinstance(item, dict)
+    }
+    imported = [event for event in events if event.url not in existing_urls]
+    section = _format_managed_pdz_section(imported)
+    updated = f"{base_text.rstrip()}\n\n{section}\n"
+    manual_events_file.write_text(updated, encoding="utf-8")
+    return len(imported)
+
+
+def _without_managed_pdz_section(text: str) -> str:
+    start = text.find(PDZ_SECTION_START)
+    end = text.find(PDZ_SECTION_END)
+    if start < 0 and end < 0:
+        return text
+    if start < 0 or end < start:
+        raise ValueError("Incomplete auto-imported PdZ section in manual_events.yml.")
+    end += len(PDZ_SECTION_END)
+    return f"{text[:start].rstrip()}\n{text[end:].lstrip()}"
+
+
+def _format_managed_pdz_section(events: list[Event]) -> str:
+    items = [_pakhuis_event_mapping(event) for event in events]
+    dumped = yaml.safe_dump(
+        {"events": items},
+        allow_unicode=True,
+        sort_keys=False,
+        width=1000,
+    )
+    event_lines = [f"  {line}" for line in dumped.splitlines()[1:]]
+    return "\n".join([PDZ_SECTION_START, *event_lines, PDZ_SECTION_END])
+
+
+def _pakhuis_event_mapping(event: Event) -> dict:
+    slug = event.radar_id.removeprefix("pakhuisdezwijger:")
+    item = {
+        "id": f"pdz-{slug}",
+        "title": event.title,
+        "start": event.start.strftime("%Y-%m-%d %H:%M"),
+    }
+    if event.end:
+        item["end"] = event.end.strftime("%Y-%m-%d %H:%M")
+    if event.all_day:
+        item["all_day"] = True
+    if event.location:
+        item["location"] = event.location
+    if event.url:
+        item["url"] = event.url
+    if event.description:
+        item["description"] = event.description
+    item["source"] = "Pakhuis de Zwijger"
+    return item
 
 
 def _to_event(item: dict, manual_events_file: Path) -> Event:

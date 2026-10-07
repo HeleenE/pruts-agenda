@@ -1,6 +1,6 @@
 # Manual events are merged into the generated iCalendar feed.
 # For all-day multi-day events, end is exclusive: use the day after the final day.
-# Sites to check, PDZ, Critical Infrastructure Lab
+# Sites to check: Critical Infrastructure Lab
 events:
   - id: wiccon-haarlem-2026
     title: WICCON 2026
@@ -137,3 +137,47 @@ events:
     url: https://www.spui25.nl/programma/gevolgd-gemeten-voorspeld-vrijheid-in-een-digitale-wereld
     description: Een gesprek over digitale monitoring, profilering en toezicht, en over het beschermen van vrijheid, autonomie, privacy en menselijke waardigheid.
     source: SPUI25
+
+# BEGIN AUTO-IMPORTED PAKHUIS DE ZWIJGER EVENTS
+  - id: pdz-marleen-stikker
+    title: Marleen Stikker
+    start: 2026-10-20 20:00
+    location: Grote Zaal PDZ
+    url: https://dezwijger.nl/programma/marleen-stikker
+    description: Een uur lang in gesprek met oprichter van Waag Futurelab en internetpionier Marleen Stikker, over haar leven, werk en liefde voor Amsterdam.
+    source: Pakhuis de Zwijger
+  - id: pdz-algoritmische-besluitvorming
+    title: Algoritmische besluitvorming
+    start: 2026-10-21 20:00
+    location: Grote Zaal PDZ
+    url: https://dezwijger.nl/programma/algoritmische-besluitvorming
+    description: Wie beslist er nog als het algoritme de overheid stuurt? En vinden we dat écht erg?
+    source: Pakhuis de Zwijger
+  - id: pdz-conversations-that-matter-what-do-we-leave-behind-online
+    title: 'Conversations That Matter: What Do We Leave Behind Online?'
+    start: 2026-10-27 19:30
+    location: Studio PDZ
+    url: https://dezwijger.nl/programma/conversations-that-matter-what-do-we-leave-behind-online
+    description: What happens to our digital selves when we die?
+    source: Pakhuis de Zwijger
+  - id: pdz-ai-in-the-family-who-does-what-at-home
+    title: 'AI in the family: who does what at home?'
+    start: 2026-11-02 20:00
+    location: Grote Zaal PDZ
+    url: https://dezwijger.nl/programma/ai-in-the-family-who-does-what-at-home
+    description: Who books the dentist in your household? Housework is unevenly shared, and AI threatens to make this worse. Just Family turns this around with their new AI assistant. With a.o. Elien van Riet & Tim Gouw.
+    source: Pakhuis de Zwijger
+  - id: pdz-vierkante-ogen
+    title: Vierkante ogen
+    start: 2026-11-05 19:30
+    location: IJzaal PDZ
+    url: https://dezwijger.nl/programma/vierkante-ogen
+    description: Hoe informatici de wereld zien en vormen. In gesprek met Felienne Hermans over haar nieuwe boek.
+    source: Pakhuis de Zwijger
+  - id: pdz-tedxamsterdam-2026-after-growth
+    title: 'TEDxAmsterdam 2026: After Growth'
+    start: 2026-11-12 14:00
+    url: https://dezwijger.nl/programma/tedxamsterdam-2026-after-growth
+    description: Long-standing international rules, financial institutions and technological paradigms are shifting substantially. The world we’ve built is changing and with it, some of the assumptions we’ve taken for granted. So, what comes After Growth?
+    source: Pakhuis de Zwijger
+# END AUTO-IMPORTED PAKHUIS DE ZWIJGER EVENTS
