@@ -1,5 +1,18 @@
 # Pruts Agenda Sync Digest
 
+## 2026-10-07 03:56 CEST
+
+1 new, 0 updated, 2 outdated, 0 deleted.
+
+### New events
+
+- **Hackerspace Social Evening** - Wed 06 Jan 2027, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2027-01-06/hackerspace-social-evening
+
+### Outdated events
+
+- **ABC Community  Bike Repair** - Tue 06 Oct 2026, 13:00 - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-10-06/abc-community-bike-repair
+- **The AI Blow-up** - Tue 06 Oct 2026, 17:00 - SPUI25, Spui 25-27, Amsterdam - https://www.spui25.nl/programma/the-ai-blow-up-how-the-technology-of-the-future-turned-into-a-political-battleground
+
 ## 2026-10-06 04:37 CEST
 
 0 new, 0 updated, 2 outdated, 0 deleted.
