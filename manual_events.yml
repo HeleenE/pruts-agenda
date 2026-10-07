@@ -1,6 +1,17 @@
 # Manual events are merged into the generated iCalendar feed.
 # For all-day multi-day events, end is exclusive: use the day after the final day.
 events:
+  - id: wiccon-haarlem-2026
+    title: WICCON 2026
+    start: 2026-10-29 09:00
+    end: 2026-10-30 18:00
+    location: De Lichtfabriek, Energieplein 73, 2031 TC Haarlem
+    url: https://wiccon.nl/
+    description: A cybersecurity conference with an all-women speaker line-up, highlighting women's technical achievements through talks and workshops. All attendees are welcome.
+    categories:
+      - cybersecurity
+      - conference
+
   - id: hackfest.nl-2026
     title: HackFest 2026
     start: 2026-10-10
@@ -29,6 +40,20 @@ events:
     categories:
       - exposition
       - maker
+
+  - id: critical-infra-lab-open-hackathon-2026
+    title: Open hackathon at the Critical Infrastructure Lab
+    start: 2026-10-16
+    end: 2026-10-17
+    all_day: true
+    location: UvA BG1, rooms 0.12 and 0.16, Turfdraagsterpad 9, 1012 XT Amsterdam
+    url: https://www.criticalinfralab.net/upcoming/?id=1920
+    description: An open, hands-on hackathon exploring alternative internet infrastructures through hardware, software and computing projects, including mud batteries, 5G, AI edge computing, antennas and Reticulum nodes. No prior experience required.
+    source: Critical Infrastructure Lab
+    categories:
+      - hackathon
+      - hardware
+      - digital infrastructure
 
   - id: fab27-oulu-2027
     title: FAB27 Oulu
@@ -92,12 +117,28 @@ events:
     description: Wie beslist er nog als het algoritme de overheid stuurt? Een gesprek over geautomatiseerde besluitvorming, de menselijke maat en fundamentele rechten.
     source: Pakhuis de Zwijger
 
+  - id: pdz-digital-legacy-2026
+    title: "Conversations That Matter: What Do We Leave Behind Online?"
+    start: 2026-10-27 19:30
+    location: Studio PDZ
+    url: https://dezwijger.nl/programma/conversations-that-matter-what-do-we-leave-behind-online
+    description: A conversation about digital legacies, personal data and deciding what should happen to our online identities and accounts after death.
+    source: Pakhuis de Zwijger
+
   - id: pdz-tech-duurzaam-gebouwde-omgeving-2026
     title: Tech voor een duurzaam gebouwde omgeving
-    start: 2026-10-28 19:00
+    start: 2026-10-28 20:00
     location: IJzaal PDZ
     url: https://dezwijger.nl/programma/tech-voor-een-duurzaam-gebouwde-omgeving
     description: Over de rol van big data, BIM, digitale tweelingen, GIS en andere technologie bij duurzame en toekomstbestendige stedelijke ontwikkeling.
+    source: Pakhuis de Zwijger
+
+  - id: pdz-ai-in-the-family-2026
+    title: "AI in the family: who does what at home?"
+    start: 2026-11-02 20:00
+    location: Grote Zaal PDZ
+    url: https://dezwijger.nl/programma/ai-in-the-family-who-does-what-at-home
+    description: An evening about household AI, unequal care work, embedded bias, privacy and whether a European home assistant can provide an alternative to Big Tech.
     source: Pakhuis de Zwijger
 
   - id: pdz-vierkante-ogen-2026
