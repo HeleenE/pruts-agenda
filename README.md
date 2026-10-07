@@ -9,7 +9,6 @@ Current sources:
 - Waag's English feed
 - Hackers & Designers activities
 - The Hmm feed
-- Critical Infrastructure Lab
 - Manually added events
 
 Radar events are collected for a rolling three-month window. The client

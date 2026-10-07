@@ -75,7 +75,6 @@ def _event_time(event: Event) -> str:
 
 def _source_label(event: Event) -> str:
     labels = {
-        "criticalinfralab": "Critical Infrastructure Lab",
         "hackersanddesigners": "Hackers & Designers",
         "radar": "Radar",
         "thehmm": "The Hmm",

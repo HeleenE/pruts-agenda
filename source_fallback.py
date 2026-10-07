@@ -12,7 +12,6 @@ SOURCES = {
     "Waag": ("waag", "waag.org"),
     "Hackers & Designers": ("hackersanddesigners", "hackersanddesigners.nl"),
     "The Hmm": ("thehmm", "thehmm.nl"),
-    "Critical Infrastructure Lab": ("criticalinfralab", "criticalinfralab.net"),
 }
 
 

@@ -1,5 +1,6 @@
 # Manual events are merged into the generated iCalendar feed.
 # For all-day multi-day events, end is exclusive: use the day after the final day.
+# Sites to check, PDZ, Critical Infrastructure Lab
 events:
   - id: wiccon-haarlem-2026
     title: WICCON 2026
@@ -40,6 +41,18 @@ events:
     categories:
       - exposition
       - maker
+
+  - id: critical-infra-lab-politics-of-the-internet-2026
+    title: The politics of the internet
+    start: 2026-10-14 20:00
+    location: De Balie, Kleine-Gartmanplantsoen 10, 1017 RR Amsterdam
+    url: https://debalie.nl/programma/the-politics-of-the-internet-14-10-2026/
+    description: Britt Paris examines the architecture of power embedded in the internet and asks how digital infrastructure could be organized around public values rather than private interests, with an artistic intermezzo by Jen Liu.
+    source: Critical Infrastructure Lab
+    categories:
+      - digital infrastructure
+      - internet
+      - public values
 
   - id: critical-infra-lab-open-hackathon-2026
     title: Open hackathon at the Critical Infrastructure Lab

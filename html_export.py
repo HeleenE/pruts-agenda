@@ -8,7 +8,6 @@ from models import Event
 
 
 SOURCE_LABELS = {
-    "criticalinfralab": "Critical Infrastructure Lab",
     "hackersanddesigners": "Hackers & Designers",
     "radar": "Radar Squad",
     "thehmm": "The Hmm",

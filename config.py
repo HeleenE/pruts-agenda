@@ -9,8 +9,6 @@ HACKERS_AND_DESIGNERS_ACTIVITIES_URL = (
     "https://hackersanddesigners.nl/activities"
 )
 THE_HMM_ICS_URL = "https://thehmm.nl/events-page/?ical=1"
-CRITICAL_INFRA_LAB_URL = "https://www.criticalinfralab.net/"
-
 CITY = "Amsterdam"
 REQUEST_TIMEOUT = 60
 REQUEST_HEADERS = {

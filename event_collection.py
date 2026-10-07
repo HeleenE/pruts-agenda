@@ -6,7 +6,6 @@ from sys import stderr
 import requests
 
 from config import CITY
-from critical_infra_lab import CriticalInfraLabClient
 from deleted_events import is_deleted_event, load_deleted_event_ids
 from filters import should_include
 from hackersanddesigners import HackersAndDesignersClient
@@ -32,7 +31,6 @@ def collect_events(
     waag = WaagClient()
     hackers_and_designers = HackersAndDesignersClient()
     the_hmm = TheHmmClient()
-    critical_infra_lab = CriticalInfraLabClient()
 
     skipped_venues = Counter()
     skipped_categories = Counter()
@@ -46,7 +44,6 @@ def collect_events(
         ("Waag", waag.get_events),
         ("Hackers & Designers", hackers_and_designers.get_events),
         ("The Hmm", the_hmm.get_events),
-        ("Critical Infrastructure Lab", critical_infra_lab.get_events),
     ]
     source_events = []
     for name, fetch in sources:
