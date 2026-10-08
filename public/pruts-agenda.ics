@@ -6,30 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pruts Agenda
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
-UID:397fdc2ec14395db4d547db76cccc56e758bca8a138e3d774166c147efe57fb2@pruts-
- agenda.local
-X-PRUTS-SOURCE:radar
-X-PRUTS-UUID:443c3553-66bf-464c-8ad7-c82bb0b0129d
-X-PRUTS-RADAR-ID:589334
-X-PRUTS-OCCURRENCE-ID:443c3553-66bf-464c-8ad7-c82bb0b0129d:2026-10-07T19:30
- :00+02:00
-DTSTAMP:20261007T125706Z
-SUMMARY:Hackerspace Social Evening
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART:20261007T173000Z
-DTEND:20261007T173000Z
-DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\,
-  open to everyone! Non-members welcome\, guests welcome\, expats welcome\,
-  visiting hackers welcome\, refugees welcome! Our phone number is listed a
- t the front door. Give it a call\, wait through the automated message\, an
- d someone should answer it and help you in.
-LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
-URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-1
- 0-07/hackerspace-social-evening
-CATEGORIES:work space/diy
-END:VEVENT
-BEGIN:VEVENT
 UID:a329f530bed3f14f6027aa8085780944e4f337ebe94bf607d6e7decdecf2c6d5@pruts-
  agenda.local
 X-PRUTS-SOURCE:radar
@@ -37,7 +13,7 @@ X-PRUTS-UUID:b3eac430-30a9-4025-92e3-718985be349e
 X-PRUTS-RADAR-ID:577373
 X-PRUTS-OCCURRENCE-ID:b3eac430-30a9-4025-92e3-718985be349e:2026-10-08T20:00
  :00+02:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -58,7 +34,7 @@ X-PRUTS-UUID:65f29a36-5dad-45d6-8459-b64361e07a9a
 X-PRUTS-RADAR-ID:596392
 X-PRUTS-OCCURRENCE-ID:65f29a36-5dad-45d6-8459-b64361e07a9a:2026-10-09T20:00
  :00+02:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Harsh Computer - Live experimental computermusic and noise
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -91,7 +67,7 @@ X-PRUTS-SOURCE:
 X-PRUTS-UUID:manual:hackfest.nl-2026
 X-PRUTS-RADAR-ID:hackfest.nl-2026
 X-PRUTS-OCCURRENCE-ID:manual:hackfest.nl-2026:2026-10-10T00:00:00+02:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:HackFest 2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -122,7 +98,7 @@ X-PRUTS-UUID:d3b24c08-2661-4960-b735-4b8d50a88b2f
 X-PRUTS-RADAR-ID:589335
 X-PRUTS-OCCURRENCE-ID:d3b24c08-2661-4960-b735-4b8d50a88b2f:2026-10-14T19:30
  :00+02:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -146,7 +122,7 @@ X-PRUTS-UUID:manual:critical-infra-lab-politics-of-the-internet-2026
 X-PRUTS-RADAR-ID:critical-infra-lab-politics-of-the-internet-2026
 X-PRUTS-OCCURRENCE-ID:manual:critical-infra-lab-politics-of-the-internet-20
  26:2026-10-14T20:00:00+02:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:The politics of the internet
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -168,7 +144,7 @@ X-PRUTS-UUID:manual:critical-infra-lab-open-hackathon-2026
 X-PRUTS-RADAR-ID:critical-infra-lab-open-hackathon-2026
 X-PRUTS-OCCURRENCE-ID:manual:critical-infra-lab-open-hackathon-2026:2026-10
  -16T00:00:00+02:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Open hackathon at the Critical Infrastructure Lab
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -191,7 +167,7 @@ X-PRUTS-UUID:manual:spui25-post-quantum-cryptography-2026
 X-PRUTS-RADAR-ID:spui25-post-quantum-cryptography-2026
 X-PRUTS-OCCURRENCE-ID:manual:spui25-post-quantum-cryptography-2026:2026-10-
  19T17:00:00+02:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Societal Challenges around Post-Quantum Cryptography
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -212,7 +188,7 @@ X-PRUTS-UUID:2df8cd49-8b8d-43d4-946c-3220fa344c95
 X-PRUTS-RADAR-ID:593213
 X-PRUTS-OCCURRENCE-ID:2df8cd49-8b8d-43d4-946c-3220fa344c95:2026-10-20T13:00
  :00+02:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -248,7 +224,7 @@ X-PRUTS-SOURCE:Pakhuis de Zwijger
 X-PRUTS-UUID:manual:pdz-marleen-stikker
 X-PRUTS-RADAR-ID:pdz-marleen-stikker
 X-PRUTS-OCCURRENCE-ID:manual:pdz-marleen-stikker:2026-10-20T20:00:00+02:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Marleen Stikker
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -268,7 +244,7 @@ X-PRUTS-UUID:db868475-92b5-4ee5-9bee-2d417c67ddee
 X-PRUTS-RADAR-ID:597356
 X-PRUTS-OCCURRENCE-ID:db868475-92b5-4ee5-9bee-2d417c67ddee:2026-10-21T19:00
  :00+02:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:proxycafe - RISE AGAINST BIG TECH
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -295,7 +271,7 @@ X-PRUTS-UUID:06e8f5f7-91b1-47d7-8640-2681a0cebb6e
 X-PRUTS-RADAR-ID:589336
 X-PRUTS-OCCURRENCE-ID:06e8f5f7-91b1-47d7-8640-2681a0cebb6e:2026-10-21T19:30
  :00+02:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -319,7 +295,7 @@ X-PRUTS-UUID:manual:pdz-algoritmische-besluitvorming
 X-PRUTS-RADAR-ID:pdz-algoritmische-besluitvorming
 X-PRUTS-OCCURRENCE-ID:manual:pdz-algoritmische-besluitvorming:2026-10-21T20
  :00:00+02:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Algoritmische besluitvorming
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -338,7 +314,7 @@ X-PRUTS-UUID:f0b8675d-984e-4dee-9404-1a2f897f03a5
 X-PRUTS-RADAR-ID:577374
 X-PRUTS-OCCURRENCE-ID:f0b8675d-984e-4dee-9404-1a2f897f03a5:2026-10-22T20:00
  :00+02:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -359,7 +335,7 @@ X-PRUTS-UUID:waag:e4ca39c8-0d42-40c3-bf0e-00818a270fc3
 X-PRUTS-RADAR-ID:waag:e4ca39c8-0d42-40c3-bf0e-00818a270fc3
 X-PRUTS-OCCURRENCE-ID:waag:e4ca39c8-0d42-40c3-bf0e-00818a270fc3:2026-10-23T
  13:00:00+00:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:National Design Debate 2026: Shaping Europe
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -377,7 +353,7 @@ X-PRUTS-UUID:thehmm:10049-1792839600-1792861200@thehmm.nl
 X-PRUTS-RADAR-ID:thehmm:10049-1792839600-1792861200@thehmm.nl
 X-PRUTS-OCCURRENCE-ID:thehmm:10049-1792839600-1792861200@thehmm.nl:2026-10-
  24T11:00:00+02:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Symposihmm 📡 Capture & Control
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -427,35 +403,36 @@ DESCRIPTION:With our second Symposihmm of the year\, Capture & Control\, we
  3.15 \n\nLunch break\n\n13.15 – 15.00 \n\nHalf-Earth Socialism: A Pl
  anetary Crisis Game with Francis Tseng\nThe Internet is a Horrible Place a
  nd I’m Here to Make it Worse: A workshop with Noura Tafeche (online host
- )\n\n15.15 – 17.00 \n\nConversation with Marina Otero Verzier (onlin
- e speaker)\nOne pixel\, many worlds\, lecture-performance by Emilia Tappre
- st & Søren Siebel\n\nThroughout the day there will be an exhibition with
-  works by Nick Vyssotsky\, Constant Dullaart\, and Tewa Barnosa. \nDuring
-  the lunch break San Serriffe will have a pop-up bookshop selling publica
- tions from the speakers and artists and other books connected to the sympo
- sium’s themes. \nPlease note that the activities between 13.15 and 15.00
-  won’t be broadcast on our livestream. Upon arrival at A Lab you can sig
- n up for one of the activities on a first-come-first-served basis. \nFor N
- oura Tafeche’s workshop\, you will need to bring a laptop with you. Plea
- se note that this workshop includes discussion and analysis of implicit vi
- olent imagery and representations of rape culture\, child abuse\, and self
- -harm. \n📅 Date: Saturday 24 October\n🕗 Time: 11.00 – 17.00 CE
- ST\n📍 Location: A Lab and livestream on The Inbetween\n🎟️ Ticke
- ts: Onsite €27\,50/Student €20/Livestream 7\,50 \n♿ Accessibility \n
- \nAt the venue\, a wheelchair-accessible ramp is available\, as well as a
-  wheelchair lift. The lift needs to be arranged in advance\, so please ema
- il us at info@thehmm.nl\, at least 3 days before the event\, to let us kno
- w if you will need it. This allows us to make sure everything is ready and
-  accessible upon arrival.\nA Lab has an accessible MIVA (wheelchair-access
- ible) toilet that meets the applicable accessibility requirements.\nDuring
-  the event we can provide live closed captioning for those with hearing im
- pairments and disabilities. Please reach out to us via info@thehmm.nl—at
-  least 3 days before the event if possible—if you are joining on-site an
- d have this access need\, so that we can reserve a seat for you within vie
- w of the screen with captions. If you are joining online via our livestrea
- m\, live captioning will be available as one of the streaming modes.\n\n
- 🩵 This programme is kindly supported by the Creative Industries Fund N
- L\, AFK and hosted by A Lab.
+ )\nAmbitopian Sonic Un-Realism: A workshop with Søren Siebel \n\n15.15
+  – 17.00 \n\nConversation with Marina Otero Verzier (online speaker)
+ \nOne pixel\, many worlds\, lecture-performance by Emilia Tapprest & Søre
+ n Siebel\n\nThroughout the day there will be an exhibition with works by N
+ ick Vyssotsky\, Constant Dullaart\, and Tewa Barnosa. \nDuring the lunch b
+ reak San Serriffe will have a pop-up bookshop selling publications from t
+ he speakers and artists and other books connected to the symposium’s the
+ mes. \nPlease note that the activities between 13.15 and 15.00 won’t be
+  broadcast on our livestream. Upon arrival at A Lab you can sign up for on
+ e of the activities on a first-come-first-served basis. \nFor Noura Tafech
+ e’s and Søren Siebel’s workshops\, you will need to bring a laptop wi
+ th you. \nPlease note that Noura Tafeche’s workshop includes discussion
+  and analysis of implicit violent imagery and representations of rape cult
+ ure\, child abuse\, and self-harm. \n📅 Date: Saturday 24 October\n🕗
+  Time: 11.00 – 17.00 CEST\n📍 Location: A Lab and livestream on
+  The Inbetween\n🎟️ Tickets: Onsite €27\,50/Student €20/Livestrea
+ m 7\,50 \n♿ Accessibility \n\nAt the venue\, a wheelchair-accessible ram
+ p is available\, as well as a wheelchair lift. The lift needs to be arrang
+ ed in advance\, so please email us at info@thehmm.nl\, at least 3 days bef
+ ore the event\, to let us know if you will need it. This allows us to make
+  sure everything is ready and accessible upon arrival.\nA Lab has an acces
+ sible MIVA (wheelchair-accessible) toilet that meets the applicable access
+ ibility requirements.\nDuring the event we can provide live closed caption
+ ing for those with hearing impairments and disabilities. Please reach out
+  to us via info@thehmm.nl—at least 3 days before the event if possible
+ —if you are joining on-site and have this access need\, so that we can r
+ eserve a seat for you within view of the screen with captions. If you are
+  joining online via our livestream\, live captioning will be available as
+  one of the streaming modes.\n\n🩵 This programme is kindly supported by
+  the Creative Industries Fund NL\, AFK and hosted by A Lab.
 URL:https://thehmm.nl/event/symposihmm-%f0%9f%93%a1-capture-control/
 CATEGORIES:The Hmm
 END:VEVENT
@@ -467,7 +444,7 @@ X-PRUTS-UUID:waag:e70c545e-4b5e-4f8e-8659-1a188085b878
 X-PRUTS-RADAR-ID:waag:e70c545e-4b5e-4f8e-8659-1a188085b878
 X-PRUTS-OCCURRENCE-ID:waag:e70c545e-4b5e-4f8e-8659-1a188085b878:2026-10-25T
  11:30:00+00:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:The nature of our monetary system
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -491,7 +468,7 @@ X-PRUTS-RADAR-ID:pdz-conversations-that-matter-what-do-we-leave-behind-onli
  ne
 X-PRUTS-OCCURRENCE-ID:manual:pdz-conversations-that-matter-what-do-we-leave
  -behind-online:2026-10-27T19:30:00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Conversations That Matter: What Do We Leave Behind Online?
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -510,7 +487,7 @@ X-PRUTS-UUID:2d50e901-ebed-49ba-a9d1-0fd289e1962a
 X-PRUTS-RADAR-ID:589337
 X-PRUTS-OCCURRENCE-ID:2d50e901-ebed-49ba-a9d1-0fd289e1962a:2026-10-28T19:30
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -534,7 +511,7 @@ X-PRUTS-UUID:manual:pdz-tech-duurzaam-gebouwde-omgeving-2026
 X-PRUTS-RADAR-ID:pdz-tech-duurzaam-gebouwde-omgeving-2026
 X-PRUTS-OCCURRENCE-ID:manual:pdz-tech-duurzaam-gebouwde-omgeving-2026:2026-
  10-28T20:00:00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Tech voor een duurzaam gebouwde omgeving
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -553,7 +530,7 @@ X-PRUTS-SOURCE:
 X-PRUTS-UUID:manual:wiccon-haarlem-2026
 X-PRUTS-RADAR-ID:wiccon-haarlem-2026
 X-PRUTS-OCCURRENCE-ID:manual:wiccon-haarlem-2026:2026-10-29T09:00:00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:WICCON 2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -574,7 +551,7 @@ X-PRUTS-UUID:thehmm:9600-1793473200-1793476800@thehmm.nl
 X-PRUTS-RADAR-ID:thehmm:9600-1793473200-1793476800@thehmm.nl
 X-PRUTS-OCCURRENCE-ID:thehmm:9600-1793473200-1793476800@thehmm.nl:2026-10-3
  1T19:00:00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:The Hmm @ Brainwash Festival
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -647,7 +624,7 @@ X-PRUTS-UUID:e08b4fce-7e03-4057-a346-d36b80bd7f86
 X-PRUTS-RADAR-ID:597112
 X-PRUTS-OCCURRENCE-ID:e08b4fce-7e03-4057-a346-d36b80bd7f86:2026-11-02T19:00
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Anarchist Repair Cafe & end of 10
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -676,7 +653,7 @@ X-PRUTS-UUID:manual:pdz-ai-in-the-family-who-does-what-at-home
 X-PRUTS-RADAR-ID:pdz-ai-in-the-family-who-does-what-at-home
 X-PRUTS-OCCURRENCE-ID:manual:pdz-ai-in-the-family-who-does-what-at-home:202
  6-11-02T20:00:00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:AI in the family: who does what at home?
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -696,7 +673,7 @@ X-PRUTS-UUID:a7df09e8-801f-4945-91f0-9ed750fad607
 X-PRUTS-RADAR-ID:593217
 X-PRUTS-OCCURRENCE-ID:a7df09e8-801f-4945-91f0-9ed750fad607:2026-11-03T13:00
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -733,7 +710,7 @@ X-PRUTS-UUID:86fb6155-5087-4aa9-9b6e-34a466ba3795
 X-PRUTS-RADAR-ID:589338
 X-PRUTS-OCCURRENCE-ID:86fb6155-5087-4aa9-9b6e-34a466ba3795:2026-11-04T19:30
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -757,7 +734,7 @@ X-PRUTS-UUID:waag:07bb5f32-e2ff-4c13-b5a8-d8d365d31288
 X-PRUTS-RADAR-ID:waag:07bb5f32-e2ff-4c13-b5a8-d8d365d31288
 X-PRUTS-OCCURRENCE-ID:waag:07bb5f32-e2ff-4c13-b5a8-d8d365d31288:2026-11-05T
  18:30:00+00:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Cleaning without contaminating
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -777,7 +754,7 @@ X-PRUTS-SOURCE:Pakhuis de Zwijger
 X-PRUTS-UUID:manual:pdz-vierkante-ogen
 X-PRUTS-RADAR-ID:pdz-vierkante-ogen
 X-PRUTS-OCCURRENCE-ID:manual:pdz-vierkante-ogen:2026-11-05T19:30:00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Vierkante ogen
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -796,7 +773,7 @@ X-PRUTS-UUID:897d30d7-9c86-4083-84b3-52dcc2ef6d0c
 X-PRUTS-RADAR-ID:577375
 X-PRUTS-OCCURRENCE-ID:897d30d7-9c86-4083-84b3-52dcc2ef6d0c:2026-11-05T20:00
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -817,7 +794,7 @@ X-PRUTS-UUID:thehmm:10041-1794056400-1794070800@thehmm.nl
 X-PRUTS-RADAR-ID:thehmm:10041-1794056400-1794070800@thehmm.nl
 X-PRUTS-OCCURRENCE-ID:thehmm:10041-1794056400-1794070800@thehmm.nl:2026-11-
  07T13:00:00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:SOLD OUT! Cyberdeck workshop: build your own 'mesh-berry' 🫐 #2
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -886,7 +863,7 @@ X-PRUTS-UUID:1c1a1765-577d-42f0-9360-0485ae52b069
 X-PRUTS-RADAR-ID:589339
 X-PRUTS-OCCURRENCE-ID:1c1a1765-577d-42f0-9360-0485ae52b069:2026-11-11T19:30
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -910,7 +887,7 @@ X-PRUTS-UUID:manual:pdz-tedxamsterdam-2026-after-growth
 X-PRUTS-RADAR-ID:pdz-tedxamsterdam-2026-after-growth
 X-PRUTS-OCCURRENCE-ID:manual:pdz-tedxamsterdam-2026-after-growth:2026-11-12
  T14:00:00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:TEDxAmsterdam 2026: After Growth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -930,7 +907,7 @@ X-PRUTS-UUID:dbfd403a-edb9-4a9b-a8b0-1e5be84d318d
 X-PRUTS-RADAR-ID:593248
 X-PRUTS-OCCURRENCE-ID:dbfd403a-edb9-4a9b-a8b0-1e5be84d318d:2026-11-17T13:00
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -967,7 +944,7 @@ X-PRUTS-UUID:394a3a0f-b833-49f9-b707-3c263f822244
 X-PRUTS-RADAR-ID:589340
 X-PRUTS-OCCURRENCE-ID:394a3a0f-b833-49f9-b707-3c263f822244:2026-11-18T19:30
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -991,7 +968,7 @@ X-PRUTS-UUID:82299576-3673-4da6-b38e-12d52cdb7e74
 X-PRUTS-RADAR-ID:577376
 X-PRUTS-OCCURRENCE-ID:82299576-3673-4da6-b38e-12d52cdb7e74:2026-11-19T20:00
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1012,7 +989,7 @@ X-PRUTS-UUID:edd01492-9ce4-47ad-9334-ebbd2e8f9d96
 X-PRUTS-RADAR-ID:589341
 X-PRUTS-OCCURRENCE-ID:edd01492-9ce4-47ad-9334-ebbd2e8f9d96:2026-11-25T19:30
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1036,7 +1013,7 @@ X-PRUTS-UUID:manual:spui25-digitale-vrijheid-2026
 X-PRUTS-RADAR-ID:spui25-digitale-vrijheid-2026
 X-PRUTS-OCCURRENCE-ID:manual:spui25-digitale-vrijheid-2026:2026-11-26T17:00
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Gevolgd\, gemeten\, voorspeld: vrijheid in een digitale wereld
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1057,7 +1034,7 @@ X-PRUTS-UUID:3b62a51c-d612-406d-a59c-e77c8d3cc301
 X-PRUTS-RADAR-ID:593253
 X-PRUTS-OCCURRENCE-ID:3b62a51c-d612-406d-a59c-e77c8d3cc301:2026-12-01T13:00
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1094,7 +1071,7 @@ X-PRUTS-UUID:fa4ebcc6-a2ec-4320-8e29-cf0447a5e091
 X-PRUTS-RADAR-ID:589342
 X-PRUTS-OCCURRENCE-ID:fa4ebcc6-a2ec-4320-8e29-cf0447a5e091:2026-12-02T19:30
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1118,7 +1095,7 @@ X-PRUTS-UUID:waag:bdb41954-970f-45f1-bbc0-d72bf3e9646e
 X-PRUTS-RADAR-ID:waag:bdb41954-970f-45f1-bbc0-d72bf3e9646e
 X-PRUTS-OCCURRENCE-ID:waag:bdb41954-970f-45f1-bbc0-d72bf3e9646e:2026-12-03T
  18:30:00+00:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Water quality from space
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1139,7 +1116,7 @@ X-PRUTS-UUID:e7cca115-b77b-47d1-b402-8e5eb6e611bd
 X-PRUTS-RADAR-ID:577377
 X-PRUTS-OCCURRENCE-ID:e7cca115-b77b-47d1-b402-8e5eb6e611bd:2026-12-03T20:00
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1160,7 +1137,7 @@ X-PRUTS-UUID:5af809da-f1a2-46da-bfd6-8984330dac28
 X-PRUTS-RADAR-ID:597113
 X-PRUTS-OCCURRENCE-ID:5af809da-f1a2-46da-bfd6-8984330dac28:2026-12-07T19:00
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Anarchist Repair Cafe & end of 10
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1189,7 +1166,7 @@ X-PRUTS-UUID:98d1792a-3ebc-4597-ba63-cd413c7df5a3
 X-PRUTS-RADAR-ID:589343
 X-PRUTS-OCCURRENCE-ID:98d1792a-3ebc-4597-ba63-cd413c7df5a3:2026-12-09T19:30
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1213,7 +1190,7 @@ X-PRUTS-UUID:thehmm:10146-1797015600-1797026400@thehmm.nl
 X-PRUTS-RADAR-ID:thehmm:10146-1797015600-1797026400@thehmm.nl
 X-PRUTS-OCCURRENCE-ID:thehmm:10146-1797015600-1797026400@thehmm.nl:2026-12-
  11T19:00:00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Celebrating 10 Years of The Hmm + Book Launch
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1263,7 +1240,7 @@ X-PRUTS-UUID:ac890608-d910-491c-8ece-0d71a43f9699
 X-PRUTS-RADAR-ID:593257
 X-PRUTS-OCCURRENCE-ID:ac890608-d910-491c-8ece-0d71a43f9699:2026-12-15T13:00
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1300,7 +1277,7 @@ X-PRUTS-UUID:fc42e61c-de36-42d7-91d5-d9e312627a2d
 X-PRUTS-RADAR-ID:589344
 X-PRUTS-OCCURRENCE-ID:fc42e61c-de36-42d7-91d5-d9e312627a2d:2026-12-16T19:30
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1324,7 +1301,7 @@ X-PRUTS-UUID:97161c47-cdd0-46ba-9edf-a3d3e8e8ca45
 X-PRUTS-RADAR-ID:577378
 X-PRUTS-OCCURRENCE-ID:97161c47-cdd0-46ba-9edf-a3d3e8e8ca45:2026-12-17T20:00
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1345,7 +1322,7 @@ X-PRUTS-UUID:67c9e384-6d34-4179-bbeb-4ebe0ba5e3fa
 X-PRUTS-RADAR-ID:589345
 X-PRUTS-OCCURRENCE-ID:67c9e384-6d34-4179-bbeb-4ebe0ba5e3fa:2026-12-23T19:30
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1368,7 +1345,7 @@ X-PRUTS-SOURCE:
 X-PRUTS-UUID:manual:ccc-40c3-2026
 X-PRUTS-RADAR-ID:ccc-40c3-2026
 X-PRUTS-OCCURRENCE-ID:manual:ccc-40c3-2026:2026-12-27T00:00:00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:40th Chaos Communication Congress
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1387,7 +1364,7 @@ X-PRUTS-UUID:b5c2aa13-f1d8-4be1-87d3-bd4ae1f82c53
 X-PRUTS-RADAR-ID:589346
 X-PRUTS-OCCURRENCE-ID:b5c2aa13-f1d8-4be1-87d3-bd4ae1f82c53:2026-12-30T19:30
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1411,7 +1388,7 @@ X-PRUTS-UUID:ce0d6607-7d08-4ddf-b9f2-f7cfac96ebc7
 X-PRUTS-RADAR-ID:577379
 X-PRUTS-OCCURRENCE-ID:ce0d6607-7d08-4ddf-b9f2-f7cfac96ebc7:2026-12-31T20:00
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1432,7 +1409,7 @@ X-PRUTS-UUID:76425267-89cf-46a4-9d46-ff14b73cee70
 X-PRUTS-RADAR-ID:589347
 X-PRUTS-OCCURRENCE-ID:76425267-89cf-46a4-9d46-ff14b73cee70:2027-01-06T19:30
  :00+01:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1455,7 +1432,7 @@ X-PRUTS-SOURCE:
 X-PRUTS-UUID:manual:fab27-oulu-2027
 X-PRUTS-RADAR-ID:fab27-oulu-2027
 X-PRUTS-OCCURRENCE-ID:manual:fab27-oulu-2027:2027-08-01T00:00:00+02:00
-DTSTAMP:20261007T125706Z
+DTSTAMP:20261008T022322Z
 SUMMARY:FAB27 Oulu
 STATUS:CONFIRMED
 TRANSP:OPAQUE

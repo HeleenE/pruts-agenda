@@ -1,5 +1,13 @@
 # Pruts Agenda Sync Digest
 
+## 2026-10-08 04:23 CEST
+
+0 new, 0 updated, 1 outdated, 0 deleted.
+
+### Outdated events
+
+- **Hackerspace Social Evening** - Wed 07 Oct 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-10-07/hackerspace-social-evening
+
 ## 2026-10-07 14:57 CEST
 
 6 new, 0 updated, 0 outdated, 0 deleted.
