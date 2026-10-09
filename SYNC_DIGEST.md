@@ -1,5 +1,18 @@
 # Pruts Agenda Sync Digest
 
+## 2026-10-09 04:41 CEST
+
+2 new, 0 updated, 0 outdated, 0 deleted.
+
+### New events
+
+- **The Hmm TO the Chinese Internet** - Wed 25 Nov 2026, 20:00 - https://thehmm.nl/event/the-hmm-to-the-chinese-internet/
+- **International Art Talent Festival** - Thu 26 Nov 2026, 19:30 - Felix Meritis, Keizersgracht 324, 1016 EZ Amsterdam - https://waag.org/en/event/international-art-talent-festival
+
+### Source warnings
+
+- Unavailable: Radar
+
 ## 2026-10-08 04:23 CEST
 
 0 new, 0 updated, 1 outdated, 0 deleted.
