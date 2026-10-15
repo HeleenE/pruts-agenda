@@ -1,5 +1,20 @@
 # Pruts Agenda Sync Digest
 
+## 2026-10-15 03:08 CEST
+
+3 new, 0 updated, 2 outdated, 0 deleted.
+
+### New events
+
+- **You Might Like This @ RADIUS, Delft** - Thu 12 Nov 2026, 20:00 - https://thehmm.nl/event/you-might-like-this-radius-delft/
+- **Hackerspace Social Evening** - Wed 13 Jan 2027, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2027-01-13/hackerspace-social-evening
+- **Chaos Amsterdam** - Thu 14 Jan 2027, 20:00 - Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2027-01-14/chaos-amsterdam
+
+### Outdated events
+
+- **Hackerspace Social Evening** - Wed 14 Oct 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-10-14/hackerspace-social-evening
+- **The politics of the internet** - Wed 14 Oct 2026, 20:00 - De Balie, Kleine-Gartmanplantsoen 10, 1017 RR Amsterdam - https://debalie.nl/programma/the-politics-of-the-internet-14-10-2026/
+
 ## 2026-10-14 03:30 CEST
 
 0 new, 0 updated, 0 outdated, 0 deleted.

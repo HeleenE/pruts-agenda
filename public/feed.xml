@@ -4,21 +4,7 @@
     <title>Pruts Agenda</title>
     <link>https://heleene.github.io/pruts-agenda/</link>
     <description>Upcoming hacker, maker and critical technology events.</description>
-    <lastBuildDate>Wed, 14 Oct 2026 01:30:32 GMT</lastBuildDate>
-    <item>
-      <title>Hackerspace Social Evening</title>
-      <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-10-14/hackerspace-social-evening</link>
-      <guid isPermaLink="false">pruts-agenda:02a4e4f87d64eca47b5549628e3e9ec8823d650ad2557293da8ab46cede648a2</guid>
-      <pubDate>Wed, 14 Oct 2026 17:30:00 GMT</pubDate>
-      <description>14 Oct 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
-    </item>
-    <item>
-      <title>The politics of the internet</title>
-      <link>https://debalie.nl/programma/the-politics-of-the-internet-14-10-2026/</link>
-      <guid isPermaLink="false">pruts-agenda:5c93ec1774229c525a461f1b93643f9979b7b4284d0f7a11e8753c8d5f51c584</guid>
-      <pubDate>Wed, 14 Oct 2026 18:00:00 GMT</pubDate>
-      <description>14 Oct 2026, 20:00 - De Balie, Kleine-Gartmanplantsoen 10, 1017 RR Amsterdam - Critical Infrastructure Lab - Britt Paris examines the architecture of power embedded in the internet and asks how digital infrastructure could be organized around public values rather than private interests, with an artistic intermezzo by Jen Liu.</description>
-    </item>
+    <lastBuildDate>Thu, 15 Oct 2026 01:08:07 GMT</lastBuildDate>
     <item>
       <title>Open hackathon at the Critical Infrastructure Lab</title>
       <link>https://www.criticalinfralab.net/upcoming/?id=1920</link>
@@ -202,6 +188,13 @@
       <description>12 Nov 2026, 14:00 - Pakhuis de Zwijger - Long-standing international rules, financial institutions and technological paradigms are shifting substantially. The world we’ve built is changing and with it, some of the assumptions we’ve taken for granted. So, what comes After Growth?</description>
     </item>
     <item>
+      <title>You Might Like This @ RADIUS, Delft</title>
+      <link>https://thehmm.nl/event/you-might-like-this-radius-delft/</link>
+      <guid isPermaLink="false">pruts-agenda:9827a45aeab2c246909e674b328886046732721f3fbee7aaffffedffa8fdceda</guid>
+      <pubDate>Thu, 12 Nov 2026 19:00:00 GMT</pubDate>
+      <description>12 Nov 2026, 20:00 - The Hmm - Join us for You Might Like This @ RADIUS in Delft, where six artists, researchers, and makers will share their explorations of and encounters with social media and algorithmic systems. We’re celebrating our 10th anniversary this fall by reflecting on the algorithmic feed, whic...</description>
+    </item>
+    <item>
       <title>ABC Community  Bike Repair</title>
       <link>https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-17/abc-community-bike-repair</link>
       <guid isPermaLink="false">pruts-agenda:ed48d69649266ffb9f16afd7ea9ad2c77416f6e0f8bdb8c5f2e7d48fb3eff5b8</guid>
@@ -354,6 +347,20 @@
       <guid isPermaLink="false">pruts-agenda:080db946ee8138aa81c2b1aabc5510a78fe9808600d89b04be09abf0e7d68fc8</guid>
       <pubDate>Wed, 06 Jan 2027 18:30:00 GMT</pubDate>
       <description>06 Jan 2027, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
+    </item>
+    <item>
+      <title>Hackerspace Social Evening</title>
+      <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2027-01-13/hackerspace-social-evening</link>
+      <guid isPermaLink="false">pruts-agenda:972e81edbc07d815ae874f5bff8d3ce4db39712ad748cc457e1779344f848856</guid>
+      <pubDate>Wed, 13 Jan 2027 18:30:00 GMT</pubDate>
+      <description>13 Jan 2027, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
+    </item>
+    <item>
+      <title>Chaos Amsterdam</title>
+      <link>https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2027-01-14/chaos-amsterdam</link>
+      <guid isPermaLink="false">pruts-agenda:c73728592be9fd9094a457d2f10eae0348e32642d04d8d6ef6cfcb42093464ed</guid>
+      <pubDate>Thu, 14 Jan 2027 19:00:00 GMT</pubDate>
+      <description>14 Jan 2027, 20:00 - Budapest Pesthuislaan  Amsterdam Netherlands - Radar - A chaostreff in Amsterdam We meet every other Thursday. All creatures welcome. https://chaos.amsterdam/ Entrance is -in- the garden!</description>
     </item>
     <item>
       <title>FAB27 Oulu</title>
