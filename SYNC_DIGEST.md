@@ -1,5 +1,17 @@
 # Pruts Agenda Sync Digest
 
+## 2026-10-16 02:55 CEST
+
+1 new, 0 updated, 0 outdated, 1 deleted.
+
+### New events
+
+- **Celebrating 10 Years of The Hmm + Book Launch** - Fri 11 Dec 2026, 19:00 - https://thehmm.nl/event/celebrating-10-years-of-the-hmm-book-launch/
+
+### Deleted events
+
+- **Celebrating 10 Years of The Hmm + Book Launch** - Fri 11 Dec 2026, 19:00 - https://thehmm.nl/event/celebrating-10-years-of-the-hmm-book-launch/
+
 ## 2026-10-15 03:08 CEST
 
 3 new, 0 updated, 2 outdated, 0 deleted.
