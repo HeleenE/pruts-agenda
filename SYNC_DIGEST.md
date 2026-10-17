@@ -1,5 +1,13 @@
 # Pruts Agenda Sync Digest
 
+## 2026-10-17 02:56 CEST
+
+0 new, 0 updated, 1 outdated, 0 deleted.
+
+### Outdated events
+
+- **Open hackathon at the Critical Infrastructure Lab** - Fri 16 Oct 2026 - UvA BG1, rooms 0.12 and 0.16, Turfdraagsterpad 9, 1012 XT Amsterdam - https://www.criticalinfralab.net/upcoming/?id=1920
+
 ## 2026-10-16 02:55 CEST
 
 1 new, 0 updated, 0 outdated, 1 deleted.
