@@ -1,5 +1,13 @@
 # Pruts Agenda Sync Digest
 
+## 2026-10-20 03:23 CEST
+
+0 new, 0 updated, 1 outdated, 0 deleted.
+
+### Outdated events
+
+- **Societal Challenges around Post-Quantum Cryptography** - Mon 19 Oct 2026, 17:00 - SPUI25, Spui 25-27, Amsterdam - https://www.spui25.nl/programma/societal-challenges-around-post-quantum-cryptography
+
 ## 2026-10-19 02:39 CEST
 
 0 new, 0 updated, 0 outdated, 0 deleted.
