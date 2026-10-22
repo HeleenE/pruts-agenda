@@ -4,28 +4,7 @@
     <title>Pruts Agenda</title>
     <link>https://heleene.github.io/pruts-agenda/</link>
     <description>Upcoming hacker, maker and critical technology events.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 01:09:16 GMT</lastBuildDate>
-    <item>
-      <title>proxycafe - RISE AGAINST BIG TECH</title>
-      <link>https://radar.squat.net/en/proxycafe-rise-against-big-tech</link>
-      <guid isPermaLink="false">pruts-agenda:80fa4c0102d56bc1e7a71b1746f0de3e8a7d16f4269d75faee1b4f67286b4667</guid>
-      <pubDate>Wed, 21 Oct 2026 17:00:00 GMT</pubDate>
-      <description>21 Oct 2026, 19:00 - Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas - Radar - We are living inside a sci-fi book. Which narrative of resistance are we going to write? In this talk we want to open a discussion, talk about the resistance to big tech. Which kind of alternatives are we working on? https://riseagainstbig.tech/ Proxycafe, free software worksh...</description>
-    </item>
-    <item>
-      <title>Hackerspace Social Evening</title>
-      <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-10-21/hackerspace-social-evening</link>
-      <guid isPermaLink="false">pruts-agenda:9b84a1bc35682176bce547cb791524607d75e82ada72bfdf1242ae5da7fa081f</guid>
-      <pubDate>Wed, 21 Oct 2026 17:30:00 GMT</pubDate>
-      <description>21 Oct 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
-    </item>
-    <item>
-      <title>Algoritmische besluitvorming</title>
-      <link>https://dezwijger.nl/programma/algoritmische-besluitvorming</link>
-      <guid isPermaLink="false">pruts-agenda:39475fa7b9c12069202b8bac1c254a5014fa9bc8ea117fef29acc19b107636ac</guid>
-      <pubDate>Wed, 21 Oct 2026 18:00:00 GMT</pubDate>
-      <description>21 Oct 2026, 20:00 - Grote Zaal PDZ - Pakhuis de Zwijger - Wie beslist er nog als het algoritme de overheid stuurt? En vinden we dat écht erg?</description>
-    </item>
+    <lastBuildDate>Thu, 22 Oct 2026 01:07:14 GMT</lastBuildDate>
     <item>
       <title>Chaos Amsterdam</title>
       <link>https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-10-22/chaos-amsterdam</link>
@@ -333,6 +312,13 @@
       <guid isPermaLink="false">pruts-agenda:c73728592be9fd9094a457d2f10eae0348e32642d04d8d6ef6cfcb42093464ed</guid>
       <pubDate>Thu, 14 Jan 2027 19:00:00 GMT</pubDate>
       <description>14 Jan 2027, 20:00 - Budapest Pesthuislaan  Amsterdam Netherlands - Radar - A chaostreff in Amsterdam We meet every other Thursday. All creatures welcome. https://chaos.amsterdam/ Entrance is -in- the garden!</description>
+    </item>
+    <item>
+      <title>Hackerspace Social Evening</title>
+      <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2027-01-20/hackerspace-social-evening</link>
+      <guid isPermaLink="false">pruts-agenda:119b58631e38dd6eef62d00d3228c41f7c60fbfed53937a2ea32e6b74c4c49df</guid>
+      <pubDate>Wed, 20 Jan 2027 18:30:00 GMT</pubDate>
+      <description>20 Jan 2027, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
     </item>
     <item>
       <title>FAB27 Oulu</title>

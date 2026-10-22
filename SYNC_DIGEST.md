@@ -1,5 +1,19 @@
 # Pruts Agenda Sync Digest
 
+## 2026-10-22 03:07 CEST
+
+1 new, 0 updated, 3 outdated, 0 deleted.
+
+### New events
+
+- **Hackerspace Social Evening** - Wed 20 Jan 2027, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2027-01-20/hackerspace-social-evening
+
+### Outdated events
+
+- **proxycafe - RISE AGAINST BIG TECH** - Wed 21 Oct 2026, 19:00 - Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas - https://radar.squat.net/en/proxycafe-rise-against-big-tech
+- **Hackerspace Social Evening** - Wed 21 Oct 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-10-21/hackerspace-social-evening
+- **Algoritmische besluitvorming** - Wed 21 Oct 2026, 20:00 - Grote Zaal PDZ - https://dezwijger.nl/programma/algoritmische-besluitvorming
+
 ## 2026-10-21 03:09 CEST
 
 0 new, 0 updated, 0 outdated, 0 deleted.
