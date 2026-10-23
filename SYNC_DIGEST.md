@@ -1,5 +1,13 @@
 # Pruts Agenda Sync Digest
 
+## 2026-10-23 03:07 CEST
+
+0 new, 0 updated, 0 outdated, 0 deleted.
+
+### Source warnings
+
+- Unavailable: Radar
+
 ## 2026-10-22 03:07 CEST
 
 1 new, 0 updated, 3 outdated, 0 deleted.
