@@ -1,5 +1,18 @@
 # Pruts Agenda Sync Digest
 
+## 2026-10-24 03:17 CEST
+
+2 new, 0 updated, 1 outdated, 0 deleted.
+
+### New events
+
+- **Open Socials Club** - Thu 12 Nov 2026, 17:00 - Waag Futurelab, Nieuwmarkt 4, 1012CR Amsterdam - https://waag.org/en/event/open-socials-club
+- **Open Socials Club: moderation** - Thu 10 Dec 2026, 17:00 - Waag Futurelab, Nieuwmarkt 4, 1012CR Amsterdam - https://waag.org/en/event/open-socials-club-dec
+
+### Outdated events
+
+- **National Design Debate 2026: Shaping Europe** - Fri 23 Oct 2026, 15:00 - Evoluon, Noord Brabantlaan 1A, Eindhoven - https://waag.org/en/event/national-design-debate-2026-shaping-europe
+
 ## 2026-10-23 03:07 CEST
 
 0 new, 0 updated, 0 outdated, 0 deleted.
