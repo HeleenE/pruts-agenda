@@ -1,5 +1,13 @@
 # Pruts Agenda Sync Digest
 
+## 2026-10-25 02:43 CEST
+
+0 new, 0 updated, 1 outdated, 0 deleted.
+
+### Outdated events
+
+- **Symposihmm 📡 Capture & Control** - Sat 24 Oct 2026, 11:00 - https://thehmm.nl/event/symposihmm-%f0%9f%93%a1-capture-control/
+
 ## 2026-10-24 03:17 CEST
 
 2 new, 0 updated, 1 outdated, 0 deleted.
