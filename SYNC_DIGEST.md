@@ -1,5 +1,13 @@
 # Pruts Agenda Sync Digest
 
+## 2026-10-26 03:27 CET
+
+0 new, 0 updated, 1 outdated, 0 deleted.
+
+### Outdated events
+
+- **The nature of our monetary system** - Sun 25 Oct 2026, 12:30 - Waag Futurelab, Nieuwmarkt 4, 1012CR Amsterdam - https://waag.org/en/event/nature-our-monetary-system
+
 ## 2026-10-25 02:43 CEST
 
 0 new, 0 updated, 1 outdated, 0 deleted.
