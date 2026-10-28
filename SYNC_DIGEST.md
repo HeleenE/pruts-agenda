@@ -1,5 +1,18 @@
 # Pruts Agenda Sync Digest
 
+## 2026-10-28 04:13 CET
+
+2 new, 0 updated, 1 outdated, 0 deleted.
+
+### New events
+
+- **QUACK Community hang-out** - Sun 01 Nov 2026, 12:00 - Amsterdam Nederland, The Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/quack-queers-undoing-ableism-care-kollective/2026-11-01/quack-community-hang-out
+- **Hackerspace Social Evening** - Wed 27 Jan 2027, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2027-01-27/hackerspace-social-evening
+
+### Outdated events
+
+- **Conversations That Matter: What Do We Leave Behind Online?** - Tue 27 Oct 2026, 19:30 - Studio PDZ - https://dezwijger.nl/programma/conversations-that-matter-what-do-we-leave-behind-online
+
 ## 2026-10-27 04:02 CET
 
 0 new, 0 updated, 0 outdated, 0 deleted.

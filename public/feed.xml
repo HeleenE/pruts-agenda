@@ -4,14 +4,7 @@
     <title>Pruts Agenda</title>
     <link>https://heleene.github.io/pruts-agenda/</link>
     <description>Upcoming hacker, maker and critical technology events.</description>
-    <lastBuildDate>Tue, 27 Oct 2026 03:02:00 GMT</lastBuildDate>
-    <item>
-      <title>Conversations That Matter: What Do We Leave Behind Online?</title>
-      <link>https://dezwijger.nl/programma/conversations-that-matter-what-do-we-leave-behind-online</link>
-      <guid isPermaLink="false">pruts-agenda:347ac5d8a3300a01e8df28596533b17a20696c8ce305a5e06fb68418d7fa0ed2</guid>
-      <pubDate>Tue, 27 Oct 2026 18:30:00 GMT</pubDate>
-      <description>27 Oct 2026, 19:30 - Studio PDZ - Pakhuis de Zwijger - What happens to our digital selves when we die?</description>
-    </item>
+    <lastBuildDate>Wed, 28 Oct 2026 03:13:17 GMT</lastBuildDate>
     <item>
       <title>Hackerspace Social Evening</title>
       <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-10-28/hackerspace-social-evening</link>
@@ -39,6 +32,13 @@
       <guid isPermaLink="false">pruts-agenda:7fa32419d9094e8eda459f241a4df7383b08178f5a539ff8d45863d744b2f764</guid>
       <pubDate>Sat, 31 Oct 2026 18:00:00 GMT</pubDate>
       <description>31 Oct 2026, 19:00 - The Hmm - The Hmm presents AI, AI, AI @ Brainwash festival We use algorithms, platforms and AI-driven tools every day, often without really understanding what’s happening behind the screen. The Hmm’s educational programme, ‘ai, ai, ai’, turns these invisible systems into something you c...</description>
+    </item>
+    <item>
+      <title>QUACK Community hang-out</title>
+      <link>https://radar.squat.net/en/event/amsterdam/quack-queers-undoing-ableism-care-kollective/2026-11-01/quack-community-hang-out</link>
+      <guid isPermaLink="false">pruts-agenda:0e12bb0fc70fb57b449470f9772951c1aac35cb5eb2b2f38dcd0332c6a8207c3</guid>
+      <pubDate>Sun, 01 Nov 2026 11:00:00 GMT</pubDate>
+      <description>01 Nov 2026, 12:00 - Amsterdam Nederland, The Budapest Pesthuislaan  Amsterdam Netherlands - Radar - Our community gatherings are for everyone who experiences ableism, including (but not limited to) neurodiverse, disabled, chronically ill and mad people. Have you diagnosed yourself? You are welcome! Not sure if you are disabled, neurodiverse (etc.) enough for this gathering?...</description>
     </item>
     <item>
       <title>Anarchist Repair Cafe &amp; end of 10</title>
@@ -305,6 +305,13 @@
       <guid isPermaLink="false">pruts-agenda:119b58631e38dd6eef62d00d3228c41f7c60fbfed53937a2ea32e6b74c4c49df</guid>
       <pubDate>Wed, 20 Jan 2027 18:30:00 GMT</pubDate>
       <description>20 Jan 2027, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
+    </item>
+    <item>
+      <title>Hackerspace Social Evening</title>
+      <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2027-01-27/hackerspace-social-evening</link>
+      <guid isPermaLink="false">pruts-agenda:7d4b0ed194e119b37741970fe94f87ca59c9fcabc78f2eb218ed5319a35d4e00</guid>
+      <pubDate>Wed, 27 Jan 2027 18:30:00 GMT</pubDate>
+      <description>27 Jan 2027, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
     </item>
     <item>
       <title>FAB27 Oulu</title>
