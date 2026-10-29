@@ -4,21 +4,7 @@
     <title>Pruts Agenda</title>
     <link>https://heleene.github.io/pruts-agenda/</link>
     <description>Upcoming hacker, maker and critical technology events.</description>
-    <lastBuildDate>Wed, 28 Oct 2026 03:13:17 GMT</lastBuildDate>
-    <item>
-      <title>Hackerspace Social Evening</title>
-      <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-10-28/hackerspace-social-evening</link>
-      <guid isPermaLink="false">pruts-agenda:1f87952e8153fff7bb9088c5894e8cac1b885a677950a1a0faa2a7ab4dd091b2</guid>
-      <pubDate>Wed, 28 Oct 2026 18:30:00 GMT</pubDate>
-      <description>28 Oct 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
-    </item>
-    <item>
-      <title>Tech voor een duurzaam gebouwde omgeving</title>
-      <link>https://dezwijger.nl/programma/tech-voor-een-duurzaam-gebouwde-omgeving</link>
-      <guid isPermaLink="false">pruts-agenda:2c8d94c794dd1db2d549c1c3a8216480db56aad594ec23e3c4be84cf520e0864</guid>
-      <pubDate>Wed, 28 Oct 2026 19:00:00 GMT</pubDate>
-      <description>28 Oct 2026, 20:00 - IJzaal PDZ - Pakhuis de Zwijger - Over de rol van big data, BIM, digitale tweelingen, GIS en andere technologie bij duurzame en toekomstbestendige stedelijke ontwikkeling.</description>
-    </item>
+    <lastBuildDate>Thu, 29 Oct 2026 03:38:29 GMT</lastBuildDate>
     <item>
       <title>WICCON 2026</title>
       <link>https://wiccon.nl/</link>
@@ -312,6 +298,13 @@
       <guid isPermaLink="false">pruts-agenda:7d4b0ed194e119b37741970fe94f87ca59c9fcabc78f2eb218ed5319a35d4e00</guid>
       <pubDate>Wed, 27 Jan 2027 18:30:00 GMT</pubDate>
       <description>27 Jan 2027, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
+    </item>
+    <item>
+      <title>Chaos Amsterdam</title>
+      <link>https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2027-01-28/chaos-amsterdam</link>
+      <guid isPermaLink="false">pruts-agenda:b937d34bf7b29c535148a35275356ae2ebd8ea6a7d72debb18204afd0fac51c0</guid>
+      <pubDate>Thu, 28 Jan 2027 19:00:00 GMT</pubDate>
+      <description>28 Jan 2027, 20:00 - Budapest Pesthuislaan  Amsterdam Netherlands - Radar - A chaostreff in Amsterdam We meet every other Thursday. All creatures welcome. https://chaos.amsterdam/ Entrance is -in- the garden!</description>
     </item>
     <item>
       <title>FAB27 Oulu</title>

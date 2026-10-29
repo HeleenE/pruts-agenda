@@ -1,5 +1,18 @@
 # Pruts Agenda Sync Digest
 
+## 2026-10-29 04:38 CET
+
+1 new, 0 updated, 2 outdated, 0 deleted.
+
+### New events
+
+- **Chaos Amsterdam** - Thu 28 Jan 2027, 20:00 - Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2027-01-28/chaos-amsterdam
+
+### Outdated events
+
+- **Hackerspace Social Evening** - Wed 28 Oct 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-10-28/hackerspace-social-evening
+- **Tech voor een duurzaam gebouwde omgeving** - Wed 28 Oct 2026, 20:00 - IJzaal PDZ - https://dezwijger.nl/programma/tech-voor-een-duurzaam-gebouwde-omgeving
+
 ## 2026-10-28 04:13 CET
 
 2 new, 0 updated, 1 outdated, 0 deleted.
