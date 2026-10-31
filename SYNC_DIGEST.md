@@ -1,5 +1,18 @@
 # Pruts Agenda Sync Digest
 
+## 2026-10-31 04:25 CET
+
+0 new, 1 updated, 1 outdated, 0 deleted.
+
+### Updated events
+
+- **Suggested For You: 10 Years of The Hmm** - Fri 11 Dec 2026, 19:00 - https://thehmm.nl/event/celebrating-10-years-of-the-hmm-book-launch/
+  - title: Celebrating 10 Years of The Hmm + Book Launch → Suggested For You: 10 Years of The Hmm
+
+### Outdated events
+
+- **WICCON 2026** - Thu 29 Oct 2026, 09:00 - De Lichtfabriek, Energieplein 73, 2031 TC Haarlem - https://wiccon.nl/
+
 ## 2026-10-30 04:41 CET
 
 0 new, 0 updated, 0 outdated, 0 deleted.
