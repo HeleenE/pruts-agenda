@@ -1,5 +1,13 @@
 # Pruts Agenda Sync Digest
 
+## 2026-11-01 04:26 CET
+
+0 new, 0 updated, 1 outdated, 0 deleted.
+
+### Outdated events
+
+- **The Hmm @ Brainwash Festival** - Sat 31 Oct 2026, 19:00 - https://thehmm.nl/event/the-hmm-brainwash-festival/
+
 ## 2026-10-31 04:25 CET
 
 0 new, 1 updated, 1 outdated, 0 deleted.
