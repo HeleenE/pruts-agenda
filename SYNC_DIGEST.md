@@ -1,5 +1,13 @@
 # Pruts Agenda Sync Digest
 
+## 2026-11-02 04:35 CET
+
+0 new, 0 updated, 1 outdated, 0 deleted.
+
+### Outdated events
+
+- **QUACK Community hang-out** - Sun 01 Nov 2026, 12:00 - Amsterdam Nederland, The Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/quack-queers-undoing-ableism-care-kollective/2026-11-01/quack-community-hang-out
+
 ## 2026-11-01 04:26 CET
 
 0 new, 0 updated, 1 outdated, 0 deleted.
