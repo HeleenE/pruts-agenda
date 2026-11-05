@@ -1,5 +1,18 @@
 # Pruts Agenda Sync Digest
 
+## 2026-11-05 05:24 CET
+
+2 new, 0 updated, 1 outdated, 0 deleted.
+
+### New events
+
+- **Eternal Homecoming** - Sat 14 Nov 2026, 20:30 - Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/intimate-sessions/2026-11-14/eternal-homecoming
+- **Hackerspace Social Evening** - Wed 03 Feb 2027, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2027-02-03/hackerspace-social-evening
+
+### Outdated events
+
+- **Hackerspace Social Evening** - Wed 04 Nov 2026, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-11-04/hackerspace-social-evening
+
 ## 2026-11-04 05:02 CET
 
 0 new, 0 updated, 0 outdated, 0 deleted.
