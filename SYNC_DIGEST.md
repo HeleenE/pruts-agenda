@@ -1,5 +1,15 @@
 # Pruts Agenda Sync Digest
 
+## 2026-11-06 05:22 CET
+
+0 new, 0 updated, 3 outdated, 0 deleted.
+
+### Outdated events
+
+- **Cleaning without contaminating** - Thu 05 Nov 2026, 19:30 - Waag Futurelab, Nieuwmarkt 4, 1012CR Amsterdam - https://waag.org/en/event/cleaning-without-contaminating
+- **Vierkante ogen** - Thu 05 Nov 2026, 19:30 - IJzaal PDZ - https://dezwijger.nl/programma/vierkante-ogen
+- **Chaos Amsterdam** - Thu 05 Nov 2026, 20:00 - Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2026-11-05/chaos-amsterdam
+
 ## 2026-11-05 05:24 CET
 
 2 new, 0 updated, 1 outdated, 0 deleted.
