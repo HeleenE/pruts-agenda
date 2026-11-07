@@ -1,5 +1,13 @@
 # Pruts Agenda Sync Digest
 
+## 2026-11-07 04:51 CET
+
+1 new, 0 updated, 0 outdated, 0 deleted.
+
+### New events
+
+- **3D Sunday: Make a Thing to Fix a Thing** - Sun 15 Nov 2026, 13:00 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-11-15/3d-sunday-make-thing-fix-thing
+
 ## 2026-11-06 05:22 CET
 
 0 new, 0 updated, 3 outdated, 0 deleted.
