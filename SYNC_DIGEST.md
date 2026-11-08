@@ -1,5 +1,13 @@
 # Pruts Agenda Sync Digest
 
+## 2026-11-08 04:32 CET
+
+0 new, 0 updated, 1 outdated, 0 deleted.
+
+### Outdated events
+
+- **SOLD OUT! Cyberdeck workshop: build your own 'mesh-berry' 🫐 #2** - Sat 07 Nov 2026, 13:00 - https://thehmm.nl/event/cyberdeck-workshop-build-your-own-mesh-berry-2/
+
 ## 2026-11-07 04:51 CET
 
 1 new, 0 updated, 0 outdated, 0 deleted.
