@@ -4,21 +4,7 @@
     <title>Pruts Agenda</title>
     <link>https://heleene.github.io/pruts-agenda/</link>
     <description>Upcoming hacker, maker and critical technology events.</description>
-    <lastBuildDate>Thu, 12 Nov 2026 05:00:31 GMT</lastBuildDate>
-    <item>
-      <title>TEDxAmsterdam 2026: After Growth</title>
-      <link>https://dezwijger.nl/programma/tedxamsterdam-2026-after-growth</link>
-      <guid isPermaLink="false">pruts-agenda:084ecb3e7fd0d9c60701514d9e8967a1d27f0d6d2a0bcfdbd7b7d10ed63c6a12</guid>
-      <pubDate>Thu, 12 Nov 2026 13:00:00 GMT</pubDate>
-      <description>12 Nov 2026, 14:00 - Pakhuis de Zwijger - Long-standing international rules, financial institutions and technological paradigms are shifting substantially. The world we’ve built is changing and with it, some of the assumptions we’ve taken for granted. So, what comes After Growth?</description>
-    </item>
-    <item>
-      <title>You Might Like This @ RADIUS, Delft</title>
-      <link>https://thehmm.nl/event/you-might-like-this-radius-delft/</link>
-      <guid isPermaLink="false">pruts-agenda:9827a45aeab2c246909e674b328886046732721f3fbee7aaffffedffa8fdceda</guid>
-      <pubDate>Thu, 12 Nov 2026 19:00:00 GMT</pubDate>
-      <description>12 Nov 2026, 20:00 - The Hmm - Join us for You Might Like This @ RADIUS in Delft, where six artists, researchers, and makers will share their explorations of and encounters with social media and algorithmic systems. We’re celebrating our 10th anniversary this fall by reflecting on the algorithmic feed, whic...</description>
-    </item>
+    <lastBuildDate>Fri, 13 Nov 2026 04:15:24 GMT</lastBuildDate>
     <item>
       <title>Eternal Homecoming</title>
       <link>https://radar.squat.net/en/event/amsterdam/intimate-sessions/2026-11-14/eternal-homecoming</link>
@@ -39,6 +25,13 @@
       <guid isPermaLink="false">pruts-agenda:ed48d69649266ffb9f16afd7ea9ad2c77416f6e0f8bdb8c5f2e7d48fb3eff5b8</guid>
       <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
       <description>17 Nov 2026, 13:00 - Vrankrijk Spuistraat 216  Amsterdam Pays-Bas - Radar - ABC Community bike repair event Is your bike making a weird noise? Do you just need a 15mm wrench to tighten the wheels? Or do you want to pimp your ride? ABC is hosting a community bike repair session at the Vrankrijk on the 1st and 3rd Tuesdays of the month from 13:00-18:00....</description>
+    </item>
+    <item>
+      <title>Tech Workers Coalition Public Gathering</title>
+      <link>https://radar.squat.net/en/event/amsterdam/joes-garage/2026-11-18/tech-workers-coalition-public-gathering</link>
+      <guid isPermaLink="false">pruts-agenda:c67c277c7e58c448936b6a7d148864f1aef26247da10801279065c035ebca63c</guid>
+      <pubDate>Wed, 18 Nov 2026 18:00:00 GMT</pubDate>
+      <description>18 Nov 2026, 19:00 - Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas - Radar - Do you work in a tech-adjacent role or field or are otherwise interested in tech from a worker's perspective? Join us at 19:00 on 18 November at Joe's Garage for an informal gathering. If you have any topics you want to discuss or share about your workplace, the industry in ge...</description>
     </item>
     <item>
       <title>Hackerspace Social Evening</title>
@@ -235,6 +228,20 @@
       <guid isPermaLink="false">pruts-agenda:c51964592d2524228beed590f8ca166e861a068f1f605e3ad054f58ecbb13eb6</guid>
       <pubDate>Wed, 03 Feb 2027 18:30:00 GMT</pubDate>
       <description>03 Feb 2027, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
+    </item>
+    <item>
+      <title>Hackerspace Social Evening</title>
+      <link>https://radar.squat.net/en/event/amsterdam/technologia-incognita/2027-02-10/hackerspace-social-evening</link>
+      <guid isPermaLink="false">pruts-agenda:7180062f6bf35902ef54f91ccdeaead20686accaa741df0fa118819a7b31a787</guid>
+      <pubDate>Wed, 10 Feb 2027 18:30:00 GMT</pubDate>
+      <description>10 Feb 2027, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - Radar - Weekly social evening, every Wednesday from 19:30 till late, open to everyone! Non-members welcome, guests welcome, expats welcome, visiting hackers welcome, refugees welcome! Our phone number is listed at the front door. Give it a call, wait through the automated message, and...</description>
+    </item>
+    <item>
+      <title>Chaos Amsterdam</title>
+      <link>https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2027-02-11/chaos-amsterdam</link>
+      <guid isPermaLink="false">pruts-agenda:6d4ff3032ac7a2a0057542097926f4ab6e7ffe5c854afc0142272f75ec1d00d4</guid>
+      <pubDate>Thu, 11 Feb 2027 19:00:00 GMT</pubDate>
+      <description>11 Feb 2027, 20:00 - Budapest Pesthuislaan  Amsterdam Netherlands - Radar - A chaostreff in Amsterdam We meet every other Thursday. All creatures welcome. https://chaos.amsterdam/ Entrance is -in- the garden!</description>
     </item>
     <item>
       <title>FAB27 Oulu</title>

@@ -1,5 +1,20 @@
 # Pruts Agenda Sync Digest
 
+## 2026-11-13 05:15 CET
+
+3 new, 0 updated, 2 outdated, 0 deleted.
+
+### New events
+
+- **Tech Workers Coalition Public Gathering** - Wed 18 Nov 2026, 19:00 - Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas - https://radar.squat.net/en/event/amsterdam/joes-garage/2026-11-18/tech-workers-coalition-public-gathering
+- **Hackerspace Social Evening** - Wed 10 Feb 2027, 19:30 - Technologia Incognita Louwesweg 1 Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/technologia-incognita/2027-02-10/hackerspace-social-evening
+- **Chaos Amsterdam** - Thu 11 Feb 2027, 20:00 - Budapest Pesthuislaan  Amsterdam Netherlands - https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2027-02-11/chaos-amsterdam
+
+### Outdated events
+
+- **TEDxAmsterdam 2026: After Growth** - Thu 12 Nov 2026, 14:00 - https://dezwijger.nl/programma/tedxamsterdam-2026-after-growth
+- **You Might Like This @ RADIUS, Delft** - Thu 12 Nov 2026, 20:00 - https://thehmm.nl/event/you-might-like-this-radius-delft/
+
 ## 2026-11-12 06:00 CET
 
 0 new, 0 updated, 0 outdated, 0 deleted.

@@ -6,70 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pruts Agenda
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
-UID:084ecb3e7fd0d9c60701514d9e8967a1d27f0d6d2a0bcfdbd7b7d10ed63c6a12@pruts-
- agenda.local
-X-PRUTS-SOURCE:Pakhuis de Zwijger
-X-PRUTS-UUID:manual:pdz-tedxamsterdam-2026-after-growth
-X-PRUTS-RADAR-ID:pdz-tedxamsterdam-2026-after-growth
-X-PRUTS-OCCURRENCE-ID:manual:pdz-tedxamsterdam-2026-after-growth:2026-11-12
- T14:00:00+01:00
-DTSTAMP:20261112T050031Z
-SUMMARY:TEDxAmsterdam 2026: After Growth
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART:20261112T130000Z
-DTEND:20261112T150000Z
-DESCRIPTION:Long-standing international rules\, financial institutions and
-  technological paradigms are shifting substantially. The world we’ve bui
- lt is changing and with it\, some of the assumptions we’ve taken for gra
- nted. So\, what comes After Growth?
-URL:https://dezwijger.nl/programma/tedxamsterdam-2026-after-growth
-END:VEVENT
-BEGIN:VEVENT
-UID:9827a45aeab2c246909e674b328886046732721f3fbee7aaffffedffa8fdceda@pruts-
- agenda.local
-X-PRUTS-SOURCE:thehmm
-X-PRUTS-UUID:thehmm:10259-1794513600-1794519000@thehmm.nl
-X-PRUTS-RADAR-ID:thehmm:10259-1794513600-1794519000@thehmm.nl
-X-PRUTS-OCCURRENCE-ID:thehmm:10259-1794513600-1794519000@thehmm.nl:2026-11-
- 12T20:00:00+01:00
-DTSTAMP:20261112T050031Z
-SUMMARY:You Might Like This @ RADIUS\, Delft
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART:20261112T190000Z
-DTEND:20261112T203000Z
-DESCRIPTION:Join us for You Might Like This @ RADIUS in Delft\, where six a
- rtists\, researchers\, and makers will share their explorations of and enc
- ounters with social media and algorithmic systems. We’re celebrating our
-  10th anniversary this fall by reflecting on the algorithmic feed\, which
-  is turning 10 as well. This event explores how algorithms shape our onlin
- e environments. \nFor this event\, we’re setting up shop in Delft\, a ci
- ty we haven’t visited before\, but one with a strong connection to algor
- ithmic systems thanks to Delft University of Technology. We’re very exci
- ted to have Seda Gürses as our guest programmer. Seda is an Associate Pro
- fessor in the Department of Multi-Actor Systems at TU Delft. Her research
-  focuses on privacy engineering\, protective optimisation technologies\, s
- oftware engineering and the political economy of computational infrastruct
- ures. She is examining how technical systems intersect with social justice
-  and governance.  \nWhat you need to know\n🗓 Date: Thursday 12 Novembe
- r 2026\n📍 Location: RADIUS\, Kalverbos 20\, 2611 XW Delft\n⏰ Time: Pr
- ogram starts at 20:00 CET\, doors open at 19:30 CET\n🎟 Tickets: on-site
-  €8\,- / on-site student discount €5\,- / online livestream €5 \n♿
- ️ Accessibility note\nDue to the historic nature of the building the Wat
- er Tower is unfortunately not wheelchair-accessible. During the event we c
- an provide live closed captioning for those with hearing impairments and d
- isabilities. Please reach out to us via info@thehmm.nl\, at least 3 days b
- efore the event if possible\, if you are joining on-site and have this acc
- ess need\, so that we can reserve a seat for you within view of the screen
-  with captions. If you are joining online via our livestream\, live captio
- ning will be available as one of the streaming modes. \n🩵 This programm
- e is kindly supported by the Creative Industries Fund NL and Het Cultuurf
- onds.
-URL:https://thehmm.nl/event/you-might-like-this-radius-delft/
-CATEGORIES:The Hmm
-END:VEVENT
-BEGIN:VEVENT
 UID:4f90f32ce2824a2513eb7a54930b5956e31c625659e822db99899709af21a55d@pruts-
  agenda.local
 X-PRUTS-SOURCE:radar
@@ -77,7 +13,7 @@ X-PRUTS-UUID:97102a86-2e16-4ba3-9467-1d51b789f628
 X-PRUTS-RADAR-ID:602779
 X-PRUTS-OCCURRENCE-ID:97102a86-2e16-4ba3-9467-1d51b789f628:2026-11-14T20:30
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Eternal Homecoming
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -102,7 +38,7 @@ X-PRUTS-UUID:994900b1-3a54-445c-b5d2-f3afd4874b42
 X-PRUTS-RADAR-ID:602983
 X-PRUTS-OCCURRENCE-ID:994900b1-3a54-445c-b5d2-f3afd4874b42:2026-11-15T13:00
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:3D Sunday: Make a Thing to Fix a Thing
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -121,7 +57,7 @@ X-PRUTS-UUID:dbfd403a-edb9-4a9b-a8b0-1e5be84d318d
 X-PRUTS-RADAR-ID:593248
 X-PRUTS-OCCURRENCE-ID:dbfd403a-edb9-4a9b-a8b0-1e5be84d318d:2026-11-17T13:00
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -151,6 +87,35 @@ URL:https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-17/abc-com
  munity-bike-repair
 END:VEVENT
 BEGIN:VEVENT
+UID:c67c277c7e58c448936b6a7d148864f1aef26247da10801279065c035ebca63c@pruts-
+ agenda.local
+X-PRUTS-SOURCE:radar
+X-PRUTS-UUID:f7aff9e2-8bb0-406a-84b2-a19ca0b1b587
+X-PRUTS-RADAR-ID:603357
+X-PRUTS-OCCURRENCE-ID:f7aff9e2-8bb0-406a-84b2-a19ca0b1b587:2026-11-18T19:00
+ :00+01:00
+DTSTAMP:20261113T041524Z
+SUMMARY:Tech Workers Coalition Public Gathering
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20261118T180000Z
+DTEND:20261118T180000Z
+DESCRIPTION:Do you work in a tech-adjacent role or field or are otherwise i
+ nterested in tech from a worker's perspective? Join us at 19:00 on 18 Nove
+ mber at Joe's Garage for an informal gathering. If you have any topics you
+  want to discuss or share about your workplace\, the industry in general\,
+  or anything else\, you are very welcome to! About Tech Workers Coalition
+  Tech Workers Coalition Netherlands (techwerkers dot nl) is a community of
+  tech workers doing workplace organizing and outreach in order to take bac
+ k worker power in The Netherlands. From engineers and delivery drivers to
+  content moderators\, customer service agents\, warehouse pickers\, teache
+ rs\, and video game artists—anyone in a tech-adjacent role or workplace
+  or who has to use tech in their job can join.
+LOCATION:Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas
+URL:https://radar.squat.net/en/event/amsterdam/joes-garage/2026-11-18/tech-
+ workers-coalition-public-gathering
+END:VEVENT
+BEGIN:VEVENT
 UID:4ea7c12955533cfcca8863c84c903d7a9acd8484d98312cc3c935a4310004d26@pruts-
  agenda.local
 X-PRUTS-SOURCE:radar
@@ -158,7 +123,7 @@ X-PRUTS-UUID:394a3a0f-b833-49f9-b707-3c263f822244
 X-PRUTS-RADAR-ID:589340
 X-PRUTS-OCCURRENCE-ID:394a3a0f-b833-49f9-b707-3c263f822244:2026-11-18T19:30
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -182,7 +147,7 @@ X-PRUTS-UUID:82299576-3673-4da6-b38e-12d52cdb7e74
 X-PRUTS-RADAR-ID:577376
 X-PRUTS-OCCURRENCE-ID:82299576-3673-4da6-b38e-12d52cdb7e74:2026-11-19T20:00
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -203,7 +168,7 @@ X-PRUTS-UUID:edd01492-9ce4-47ad-9334-ebbd2e8f9d96
 X-PRUTS-RADAR-ID:589341
 X-PRUTS-OCCURRENCE-ID:edd01492-9ce4-47ad-9334-ebbd2e8f9d96:2026-11-25T19:30
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -227,7 +192,7 @@ X-PRUTS-UUID:thehmm:10171-1795636800-1795642200@thehmm.nl
 X-PRUTS-RADAR-ID:thehmm:10171-1795636800-1795642200@thehmm.nl
 X-PRUTS-OCCURRENCE-ID:thehmm:10171-1795636800-1795642200@thehmm.nl:2026-11-
  25T20:00:00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:The Hmm TO the Chinese Internet
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -277,7 +242,7 @@ X-PRUTS-UUID:manual:spui25-digitale-vrijheid-2026
 X-PRUTS-RADAR-ID:spui25-digitale-vrijheid-2026
 X-PRUTS-OCCURRENCE-ID:manual:spui25-digitale-vrijheid-2026:2026-11-26T17:00
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Gevolgd\, gemeten\, voorspeld: vrijheid in een digitale wereld
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -298,7 +263,7 @@ X-PRUTS-UUID:waag:1b3a41a8-c55f-4d32-b40d-a8820b4f6efd
 X-PRUTS-RADAR-ID:waag:1b3a41a8-c55f-4d32-b40d-a8820b4f6efd
 X-PRUTS-OCCURRENCE-ID:waag:1b3a41a8-c55f-4d32-b40d-a8820b4f6efd:2026-11-26T
  18:30:00+00:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:International Art Talent Festival
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -319,7 +284,7 @@ X-PRUTS-UUID:3b62a51c-d612-406d-a59c-e77c8d3cc301
 X-PRUTS-RADAR-ID:593253
 X-PRUTS-OCCURRENCE-ID:3b62a51c-d612-406d-a59c-e77c8d3cc301:2026-12-01T13:00
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -356,7 +321,7 @@ X-PRUTS-UUID:fa4ebcc6-a2ec-4320-8e29-cf0447a5e091
 X-PRUTS-RADAR-ID:589342
 X-PRUTS-OCCURRENCE-ID:fa4ebcc6-a2ec-4320-8e29-cf0447a5e091:2026-12-02T19:30
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -380,7 +345,7 @@ X-PRUTS-UUID:waag:bdb41954-970f-45f1-bbc0-d72bf3e9646e
 X-PRUTS-RADAR-ID:waag:bdb41954-970f-45f1-bbc0-d72bf3e9646e
 X-PRUTS-OCCURRENCE-ID:waag:bdb41954-970f-45f1-bbc0-d72bf3e9646e:2026-12-03T
  18:30:00+00:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Water quality from space
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -401,7 +366,7 @@ X-PRUTS-UUID:e7cca115-b77b-47d1-b402-8e5eb6e611bd
 X-PRUTS-RADAR-ID:577377
 X-PRUTS-OCCURRENCE-ID:e7cca115-b77b-47d1-b402-8e5eb6e611bd:2026-12-03T20:00
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -422,7 +387,7 @@ X-PRUTS-UUID:5af809da-f1a2-46da-bfd6-8984330dac28
 X-PRUTS-RADAR-ID:597113
 X-PRUTS-OCCURRENCE-ID:5af809da-f1a2-46da-bfd6-8984330dac28:2026-12-07T19:00
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Anarchist Repair Cafe & end of 10
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -451,7 +416,7 @@ X-PRUTS-UUID:98d1792a-3ebc-4597-ba63-cd413c7df5a3
 X-PRUTS-RADAR-ID:589343
 X-PRUTS-OCCURRENCE-ID:98d1792a-3ebc-4597-ba63-cd413c7df5a3:2026-12-09T19:30
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -475,7 +440,7 @@ X-PRUTS-UUID:waag:17a792f3-7cb5-4937-9932-fb3fc393dd4e
 X-PRUTS-RADAR-ID:waag:17a792f3-7cb5-4937-9932-fb3fc393dd4e
 X-PRUTS-OCCURRENCE-ID:waag:17a792f3-7cb5-4937-9932-fb3fc393dd4e:2026-12-10T
  16:00:00+00:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Open Socials Club: moderation
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -496,7 +461,7 @@ X-PRUTS-UUID:thehmm:10146-1797015600-1797037200@thehmm.nl
 X-PRUTS-RADAR-ID:thehmm:10146-1797015600-1797037200@thehmm.nl
 X-PRUTS-OCCURRENCE-ID:thehmm:10146-1797015600-1797037200@thehmm.nl:2026-12-
  11T19:00:00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Suggested For You: 10 Years of The Hmm
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -548,7 +513,7 @@ X-PRUTS-UUID:ac890608-d910-491c-8ece-0d71a43f9699
 X-PRUTS-RADAR-ID:593257
 X-PRUTS-OCCURRENCE-ID:ac890608-d910-491c-8ece-0d71a43f9699:2026-12-15T13:00
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:ABC Community  Bike Repair
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -585,7 +550,7 @@ X-PRUTS-UUID:fc42e61c-de36-42d7-91d5-d9e312627a2d
 X-PRUTS-RADAR-ID:589344
 X-PRUTS-OCCURRENCE-ID:fc42e61c-de36-42d7-91d5-d9e312627a2d:2026-12-16T19:30
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -609,7 +574,7 @@ X-PRUTS-UUID:97161c47-cdd0-46ba-9edf-a3d3e8e8ca45
 X-PRUTS-RADAR-ID:577378
 X-PRUTS-OCCURRENCE-ID:97161c47-cdd0-46ba-9edf-a3d3e8e8ca45:2026-12-17T20:00
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -630,7 +595,7 @@ X-PRUTS-UUID:67c9e384-6d34-4179-bbeb-4ebe0ba5e3fa
 X-PRUTS-RADAR-ID:589345
 X-PRUTS-OCCURRENCE-ID:67c9e384-6d34-4179-bbeb-4ebe0ba5e3fa:2026-12-23T19:30
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -653,7 +618,7 @@ X-PRUTS-SOURCE:
 X-PRUTS-UUID:manual:ccc-40c3-2026
 X-PRUTS-RADAR-ID:ccc-40c3-2026
 X-PRUTS-OCCURRENCE-ID:manual:ccc-40c3-2026:2026-12-27T00:00:00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:40th Chaos Communication Congress
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -672,7 +637,7 @@ X-PRUTS-UUID:b5c2aa13-f1d8-4be1-87d3-bd4ae1f82c53
 X-PRUTS-RADAR-ID:589346
 X-PRUTS-OCCURRENCE-ID:b5c2aa13-f1d8-4be1-87d3-bd4ae1f82c53:2026-12-30T19:30
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -696,7 +661,7 @@ X-PRUTS-UUID:ce0d6607-7d08-4ddf-b9f2-f7cfac96ebc7
 X-PRUTS-RADAR-ID:577379
 X-PRUTS-OCCURRENCE-ID:ce0d6607-7d08-4ddf-b9f2-f7cfac96ebc7:2026-12-31T20:00
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -717,7 +682,7 @@ X-PRUTS-UUID:76425267-89cf-46a4-9d46-ff14b73cee70
 X-PRUTS-RADAR-ID:589347
 X-PRUTS-OCCURRENCE-ID:76425267-89cf-46a4-9d46-ff14b73cee70:2027-01-06T19:30
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -741,7 +706,7 @@ X-PRUTS-UUID:dc01b871-8c05-4ee5-8d3a-4aae2f2c25e9
 X-PRUTS-RADAR-ID:589348
 X-PRUTS-OCCURRENCE-ID:dc01b871-8c05-4ee5-8d3a-4aae2f2c25e9:2027-01-13T19:30
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -765,7 +730,7 @@ X-PRUTS-UUID:475ae464-11e8-4814-bb3c-30ca57ba27dd
 X-PRUTS-RADAR-ID:577380
 X-PRUTS-OCCURRENCE-ID:475ae464-11e8-4814-bb3c-30ca57ba27dd:2027-01-14T20:00
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -786,7 +751,7 @@ X-PRUTS-UUID:69ca7234-3296-4c6c-926c-b87b01815e92
 X-PRUTS-RADAR-ID:589349
 X-PRUTS-OCCURRENCE-ID:69ca7234-3296-4c6c-926c-b87b01815e92:2027-01-20T19:30
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -810,7 +775,7 @@ X-PRUTS-UUID:7804c1d9-0d0a-4136-997c-8ddf93f70752
 X-PRUTS-RADAR-ID:589350
 X-PRUTS-OCCURRENCE-ID:7804c1d9-0d0a-4136-997c-8ddf93f70752:2027-01-27T19:30
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -834,7 +799,7 @@ X-PRUTS-UUID:d82b2b7a-34b1-4896-8c39-032569573cde
 X-PRUTS-RADAR-ID:577381
 X-PRUTS-OCCURRENCE-ID:d82b2b7a-34b1-4896-8c39-032569573cde:2027-01-28T20:00
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Chaos Amsterdam
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -855,7 +820,7 @@ X-PRUTS-UUID:ddcacb40-33a5-4711-a614-1b528794b4e6
 X-PRUTS-RADAR-ID:589351
 X-PRUTS-OCCURRENCE-ID:ddcacb40-33a5-4711-a614-1b528794b4e6:2027-02-03T19:30
  :00+01:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:Hackerspace Social Evening
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -872,13 +837,58 @@ URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2027-0
 CATEGORIES:work space/diy
 END:VEVENT
 BEGIN:VEVENT
+UID:7180062f6bf35902ef54f91ccdeaead20686accaa741df0fa118819a7b31a787@pruts-
+ agenda.local
+X-PRUTS-SOURCE:radar
+X-PRUTS-UUID:0a61e485-14a7-472b-a515-1b520c31681e
+X-PRUTS-RADAR-ID:589352
+X-PRUTS-OCCURRENCE-ID:0a61e485-14a7-472b-a515-1b520c31681e:2027-02-10T19:30
+ :00+01:00
+DTSTAMP:20261113T041524Z
+SUMMARY:Hackerspace Social Evening
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20270210T183000Z
+DTEND:20270210T183000Z
+DESCRIPTION:Weekly social evening\, every Wednesday from 19:30 till late\,
+  open to everyone! Non-members welcome\, guests welcome\, expats welcome\,
+  visiting hackers welcome\, refugees welcome! Our phone number is listed a
+ t the front door. Give it a call\, wait through the automated message\, an
+ d someone should answer it and help you in.
+LOCATION:Technologia Incognita Louwesweg 1 Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/technologia-incognita/2027-0
+ 2-10/hackerspace-social-evening
+CATEGORIES:work space/diy
+END:VEVENT
+BEGIN:VEVENT
+UID:6d4ff3032ac7a2a0057542097926f4ab6e7ffe5c854afc0142272f75ec1d00d4@pruts-
+ agenda.local
+X-PRUTS-SOURCE:radar
+X-PRUTS-UUID:9932f060-4274-4833-9aa0-5251eefecf50
+X-PRUTS-RADAR-ID:577382
+X-PRUTS-OCCURRENCE-ID:9932f060-4274-4833-9aa0-5251eefecf50:2027-02-11T20:00
+ :00+01:00
+DTSTAMP:20261113T041524Z
+SUMMARY:Chaos Amsterdam
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20270211T190000Z
+DTEND:20270211T190000Z
+DESCRIPTION:A chaostreff in Amsterdam We meet every other Thursday. All cre
+ atures welcome. https://chaos.amsterdam/ Entrance is -in- the garden!
+LOCATION:Budapest Pesthuislaan  Amsterdam Netherlands
+URL:https://radar.squat.net/en/event/amsterdam/chaos-amsterdam/2027-02-11/c
+ haos-amsterdam
+CATEGORIES:bar/cafe\,discussion/presentation\,meeting\,ccc
+END:VEVENT
+BEGIN:VEVENT
 UID:5dcf5d3deac925e519d6abbf9507de696d5859c1717815547af8d8357dc3a98d@pruts-
  agenda.local
 X-PRUTS-SOURCE:
 X-PRUTS-UUID:manual:fab27-oulu-2027
 X-PRUTS-RADAR-ID:fab27-oulu-2027
 X-PRUTS-OCCURRENCE-ID:manual:fab27-oulu-2027:2027-08-01T00:00:00+02:00
-DTSTAMP:20261112T050031Z
+DTSTAMP:20261113T041524Z
 SUMMARY:FAB27 Oulu
 STATUS:CONFIRMED
 TRANSP:OPAQUE
