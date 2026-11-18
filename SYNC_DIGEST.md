@@ -1,5 +1,18 @@
 # Pruts Agenda Sync Digest
 
+## 2026-11-18 06:16 CET
+
+0 new, 1 updated, 0 outdated, 0 deleted.
+
+### Updated events
+
+- **Open Socials Meetup: moderation** - Thu 10 Dec 2026, 17:00 - Waag Futurelab, Nieuwmarkt 4, 1012CR Amsterdam - https://waag.org/en/event/open-socials-club-dec
+  - title: Open Socials Club: moderation → Open Socials Meetup: moderation
+
+### Source warnings
+
+- Unavailable: Radar
+
 ## 2026-11-17 06:50 CET
 
 0 new, 0 updated, 0 outdated, 0 deleted.
