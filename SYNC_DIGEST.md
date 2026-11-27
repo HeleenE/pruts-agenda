@@ -1,5 +1,14 @@
 # Pruts Agenda Sync Digest
 
+## 2026-11-27 06:57 CET
+
+0 new, 0 updated, 2 outdated, 0 deleted.
+
+### Outdated events
+
+- **Gevolgd, gemeten, voorspeld: vrijheid in een digitale wereld** - Thu 26 Nov 2026, 17:00 - SPUI25, Spui 25-27, Amsterdam - https://www.spui25.nl/programma/gevolgd-gemeten-voorspeld-vrijheid-in-een-digitale-wereld
+- **International Art Talent Festival** - Thu 26 Nov 2026, 19:30 - Felix Meritis, Keizersgracht 324, 1016 EZ Amsterdam - https://waag.org/en/event/international-art-talent-festival
+
 ## 2026-11-26 07:05 CET
 
 4 new, 0 updated, 2 outdated, 0 deleted.
